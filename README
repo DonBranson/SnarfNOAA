@@ -1,0 +1,6 @@
+To run:
+  ant
+
+To load data:
+  edit fetchnoaa.properties, changing the two year references to the year you want
+  ant

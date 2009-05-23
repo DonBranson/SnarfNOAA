@@ -1,0 +1,64 @@
+<wpt lat="19.28" lon="-81.35">
+	<ele>0.000000</ele>
+	<name>GRNDCAMN</name>
+	<cmt>Grand Cayman</cmt>
+	<desc>Grand Cayman</desc>
+	<sym>box</sym>
+</wpt>
+<wpt lat="19.68" lon="-80.05">
+	<ele>0.000000</ele>
+	<name>LTLCAMN</name>
+	<cmt>Little Cayman</cmt>
+	<desc>Little Cayman</desc>
+	<sym>box</sym>
+</wpt>
+<wpt lat="19.76" lon="-79.74">
+	<ele>0.000000</ele>
+	<name>CAMNBRAC</name>
+	<cmt>Cayman Brac</cmt>
+	<desc>Cayman Brac</desc>
+	<sym>box</sym>
+</wpt>
+<wpt lat="21.17" lon="-86.83">
+	<ele>0.000000</ele>
+	<name>Cancun</name>
+	<cmt>Cancun</cmt>
+	<desc>Cancun</desc>
+	<sym>large city</sym>
+</wpt>
+<wpt lat="20.62" lon="-87.07">
+	<ele>0.000000</ele>
+	<name>Playa del Carmen</name>
+	<cmt>Playa del Carmen</cmt>
+	<desc>Playa del Carmen</desc>
+	<sym>medium city</sym>
+</wpt>
+<wpt lat="20.51" lon="-86.93">
+	<ele>0.000000</ele>
+	<name>Cozumel</name>
+	<cmt>Cozumel</cmt>
+	<desc>Cozumel</desc>
+	<sym>medium city</sym>
+</wpt>
+<wpt lat="20.84" lon="-86.89">
+	<ele>0.000000</ele>
+	<name>Punta Bete</name>
+	<cmt>Punta Bete</cmt>
+	<desc>Punta Bete</desc>
+	<sym>small city</sym>
+</wpt>
+<wpt lat="28.5256" lon="-81.3817">
+	<ele>0.000000</ele>
+	<name>Orlando</name>
+	<cmt>Orlando</cmt>
+	<desc>Orlando</desc>
+	<sym>large city</sym>
+</wpt>
+<wpt lat="32.3333" lon="-64.75">
+	<ele>0.000000</ele>
+	<name>Bermuda</name>
+	<cmt>Bermuda</cmt>
+	<desc>Bermuda</desc>
+	<sym>box</sym>
+</wpt>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0"?>
+
+<project name="SnarfNOAA" default="NOAAViewer" basedir=".">
+
+	<property file="fetchnoaa.properties" />
+	<property name="app.name" value="SnarfNOAA" />
+    <property name="lib.dir" value="lib"/>
+    <property name="build.compiler" value="modern"/>
+    <property name="build" value="build"/>
+    <property name="eclipse.build.dir" value="bin"/>
+    <property name="build.classes" value="${build}/classes"/>
+    <property name="build.lib" value="${build}/lib"/>
+    <property name="build.javadoc" value="${build}/lib"/>
+    <property name="product.source" value="src/java"/>
+    <property name="product.unittests" value="src/unit"/>
+    <property name="manifest.dir" value="src/manifest"/>
+    <target name="all" depends="jar"/>
+
+    <target name="init">
+        <mkdir dir="${build}"/>
+        <mkdir dir="${build.classes}"/>
+        <mkdir dir="${build.lib}"/>
+    </target>
+
+	<path id="classpath">
+		<pathelement location="${build.classes}"/>
+		<pathelement location="lib/junit.jar"/>
+		<pathelement location="lib/log4j-1.2.14.jar"/>
+		<pathelement location="config"/>
+		<pathelement location="${lib.dir}/looks-1.3.1.jar" />
+		<pathelement location="${lib.dir}/forms-1.0.5.jar" />
+		<pathelement location="${lib.dir}/openmap.jar" />
+		<pathelement location="lib/aspectrt.jar"/>
+	</path>
+
+    <target name="build" depends="init">
+        <javac
+            srcdir="src/java"
+            destdir="${build.classes}"
+            optimize="yes"
+            deprecation="yes"
+        >
+			<classpath refid="classpath" />
+        </javac>
+
+        <javac
+            srcdir="src/unit"
+            destdir="${build.classes}"
+            optimize="yes"
+            deprecation="yes"
+        >
+			<classpath refid="classpath" />
+        </javac>
+
+    </target>
+
+    <target name="clean">
+        <delete file="${build.lib}/${app.name}.jar"/>
+        <delete file="${build.lib}/${app.name}Test.jar"/>
+        <delete dir="${build}"/>
+        <delete dir="${eclipse.build.dir}"/>
+    </target>
+
+    <target name="jar" depends="build">
+		<jar
+            basedir="${build.classes}"
+            destfile="${build.lib}/${app.name}Test.jar"
+		>
+			<include name="**/*Test.class"/>
+		</jar>
+        <jar
+            destfile="${build.lib}/${app.name}.jar"
+            manifest="${manifest.dir}/MANIFEST.IN"
+   		>
+            <fileset dir="${build.classes}"
+            	excludes="**/*Test.class"
+            />
+            <fileset file="config/log4j.xml" />
+            <fileset file="build/lib/SnarfNOAATest.jar" />
+   		</jar>
+   		<copy todir="${build.lib}" flatten="true">
+			<fileset file="lib/junit.jar" />
+			<fileset file="lib/log4j-1.2.8.jar" />
+		</copy>
+
+	</target>
+
+	<target name="load-data" depends="jar">
+		<java fork="yes" classname="junit.textui.TestRunner" 
+			taskname="junit" failonerror="true">
+			<arg value="com.moneybender.noaa.NOAAHurricaneDataTest"/>
+			<classpath refid="classpath" />
+		</java>
+	</target>
+
+	<target name="NOAAViewer" depends="build">
+		<java classname="com.moneybender.snarf.gui.NoaaViewer" fork="true">
+			<classpath refid="classpath" />
+		</java>
+	</target>
+</project>

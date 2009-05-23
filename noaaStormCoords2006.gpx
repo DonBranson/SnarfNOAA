@@ -1,0 +1,7257 @@
+<?xml version="1.0"?>
+<gpx version="1.0"
+	creator="SnarfNOAA - http://www.moneybender.com"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="http://www.topografix.com/GPX/1/0"
+	xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd"
+>
+<wpt lat="19.28" lon="-81.35">
+	<ele>0.000000</ele>
+	<name>GRNDCAMN</name>
+	<cmt>Grand Cayman</cmt>
+	<desc>Grand Cayman</desc>
+	<sym>box</sym>
+</wpt>
+<wpt lat="19.68" lon="-80.05">
+	<ele>0.000000</ele>
+	<name>LTLCAMN</name>
+	<cmt>Little Cayman</cmt>
+	<desc>Little Cayman</desc>
+	<sym>box</sym>
+</wpt>
+<wpt lat="19.76" lon="-79.74">
+	<ele>0.000000</ele>
+	<name>CAMNBRAC</name>
+	<cmt>Cayman Brac</cmt>
+	<desc>Cayman Brac</desc>
+	<sym>box</sym>
+</wpt>
+<wpt lat="21.17" lon="-86.83">
+	<ele>0.000000</ele>
+	<name>Cancun</name>
+	<cmt>Cancun</cmt>
+	<desc>Cancun</desc>
+	<sym>large city</sym>
+</wpt>
+<wpt lat="20.62" lon="-87.07">
+	<ele>0.000000</ele>
+	<name>Playa del Carmen</name>
+	<cmt>Playa del Carmen</cmt>
+	<desc>Playa del Carmen</desc>
+	<sym>medium city</sym>
+</wpt>
+<wpt lat="20.51" lon="-86.93">
+	<ele>0.000000</ele>
+	<name>Cozumel</name>
+	<cmt>Cozumel</cmt>
+	<desc>Cozumel</desc>
+	<sym>medium city</sym>
+</wpt>
+<wpt lat="20.84" lon="-86.89">
+	<ele>0.000000</ele>
+	<name>Punta Bete</name>
+	<cmt>Punta Bete</cmt>
+	<desc>Punta Bete</desc>
+	<sym>small city</sym>
+</wpt>
+<wpt lat="28.5256" lon="-81.3817">
+	<ele>0.000000</ele>
+	<name>Orlando</name>
+	<cmt>Orlando</cmt>
+	<desc>Orlando</desc>
+	<sym>large city</sym>
+</wpt>
+<wpt lat="32.3333" lon="-64.75">
+	<ele>0.000000</ele>
+	<name>Bermuda</name>
+	<cmt>Bermuda</cmt>
+	<desc>Bermuda</desc>
+	<sym>box</sym>
+</wpt>
+
+<wpt lat="21.1" lon="-85.3">
+	<ele>0.000000</ele>
+	<name>ALBRT001</name>
+	<cmt>2006/06/10 1300Z; 34 MPH</cmt>
+	<desc>2006/06/10 1300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.5" lon="-85.6">
+	<ele>0.000000</ele>
+	<name>ALBRT002</name>
+	<cmt>2006/06/10 1500Z; 34 MPH</cmt>
+	<desc>2006/06/10 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.8" lon="-85.7">
+	<ele>0.000000</ele>
+	<name>ALBRT003</name>
+	<cmt>2006/06/10 2100Z; 34 MPH</cmt>
+	<desc>2006/06/10 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.4" lon="-86.2">
+	<ele>0.000000</ele>
+	<name>ALBRT004</name>
+	<cmt>2006/06/11 0300Z; 34 MPH</cmt>
+	<desc>2006/06/11 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.5" lon="-87.0">
+	<ele>0.000000</ele>
+	<name>ALBRT005</name>
+	<cmt>2006/06/11 0900Z; 34 MPH</cmt>
+	<desc>2006/06/11 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.9" lon="-88.1">
+	<ele>0.000000</ele>
+	<name>ALBRT006</name>
+	<cmt>2006/06/11 1500Z; 46 MPH</cmt>
+	<desc>2006/06/11 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.5" lon="-87.8">
+	<ele>0.000000</ele>
+	<name>ALBRT007</name>
+	<cmt>2006/06/11 2100Z; 46 MPH</cmt>
+	<desc>2006/06/11 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.3" lon="-87.7">
+	<ele>0.000000</ele>
+	<name>ALBRT008</name>
+	<cmt>2006/06/12 0300Z; 46 MPH</cmt>
+	<desc>2006/06/12 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.2" lon="-87.2">
+	<ele>0.000000</ele>
+	<name>ALBRT009</name>
+	<cmt>2006/06/12 0900Z; 51 MPH</cmt>
+	<desc>2006/06/12 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.1" lon="-85.9">
+	<ele>0.000000</ele>
+	<name>ALBRT010</name>
+	<cmt>2006/06/12 1500Z; 69 MPH</cmt>
+	<desc>2006/06/12 1500Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.9" lon="-85.1">
+	<ele>0.000000</ele>
+	<name>ALBRT011</name>
+	<cmt>2006/06/12 2100Z; 69 MPH</cmt>
+	<desc>2006/06/12 2100Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.4" lon="-84.6">
+	<ele>0.000000</ele>
+	<name>ALBRT012</name>
+	<cmt>2006/06/13 0300Z; 69 MPH</cmt>
+	<desc>2006/06/13 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.2" lon="-84.2">
+	<ele>0.000000</ele>
+	<name>ALBRT013</name>
+	<cmt>2006/06/13 0900Z; 63 MPH</cmt>
+	<desc>2006/06/13 0900Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.8" lon="-83.8">
+	<ele>0.000000</ele>
+	<name>ALBRT014</name>
+	<cmt>2006/06/13 1500Z; 51 MPH</cmt>
+	<desc>2006/06/13 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.7" lon="-83.2">
+	<ele>0.000000</ele>
+	<name>ALBRT015</name>
+	<cmt>2006/06/13 2100Z; 40 MPH</cmt>
+	<desc>2006/06/13 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.8" lon="-82.3">
+	<ele>0.000000</ele>
+	<name>ALBRT016</name>
+	<cmt>2006/06/14 0300Z; 40 MPH</cmt>
+	<desc>2006/06/14 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="33.5" lon="-81.4">
+	<ele>0.000000</ele>
+	<name>ALBRT017</name>
+	<cmt>2006/06/14 0900Z; 34 MPH</cmt>
+	<desc>2006/06/14 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="35.0" lon="-79.5">
+	<ele>0.000000</ele>
+	<name>ALBRT018</name>
+	<cmt>2006/06/14 1500Z; 34 MPH</cmt>
+	<desc>2006/06/14 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="32.5" lon="-73.4">
+	<ele>0.000000</ele>
+	<name>BERYL001</name>
+	<cmt>2006/07/18 1500Z; 34 MPH</cmt>
+	<desc>2006/07/18 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="33.3" lon="-73.3">
+	<ele>0.000000</ele>
+	<name>BERYL002</name>
+	<cmt>2006/07/18 2100Z; 34 MPH</cmt>
+	<desc>2006/07/18 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="34.1" lon="-73.6">
+	<ele>0.000000</ele>
+	<name>BERYL003</name>
+	<cmt>2006/07/19 0300Z; 40 MPH</cmt>
+	<desc>2006/07/19 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="34.7" lon="-73.7">
+	<ele>0.000000</ele>
+	<name>BERYL004</name>
+	<cmt>2006/07/19 0900Z; 40 MPH</cmt>
+	<desc>2006/07/19 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="35.6" lon="-73.7">
+	<ele>0.000000</ele>
+	<name>BERYL005</name>
+	<cmt>2006/07/19 1500Z; 46 MPH</cmt>
+	<desc>2006/07/19 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="36.3" lon="-73.5">
+	<ele>0.000000</ele>
+	<name>BERYL006</name>
+	<cmt>2006/07/19 2100Z; 57 MPH</cmt>
+	<desc>2006/07/19 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.0" lon="-73.0">
+	<ele>0.000000</ele>
+	<name>BERYL007</name>
+	<cmt>2006/07/20 0300Z; 57 MPH</cmt>
+	<desc>2006/07/20 0300Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.8" lon="-73.2">
+	<ele>0.000000</ele>
+	<name>BERYL008</name>
+	<cmt>2006/07/20 0900Z; 57 MPH</cmt>
+	<desc>2006/07/20 0900Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="38.8" lon="-72.7">
+	<ele>0.000000</ele>
+	<name>BERYL009</name>
+	<cmt>2006/07/20 1500Z; 57 MPH</cmt>
+	<desc>2006/07/20 1500Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="39.6" lon="-72.0">
+	<ele>0.000000</ele>
+	<name>BERYL010</name>
+	<cmt>2006/07/20 2100Z; 51 MPH</cmt>
+	<desc>2006/07/20 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="40.2" lon="-71.3">
+	<ele>0.000000</ele>
+	<name>BERYL011</name>
+	<cmt>2006/07/21 0300Z; 51 MPH</cmt>
+	<desc>2006/07/21 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="41.7" lon="-69.7">
+	<ele>0.000000</ele>
+	<name>BERYL012</name>
+	<cmt>2006/07/21 0900Z; 51 MPH</cmt>
+	<desc>2006/07/21 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="43.1" lon="-67.4">
+	<ele>0.000000</ele>
+	<name>BERYL013</name>
+	<cmt>2006/07/21 1500Z; 46 MPH</cmt>
+	<desc>2006/07/21 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.6" lon="-59.4">
+	<ele>0.000000</ele>
+	<name>CHRIS001</name>
+	<cmt>2006/08/01 0300Z; 34 MPH</cmt>
+	<desc>2006/08/01 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.6" lon="-59.2">
+	<ele>0.000000</ele>
+	<name>CHRIS002</name>
+	<cmt>2006/08/01 0900Z; 40 MPH</cmt>
+	<desc>2006/08/01 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.3" lon="-60.3">
+	<ele>0.000000</ele>
+	<name>CHRIS003</name>
+	<cmt>2006/08/01 1500Z; 40 MPH</cmt>
+	<desc>2006/08/01 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.7" lon="-61.2">
+	<ele>0.000000</ele>
+	<name>CHRIS004</name>
+	<cmt>2006/08/01 2100Z; 46 MPH</cmt>
+	<desc>2006/08/01 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.0" lon="-61.1">
+	<ele>0.000000</ele>
+	<name>CHRIS005</name>
+	<cmt>2006/08/01 2130Z; 57 MPH</cmt>
+	<desc>2006/08/01 2130Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.3" lon="-61.8">
+	<ele>0.000000</ele>
+	<name>CHRIS006</name>
+	<cmt>2006/08/02 0300Z; 57 MPH</cmt>
+	<desc>2006/08/02 0300Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.8" lon="-62.6">
+	<ele>0.000000</ele>
+	<name>CHRIS007</name>
+	<cmt>2006/08/02 0900Z; 57 MPH</cmt>
+	<desc>2006/08/02 0900Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.2" lon="-63.4">
+	<ele>0.000000</ele>
+	<name>CHRIS008</name>
+	<cmt>2006/08/02 1500Z; 63 MPH</cmt>
+	<desc>2006/08/02 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.9" lon="-64.3">
+	<ele>0.000000</ele>
+	<name>CHRIS009</name>
+	<cmt>2006/08/02 2100Z; 57 MPH</cmt>
+	<desc>2006/08/02 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.8" lon="-64.9">
+	<ele>0.000000</ele>
+	<name>CHRIS010</name>
+	<cmt>2006/08/03 0300Z; 57 MPH</cmt>
+	<desc>2006/08/03 0300Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.3" lon="-66.4">
+	<ele>0.000000</ele>
+	<name>CHRIS011</name>
+	<cmt>2006/08/03 0900Z; 46 MPH</cmt>
+	<desc>2006/08/03 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.5" lon="-67.3">
+	<ele>0.000000</ele>
+	<name>CHRIS012</name>
+	<cmt>2006/08/03 1500Z; 40 MPH</cmt>
+	<desc>2006/08/03 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.7" lon="-68.2">
+	<ele>0.000000</ele>
+	<name>CHRIS013</name>
+	<cmt>2006/08/03 2100Z; 40 MPH</cmt>
+	<desc>2006/08/03 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.8" lon="-69.3">
+	<ele>0.000000</ele>
+	<name>CHRIS014</name>
+	<cmt>2006/08/04 0300Z; 40 MPH</cmt>
+	<desc>2006/08/04 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.9" lon="-70.9">
+	<ele>0.000000</ele>
+	<name>CHRIS015</name>
+	<cmt>2006/08/04 0900Z; 40 MPH</cmt>
+	<desc>2006/08/04 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.3" lon="-71.6">
+	<ele>0.000000</ele>
+	<name>CHRIS016</name>
+	<cmt>2006/08/04 1500Z; 34 MPH</cmt>
+	<desc>2006/08/04 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.4" lon="-72.8">
+	<ele>0.000000</ele>
+	<name>CHRIS017</name>
+	<cmt>2006/08/04 2100Z; 34 MPH</cmt>
+	<desc>2006/08/04 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.6" lon="-74.0">
+	<ele>0.000000</ele>
+	<name>CHRIS018</name>
+	<cmt>2006/08/05 0300Z; 28 MPH</cmt>
+	<desc>2006/08/05 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.5" lon="-75.6">
+	<ele>0.000000</ele>
+	<name>CHRIS019</name>
+	<cmt>2006/08/05 0900Z; 23 MPH</cmt>
+	<desc>2006/08/05 0900Z; 23 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.5" lon="-21.5">
+	<ele>0.000000</ele>
+	<name>DEBBY001</name>
+	<cmt>2006/08/21 2100Z; 34 MPH</cmt>
+	<desc>2006/08/21 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.2" lon="-23.2">
+	<ele>0.000000</ele>
+	<name>DEBBY002</name>
+	<cmt>2006/08/22 0300Z; 34 MPH</cmt>
+	<desc>2006/08/22 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.8" lon="-24.6">
+	<ele>0.000000</ele>
+	<name>DEBBY003</name>
+	<cmt>2006/08/22 0900Z; 34 MPH</cmt>
+	<desc>2006/08/22 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.6" lon="-26.1">
+	<ele>0.000000</ele>
+	<name>DEBBY004</name>
+	<cmt>2006/08/22 1500Z; 34 MPH</cmt>
+	<desc>2006/08/22 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.5" lon="-27.5">
+	<ele>0.000000</ele>
+	<name>DEBBY005</name>
+	<cmt>2006/08/22 2100Z; 34 MPH</cmt>
+	<desc>2006/08/22 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.2" lon="-28.9">
+	<ele>0.000000</ele>
+	<name>DEBBY006</name>
+	<cmt>2006/08/23 0300Z; 40 MPH</cmt>
+	<desc>2006/08/23 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.9" lon="-30.1">
+	<ele>0.000000</ele>
+	<name>DEBBY007</name>
+	<cmt>2006/08/23 0900Z; 46 MPH</cmt>
+	<desc>2006/08/23 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.8" lon="-31.5">
+	<ele>0.000000</ele>
+	<name>DEBBY008</name>
+	<cmt>2006/08/23 1500Z; 51 MPH</cmt>
+	<desc>2006/08/23 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.9" lon="-33.0">
+	<ele>0.000000</ele>
+	<name>DEBBY009</name>
+	<cmt>2006/08/23 2100Z; 46 MPH</cmt>
+	<desc>2006/08/23 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.8" lon="-34.7">
+	<ele>0.000000</ele>
+	<name>DEBBY010</name>
+	<cmt>2006/08/24 0300Z; 46 MPH</cmt>
+	<desc>2006/08/24 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.6" lon="-36.3">
+	<ele>0.000000</ele>
+	<name>DEBBY011</name>
+	<cmt>2006/08/24 0900Z; 46 MPH</cmt>
+	<desc>2006/08/24 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.4" lon="-37.8">
+	<ele>0.000000</ele>
+	<name>DEBBY012</name>
+	<cmt>2006/08/24 1500Z; 51 MPH</cmt>
+	<desc>2006/08/24 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.3" lon="-39.5">
+	<ele>0.000000</ele>
+	<name>DEBBY013</name>
+	<cmt>2006/08/24 2100Z; 51 MPH</cmt>
+	<desc>2006/08/24 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.9" lon="-41.1">
+	<ele>0.000000</ele>
+	<name>DEBBY014</name>
+	<cmt>2006/08/25 0300Z; 51 MPH</cmt>
+	<desc>2006/08/25 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.9" lon="-42.3">
+	<ele>0.000000</ele>
+	<name>DEBBY015</name>
+	<cmt>2006/08/25 0900Z; 51 MPH</cmt>
+	<desc>2006/08/25 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.9" lon="-43.3">
+	<ele>0.000000</ele>
+	<name>DEBBY016</name>
+	<cmt>2006/08/25 1500Z; 40 MPH</cmt>
+	<desc>2006/08/25 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.9" lon="-44.7">
+	<ele>0.000000</ele>
+	<name>DEBBY017</name>
+	<cmt>2006/08/25 2100Z; 40 MPH</cmt>
+	<desc>2006/08/25 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.2" lon="-45.6">
+	<ele>0.000000</ele>
+	<name>DEBBY018</name>
+	<cmt>2006/08/26 0300Z; 40 MPH</cmt>
+	<desc>2006/08/26 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.3" lon="-46.7">
+	<ele>0.000000</ele>
+	<name>DEBBY019</name>
+	<cmt>2006/08/26 0900Z; 34 MPH</cmt>
+	<desc>2006/08/26 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.6" lon="-47.3">
+	<ele>0.000000</ele>
+	<name>DEBBY020</name>
+	<cmt>2006/08/26 1500Z; 28 MPH</cmt>
+	<desc>2006/08/26 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.0" lon="-47.5">
+	<ele>0.000000</ele>
+	<name>DEBBY021</name>
+	<cmt>2006/08/26 2100Z; 28 MPH</cmt>
+	<desc>2006/08/26 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.9" lon="-48.5">
+	<ele>0.000000</ele>
+	<name>DEBBY022</name>
+	<cmt>2006/08/27 0300Z; 28 MPH</cmt>
+	<desc>2006/08/27 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.6" lon="-49.3">
+	<ele>0.000000</ele>
+	<name>DEBBY023</name>
+	<cmt>2006/08/27 0900Z; 28 MPH</cmt>
+	<desc>2006/08/27 0900Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.6" lon="-49.2">
+	<ele>0.000000</ele>
+	<name>DEBBY024</name>
+	<cmt>2006/08/27 1500Z; 28 MPH</cmt>
+	<desc>2006/08/27 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.5" lon="-48.6">
+	<ele>0.000000</ele>
+	<name>DEBBY025</name>
+	<cmt>2006/08/27 2100Z; 28 MPH</cmt>
+	<desc>2006/08/27 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.9" lon="-62.4">
+	<ele>0.000000</ele>
+	<name>ERNST001</name>
+	<cmt>2006/08/24 2100Z; 34 MPH</cmt>
+	<desc>2006/08/24 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.2" lon="-63.9">
+	<ele>0.000000</ele>
+	<name>ERNST002</name>
+	<cmt>2006/08/25 0300Z; 34 MPH</cmt>
+	<desc>2006/08/25 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.4" lon="-65.7">
+	<ele>0.000000</ele>
+	<name>ERNST003</name>
+	<cmt>2006/08/25 0900Z; 34 MPH</cmt>
+	<desc>2006/08/25 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.5" lon="-66.4">
+	<ele>0.000000</ele>
+	<name>ERNST004</name>
+	<cmt>2006/08/25 1500Z; 34 MPH</cmt>
+	<desc>2006/08/25 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.3" lon="-67.6">
+	<ele>0.000000</ele>
+	<name>ERNST005</name>
+	<cmt>2006/08/25 2100Z; 40 MPH</cmt>
+	<desc>2006/08/25 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.8" lon="-69.1">
+	<ele>0.000000</ele>
+	<name>ERNST006</name>
+	<cmt>2006/08/26 0300Z; 46 MPH</cmt>
+	<desc>2006/08/26 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.8" lon="-70.2">
+	<ele>0.000000</ele>
+	<name>ERNST007</name>
+	<cmt>2006/08/26 0900Z; 46 MPH</cmt>
+	<desc>2006/08/26 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.1" lon="-71.2">
+	<ele>0.000000</ele>
+	<name>ERNST008</name>
+	<cmt>2006/08/26 1500Z; 51 MPH</cmt>
+	<desc>2006/08/26 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.9" lon="-71.6">
+	<ele>0.000000</ele>
+	<name>ERNST009</name>
+	<cmt>2006/08/26 2100Z; 57 MPH</cmt>
+	<desc>2006/08/26 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.8" lon="-72.7">
+	<ele>0.000000</ele>
+	<name>ERNST010</name>
+	<cmt>2006/08/27 0300Z; 57 MPH</cmt>
+	<desc>2006/08/27 0300Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-73.1">
+	<ele>0.000000</ele>
+	<name>ERNST011</name>
+	<cmt>2006/08/27 0900Z; 69 MPH</cmt>
+	<desc>2006/08/27 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.6" lon="-73.7">
+	<ele>0.000000</ele>
+	<name>ERNST012</name>
+	<cmt>2006/08/27 1500Z; 74 MPH</cmt>
+	<desc>2006/08/27 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.0" lon="-74.5">
+	<ele>0.000000</ele>
+	<name>ERNST013</name>
+	<cmt>2006/08/27 2100Z; 57 MPH</cmt>
+	<desc>2006/08/27 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.6" lon="-74.7">
+	<ele>0.000000</ele>
+	<name>ERNST014</name>
+	<cmt>2006/08/28 0300Z; 51 MPH</cmt>
+	<desc>2006/08/28 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.6" lon="-75.4">
+	<ele>0.000000</ele>
+	<name>ERNST015</name>
+	<cmt>2006/08/28 0900Z; 51 MPH</cmt>
+	<desc>2006/08/28 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.3" lon="-75.7">
+	<ele>0.000000</ele>
+	<name>ERNST016</name>
+	<cmt>2006/08/28 1500Z; 40 MPH</cmt>
+	<desc>2006/08/28 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.3" lon="-76.9">
+	<ele>0.000000</ele>
+	<name>ERNST017</name>
+	<cmt>2006/08/28 2100Z; 40 MPH</cmt>
+	<desc>2006/08/28 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.7" lon="-77.8">
+	<ele>0.000000</ele>
+	<name>ERNST018</name>
+	<cmt>2006/08/29 0300Z; 40 MPH</cmt>
+	<desc>2006/08/29 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.6" lon="-78.9">
+	<ele>0.000000</ele>
+	<name>ERNST019</name>
+	<cmt>2006/08/29 0900Z; 46 MPH</cmt>
+	<desc>2006/08/29 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.3" lon="-79.5">
+	<ele>0.000000</ele>
+	<name>ERNST020</name>
+	<cmt>2006/08/29 1500Z; 46 MPH</cmt>
+	<desc>2006/08/29 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.3" lon="-80.2">
+	<ele>0.000000</ele>
+	<name>ERNST021</name>
+	<cmt>2006/08/29 2100Z; 46 MPH</cmt>
+	<desc>2006/08/29 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.9" lon="-80.5">
+	<ele>0.000000</ele>
+	<name>ERNST022</name>
+	<cmt>2006/08/30 0300Z; 46 MPH</cmt>
+	<desc>2006/08/30 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.6" lon="-80.9">
+	<ele>0.000000</ele>
+	<name>ERNST023</name>
+	<cmt>2006/08/30 0900Z; 46 MPH</cmt>
+	<desc>2006/08/30 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.4" lon="-80.9">
+	<ele>0.000000</ele>
+	<name>ERNST024</name>
+	<cmt>2006/08/30 1500Z; 34 MPH</cmt>
+	<desc>2006/08/30 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.6" lon="-80.8">
+	<ele>0.000000</ele>
+	<name>ERNST025</name>
+	<cmt>2006/08/30 2100Z; 34 MPH</cmt>
+	<desc>2006/08/30 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.7" lon="-80.6">
+	<ele>0.000000</ele>
+	<name>ERNST026</name>
+	<cmt>2006/08/31 0300Z; 34 MPH</cmt>
+	<desc>2006/08/31 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.0" lon="-80.2">
+	<ele>0.000000</ele>
+	<name>ERNST027</name>
+	<cmt>2006/08/31 0900Z; 51 MPH</cmt>
+	<desc>2006/08/31 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.3" lon="-79.6">
+	<ele>0.000000</ele>
+	<name>ERNST028</name>
+	<cmt>2006/08/31 1500Z; 57 MPH</cmt>
+	<desc>2006/08/31 1500Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="32.6" lon="-78.7">
+	<ele>0.000000</ele>
+	<name>ERNST029</name>
+	<cmt>2006/08/31 2100Z; 69 MPH</cmt>
+	<desc>2006/08/31 2100Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="33.9" lon="-78.2">
+	<ele>0.000000</ele>
+	<name>ERNST030</name>
+	<cmt>2006/09/01 0300Z; 69 MPH</cmt>
+	<desc>2006/09/01 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="35.1" lon="-77.8">
+	<ele>0.000000</ele>
+	<name>ERNST031</name>
+	<cmt>2006/09/01 0900Z; 57 MPH</cmt>
+	<desc>2006/09/01 0900Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="36.4" lon="-77.6">
+	<ele>0.000000</ele>
+	<name>ERNST032</name>
+	<cmt>2006/09/01 1500Z; 34 MPH</cmt>
+	<desc>2006/09/01 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.6" lon="-40.4">
+	<ele>0.000000</ele>
+	<name>FLRNC001</name>
+	<cmt>2006/09/03 2100Z; 34 MPH</cmt>
+	<desc>2006/09/03 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.8" lon="-40.4">
+	<ele>0.000000</ele>
+	<name>FLRNC002</name>
+	<cmt>2006/09/04 0300Z; 34 MPH</cmt>
+	<desc>2006/09/04 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.6" lon="-41.1">
+	<ele>0.000000</ele>
+	<name>FLRNC003</name>
+	<cmt>2006/09/04 0900Z; 34 MPH</cmt>
+	<desc>2006/09/04 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.3" lon="-42.7">
+	<ele>0.000000</ele>
+	<name>FLRNC004</name>
+	<cmt>2006/09/04 1500Z; 34 MPH</cmt>
+	<desc>2006/09/04 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.9" lon="-43.8">
+	<ele>0.000000</ele>
+	<name>FLRNC005</name>
+	<cmt>2006/09/04 2100Z; 34 MPH</cmt>
+	<desc>2006/09/04 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.3" lon="-44.8">
+	<ele>0.000000</ele>
+	<name>FLRNC006</name>
+	<cmt>2006/09/05 0300Z; 34 MPH</cmt>
+	<desc>2006/09/05 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.7" lon="-45.9">
+	<ele>0.000000</ele>
+	<name>FLRNC007</name>
+	<cmt>2006/09/05 0900Z; 34 MPH</cmt>
+	<desc>2006/09/05 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.3" lon="-47.3">
+	<ele>0.000000</ele>
+	<name>FLRNC008</name>
+	<cmt>2006/09/05 1500Z; 40 MPH</cmt>
+	<desc>2006/09/05 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.4" lon="-48.5">
+	<ele>0.000000</ele>
+	<name>FLRNC009</name>
+	<cmt>2006/09/05 2100Z; 46 MPH</cmt>
+	<desc>2006/09/05 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.7" lon="-49.5">
+	<ele>0.000000</ele>
+	<name>FLRNC010</name>
+	<cmt>2006/09/06 0300Z; 46 MPH</cmt>
+	<desc>2006/09/06 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.4" lon="-50.2">
+	<ele>0.000000</ele>
+	<name>FLRNC011</name>
+	<cmt>2006/09/06 0900Z; 46 MPH</cmt>
+	<desc>2006/09/06 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.3" lon="-50.9">
+	<ele>0.000000</ele>
+	<name>FLRNC012</name>
+	<cmt>2006/09/06 1500Z; 51 MPH</cmt>
+	<desc>2006/09/06 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.0" lon="-51.4">
+	<ele>0.000000</ele>
+	<name>FLRNC013</name>
+	<cmt>2006/09/06 2100Z; 51 MPH</cmt>
+	<desc>2006/09/06 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.6" lon="-52.5">
+	<ele>0.000000</ele>
+	<name>FLRNC014</name>
+	<cmt>2006/09/07 0300Z; 51 MPH</cmt>
+	<desc>2006/09/07 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.1" lon="-53.2">
+	<ele>0.000000</ele>
+	<name>FLRNC015</name>
+	<cmt>2006/09/07 0900Z; 51 MPH</cmt>
+	<desc>2006/09/07 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.8" lon="-53.4">
+	<ele>0.000000</ele>
+	<name>FLRNC016</name>
+	<cmt>2006/09/07 1500Z; 51 MPH</cmt>
+	<desc>2006/09/07 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.6" lon="-54.9">
+	<ele>0.000000</ele>
+	<name>FLRNC017</name>
+	<cmt>2006/09/07 2100Z; 51 MPH</cmt>
+	<desc>2006/09/07 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.3" lon="-56.1">
+	<ele>0.000000</ele>
+	<name>FLRNC018</name>
+	<cmt>2006/09/08 0300Z; 51 MPH</cmt>
+	<desc>2006/09/08 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.1" lon="-57.6">
+	<ele>0.000000</ele>
+	<name>FLRNC019</name>
+	<cmt>2006/09/08 0900Z; 51 MPH</cmt>
+	<desc>2006/09/08 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.0" lon="-59.1">
+	<ele>0.000000</ele>
+	<name>FLRNC020</name>
+	<cmt>2006/09/08 1500Z; 51 MPH</cmt>
+	<desc>2006/09/08 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.9" lon="-60.1">
+	<ele>0.000000</ele>
+	<name>FLRNC021</name>
+	<cmt>2006/09/08 2100Z; 51 MPH</cmt>
+	<desc>2006/09/08 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.5" lon="-61.4">
+	<ele>0.000000</ele>
+	<name>FLRNC022</name>
+	<cmt>2006/09/09 0300Z; 63 MPH</cmt>
+	<desc>2006/09/09 0300Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.1" lon="-62.8">
+	<ele>0.000000</ele>
+	<name>FLRNC023</name>
+	<cmt>2006/09/09 0900Z; 63 MPH</cmt>
+	<desc>2006/09/09 0900Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.7" lon="-63.7">
+	<ele>0.000000</ele>
+	<name>FLRNC024</name>
+	<cmt>2006/09/09 1500Z; 69 MPH</cmt>
+	<desc>2006/09/09 1500Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.6" lon="-64.3">
+	<ele>0.000000</ele>
+	<name>FLRNC025</name>
+	<cmt>2006/09/09 2100Z; 63 MPH</cmt>
+	<desc>2006/09/09 2100Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.6" lon="-64.9">
+	<ele>0.000000</ele>
+	<name>FLRNC026</name>
+	<cmt>2006/09/10 0300Z; 63 MPH</cmt>
+	<desc>2006/09/10 0300Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.7" lon="-65.7">
+	<ele>0.000000</ele>
+	<name>FLRNC027</name>
+	<cmt>2006/09/10 0900Z; 80 MPH</cmt>
+	<desc>2006/09/10 0900Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.7" lon="-65.9">
+	<ele>0.000000</ele>
+	<name>FLRNC028</name>
+	<cmt>2006/09/10 1500Z; 80 MPH</cmt>
+	<desc>2006/09/10 1500Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.9" lon="-66.2">
+	<ele>0.000000</ele>
+	<name>FLRNC029</name>
+	<cmt>2006/09/10 2100Z; 92 MPH</cmt>
+	<desc>2006/09/10 2100Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.0" lon="-66.1">
+	<ele>0.000000</ele>
+	<name>FLRNC030</name>
+	<cmt>2006/09/11 0300Z; 92 MPH</cmt>
+	<desc>2006/09/11 0300Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.8" lon="-66.0">
+	<ele>0.000000</ele>
+	<name>FLRNC031</name>
+	<cmt>2006/09/11 0900Z; 80 MPH</cmt>
+	<desc>2006/09/11 0900Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="32.9" lon="-65.6">
+	<ele>0.000000</ele>
+	<name>FLRNC032</name>
+	<cmt>2006/09/11 1500Z; 92 MPH</cmt>
+	<desc>2006/09/11 1500Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="34.4" lon="-64.8">
+	<ele>0.000000</ele>
+	<name>FLRNC033</name>
+	<cmt>2006/09/11 2100Z; 92 MPH</cmt>
+	<desc>2006/09/11 2100Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="35.8" lon="-63.9">
+	<ele>0.000000</ele>
+	<name>FLRNC034</name>
+	<cmt>2006/09/12 0300Z; 86 MPH</cmt>
+	<desc>2006/09/12 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.2" lon="-62.4">
+	<ele>0.000000</ele>
+	<name>FLRNC035</name>
+	<cmt>2006/09/12 0900Z; 74 MPH</cmt>
+	<desc>2006/09/12 0900Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="38.2" lon="-61.2">
+	<ele>0.000000</ele>
+	<name>FLRNC036</name>
+	<cmt>2006/09/12 1500Z; 74 MPH</cmt>
+	<desc>2006/09/12 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="39.3" lon="-59.3">
+	<ele>0.000000</ele>
+	<name>FLRNC037</name>
+	<cmt>2006/09/12 2100Z; 74 MPH</cmt>
+	<desc>2006/09/12 2100Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.2" lon="-54.5">
+	<ele>0.000000</ele>
+	<name>GRDN001</name>
+	<cmt>2006/09/11 0300Z; 28 MPH</cmt>
+	<desc>2006/09/11 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.5" lon="-55.1">
+	<ele>0.000000</ele>
+	<name>GRDN002</name>
+	<cmt>2006/09/11 0900Z; 34 MPH</cmt>
+	<desc>2006/09/11 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.1" lon="-56.7">
+	<ele>0.000000</ele>
+	<name>GRDN003</name>
+	<cmt>2006/09/11 1500Z; 34 MPH</cmt>
+	<desc>2006/09/11 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.6" lon="-57.3">
+	<ele>0.000000</ele>
+	<name>GRDN004</name>
+	<cmt>2006/09/11 2100Z; 46 MPH</cmt>
+	<desc>2006/09/11 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.1" lon="-57.9">
+	<ele>0.000000</ele>
+	<name>GRDN005</name>
+	<cmt>2006/09/12 0300Z; 57 MPH</cmt>
+	<desc>2006/09/12 0300Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.6" lon="-58.3">
+	<ele>0.000000</ele>
+	<name>GRDN006</name>
+	<cmt>2006/09/12 0900Z; 57 MPH</cmt>
+	<desc>2006/09/12 0900Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.4" lon="-58.3">
+	<ele>0.000000</ele>
+	<name>GRDN007</name>
+	<cmt>2006/09/12 1500Z; 57 MPH</cmt>
+	<desc>2006/09/12 1500Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.7" lon="-58.4">
+	<ele>0.000000</ele>
+	<name>GRDN008</name>
+	<cmt>2006/09/12 2100Z; 63 MPH</cmt>
+	<desc>2006/09/12 2100Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.4" lon="-57.9">
+	<ele>0.000000</ele>
+	<name>GRDN009</name>
+	<cmt>2006/09/13 0300Z; 74 MPH</cmt>
+	<desc>2006/09/13 0300Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.1" lon="-57.9">
+	<ele>0.000000</ele>
+	<name>GRDN010</name>
+	<cmt>2006/09/13 0900Z; 74 MPH</cmt>
+	<desc>2006/09/13 0900Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.0" lon="-57.9">
+	<ele>0.000000</ele>
+	<name>GRDN011</name>
+	<cmt>2006/09/13 1500Z; 92 MPH</cmt>
+	<desc>2006/09/13 1500Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.0" lon="-57.5">
+	<ele>0.000000</ele>
+	<name>GRDN012</name>
+	<cmt>2006/09/13 2100Z; 109 MPH</cmt>
+	<desc>2006/09/13 2100Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.8" lon="-57.1">
+	<ele>0.000000</ele>
+	<name>GRDN013</name>
+	<cmt>2006/09/14 0300Z; 120 MPH</cmt>
+	<desc>2006/09/14 0300Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.7" lon="-56.6">
+	<ele>0.000000</ele>
+	<name>GRDN014</name>
+	<cmt>2006/09/14 0900Z; 120 MPH</cmt>
+	<desc>2006/09/14 0900Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.5" lon="-55.9">
+	<ele>0.000000</ele>
+	<name>GRDN015</name>
+	<cmt>2006/09/14 1500Z; 120 MPH</cmt>
+	<desc>2006/09/14 1500Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.2" lon="-54.9">
+	<ele>0.000000</ele>
+	<name>GRDN016</name>
+	<cmt>2006/09/14 2100Z; 120 MPH</cmt>
+	<desc>2006/09/14 2100Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.6" lon="-54.3">
+	<ele>0.000000</ele>
+	<name>GRDN017</name>
+	<cmt>2006/09/15 0300Z; 115 MPH</cmt>
+	<desc>2006/09/15 0300Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.9" lon="-53.4">
+	<ele>0.000000</ele>
+	<name>GRDN018</name>
+	<cmt>2006/09/15 0900Z; 109 MPH</cmt>
+	<desc>2006/09/15 0900Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.1" lon="-53.3">
+	<ele>0.000000</ele>
+	<name>GRDN019</name>
+	<cmt>2006/09/15 1500Z; 97 MPH</cmt>
+	<desc>2006/09/15 1500Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.1" lon="-53.5">
+	<ele>0.000000</ele>
+	<name>GRDN020</name>
+	<cmt>2006/09/15 2100Z; 92 MPH</cmt>
+	<desc>2006/09/15 2100Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.3" lon="-53.4">
+	<ele>0.000000</ele>
+	<name>GRDN021</name>
+	<cmt>2006/09/16 0300Z; 86 MPH</cmt>
+	<desc>2006/09/16 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.3" lon="-53.7">
+	<ele>0.000000</ele>
+	<name>GRDN022</name>
+	<cmt>2006/09/16 0900Z; 74 MPH</cmt>
+	<desc>2006/09/16 0900Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.3" lon="-53.7">
+	<ele>0.000000</ele>
+	<name>GRDN023</name>
+	<cmt>2006/09/16 1500Z; 74 MPH</cmt>
+	<desc>2006/09/16 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.7" lon="-54.0">
+	<ele>0.000000</ele>
+	<name>GRDN024</name>
+	<cmt>2006/09/16 2100Z; 74 MPH</cmt>
+	<desc>2006/09/16 2100Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="32.0" lon="-53.9">
+	<ele>0.000000</ele>
+	<name>GRDN025</name>
+	<cmt>2006/09/17 0300Z; 74 MPH</cmt>
+	<desc>2006/09/17 0300Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="32.6" lon="-53.3">
+	<ele>0.000000</ele>
+	<name>GRDN026</name>
+	<cmt>2006/09/17 0900Z; 74 MPH</cmt>
+	<desc>2006/09/17 0900Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="33.6" lon="-53.2">
+	<ele>0.000000</ele>
+	<name>GRDN027</name>
+	<cmt>2006/09/17 1500Z; 80 MPH</cmt>
+	<desc>2006/09/17 1500Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="34.6" lon="-52.4">
+	<ele>0.000000</ele>
+	<name>GRDN028</name>
+	<cmt>2006/09/17 2100Z; 80 MPH</cmt>
+	<desc>2006/09/17 2100Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="35.4" lon="-51.5">
+	<ele>0.000000</ele>
+	<name>GRDN029</name>
+	<cmt>2006/09/18 0300Z; 80 MPH</cmt>
+	<desc>2006/09/18 0300Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="36.5" lon="-49.6">
+	<ele>0.000000</ele>
+	<name>GRDN030</name>
+	<cmt>2006/09/18 0900Z; 80 MPH</cmt>
+	<desc>2006/09/18 0900Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.3" lon="-47.6">
+	<ele>0.000000</ele>
+	<name>GRDN031</name>
+	<cmt>2006/09/18 1500Z; 92 MPH</cmt>
+	<desc>2006/09/18 1500Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.8" lon="-44.8">
+	<ele>0.000000</ele>
+	<name>GRDN032</name>
+	<cmt>2006/09/18 2100Z; 92 MPH</cmt>
+	<desc>2006/09/18 2100Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="38.0" lon="-41.6">
+	<ele>0.000000</ele>
+	<name>GRDN033</name>
+	<cmt>2006/09/19 0300Z; 97 MPH</cmt>
+	<desc>2006/09/19 0300Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="38.1" lon="-38.7">
+	<ele>0.000000</ele>
+	<name>GRDN034</name>
+	<cmt>2006/09/19 0900Z; 103 MPH</cmt>
+	<desc>2006/09/19 0900Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="38.0" lon="-35.4">
+	<ele>0.000000</ele>
+	<name>GRDN035</name>
+	<cmt>2006/09/19 1500Z; 86 MPH</cmt>
+	<desc>2006/09/19 1500Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.9" lon="-31.6">
+	<ele>0.000000</ele>
+	<name>GRDN036</name>
+	<cmt>2006/09/19 2100Z; 86 MPH</cmt>
+	<desc>2006/09/19 2100Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.7" lon="-28.1">
+	<ele>0.000000</ele>
+	<name>GRDN037</name>
+	<cmt>2006/09/20 0300Z; 80 MPH</cmt>
+	<desc>2006/09/20 0300Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.8" lon="-24.2">
+	<ele>0.000000</ele>
+	<name>GRDN038</name>
+	<cmt>2006/09/20 0900Z; 74 MPH</cmt>
+	<desc>2006/09/20 0900Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.8" lon="-20.9">
+	<ele>0.000000</ele>
+	<name>GRDN039</name>
+	<cmt>2006/09/20 1500Z; 57 MPH</cmt>
+	<desc>2006/09/20 1500Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="39.2" lon="-16.6">
+	<ele>0.000000</ele>
+	<name>GRDN040</name>
+	<cmt>2006/09/20 2100Z; 51 MPH</cmt>
+	<desc>2006/09/20 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.5" lon="-23.0">
+	<ele>0.000000</ele>
+	<name>HLN001</name>
+	<cmt>2006/09/12 1500Z; 28 MPH</cmt>
+	<desc>2006/09/12 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.0" lon="-23.9">
+	<ele>0.000000</ele>
+	<name>HLN002</name>
+	<cmt>2006/09/12 2100Z; 34 MPH</cmt>
+	<desc>2006/09/12 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="11.8" lon="-25.3">
+	<ele>0.000000</ele>
+	<name>HLN003</name>
+	<cmt>2006/09/13 0300Z; 34 MPH</cmt>
+	<desc>2006/09/13 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="11.9" lon="-26.7">
+	<ele>0.000000</ele>
+	<name>HLN004</name>
+	<cmt>2006/09/13 0900Z; 34 MPH</cmt>
+	<desc>2006/09/13 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.0" lon="-28.5">
+	<ele>0.000000</ele>
+	<name>HLN005</name>
+	<cmt>2006/09/13 1500Z; 34 MPH</cmt>
+	<desc>2006/09/13 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.7" lon="-30.7">
+	<ele>0.000000</ele>
+	<name>HLN006</name>
+	<cmt>2006/09/13 2100Z; 34 MPH</cmt>
+	<desc>2006/09/13 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.3" lon="-32.7">
+	<ele>0.000000</ele>
+	<name>HLN007</name>
+	<cmt>2006/09/14 0300Z; 40 MPH</cmt>
+	<desc>2006/09/14 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.7" lon="-34.7">
+	<ele>0.000000</ele>
+	<name>HLN008</name>
+	<cmt>2006/09/14 0900Z; 40 MPH</cmt>
+	<desc>2006/09/14 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.4" lon="-36.8">
+	<ele>0.000000</ele>
+	<name>HLN009</name>
+	<cmt>2006/09/14 1500Z; 46 MPH</cmt>
+	<desc>2006/09/14 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.2" lon="-37.6">
+	<ele>0.000000</ele>
+	<name>HLN010</name>
+	<cmt>2006/09/14 2100Z; 46 MPH</cmt>
+	<desc>2006/09/14 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.5" lon="-38.9">
+	<ele>0.000000</ele>
+	<name>HLN011</name>
+	<cmt>2006/09/15 0300Z; 46 MPH</cmt>
+	<desc>2006/09/15 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.0" lon="-40.3">
+	<ele>0.000000</ele>
+	<name>HLN012</name>
+	<cmt>2006/09/15 0900Z; 46 MPH</cmt>
+	<desc>2006/09/15 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-41.4">
+	<ele>0.000000</ele>
+	<name>HLN013</name>
+	<cmt>2006/09/15 1500Z; 57 MPH</cmt>
+	<desc>2006/09/15 1500Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.7" lon="-42.8">
+	<ele>0.000000</ele>
+	<name>HLN014</name>
+	<cmt>2006/09/15 2100Z; 69 MPH</cmt>
+	<desc>2006/09/15 2100Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.2" lon="-43.7">
+	<ele>0.000000</ele>
+	<name>HLN015</name>
+	<cmt>2006/09/16 0300Z; 69 MPH</cmt>
+	<desc>2006/09/16 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.9" lon="-44.7">
+	<ele>0.000000</ele>
+	<name>HLN016</name>
+	<cmt>2006/09/16 0900Z; 69 MPH</cmt>
+	<desc>2006/09/16 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.8" lon="-45.6">
+	<ele>0.000000</ele>
+	<name>HLN017</name>
+	<cmt>2006/09/16 1500Z; 74 MPH</cmt>
+	<desc>2006/09/16 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.3" lon="-46.3">
+	<ele>0.000000</ele>
+	<name>HLN018</name>
+	<cmt>2006/09/16 2100Z; 74 MPH</cmt>
+	<desc>2006/09/16 2100Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.5" lon="-47.5">
+	<ele>0.000000</ele>
+	<name>HLN019</name>
+	<cmt>2006/09/17 0300Z; 80 MPH</cmt>
+	<desc>2006/09/17 0300Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.0" lon="-48.2">
+	<ele>0.000000</ele>
+	<name>HLN020</name>
+	<cmt>2006/09/17 0900Z; 86 MPH</cmt>
+	<desc>2006/09/17 0900Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.5" lon="-49.0">
+	<ele>0.000000</ele>
+	<name>HLN021</name>
+	<cmt>2006/09/17 1500Z; 103 MPH</cmt>
+	<desc>2006/09/17 1500Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.2" lon="-49.3">
+	<ele>0.000000</ele>
+	<name>HLN022</name>
+	<cmt>2006/09/17 2100Z; 103 MPH</cmt>
+	<desc>2006/09/17 2100Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.6" lon="-49.4">
+	<ele>0.000000</ele>
+	<name>HLN023</name>
+	<cmt>2006/09/18 0300Z; 115 MPH</cmt>
+	<desc>2006/09/18 0300Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.3" lon="-49.6">
+	<ele>0.000000</ele>
+	<name>HLN024</name>
+	<cmt>2006/09/18 0900Z; 120 MPH</cmt>
+	<desc>2006/09/18 0900Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.2" lon="-50.2">
+	<ele>0.000000</ele>
+	<name>HLN025</name>
+	<cmt>2006/09/18 1500Z; 126 MPH</cmt>
+	<desc>2006/09/18 1500Z; 126 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.9" lon="-51.1">
+	<ele>0.000000</ele>
+	<name>HLN026</name>
+	<cmt>2006/09/18 2100Z; 115 MPH</cmt>
+	<desc>2006/09/18 2100Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.2" lon="-51.4">
+	<ele>0.000000</ele>
+	<name>HLN027</name>
+	<cmt>2006/09/19 0300Z; 115 MPH</cmt>
+	<desc>2006/09/19 0300Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.4" lon="-52.1">
+	<ele>0.000000</ele>
+	<name>HLN028</name>
+	<cmt>2006/09/19 0900Z; 115 MPH</cmt>
+	<desc>2006/09/19 0900Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.6" lon="-52.9">
+	<ele>0.000000</ele>
+	<name>HLN029</name>
+	<cmt>2006/09/19 1500Z; 115 MPH</cmt>
+	<desc>2006/09/19 1500Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.6" lon="-54.1">
+	<ele>0.000000</ele>
+	<name>HLN030</name>
+	<cmt>2006/09/19 2100Z; 109 MPH</cmt>
+	<desc>2006/09/19 2100Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.6" lon="-54.8">
+	<ele>0.000000</ele>
+	<name>HLN031</name>
+	<cmt>2006/09/20 0300Z; 109 MPH</cmt>
+	<desc>2006/09/20 0300Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.3" lon="-55.4">
+	<ele>0.000000</ele>
+	<name>HLN032</name>
+	<cmt>2006/09/20 0900Z; 109 MPH</cmt>
+	<desc>2006/09/20 0900Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.0" lon="-56.3">
+	<ele>0.000000</ele>
+	<name>HLN033</name>
+	<cmt>2006/09/20 1500Z; 103 MPH</cmt>
+	<desc>2006/09/20 1500Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.6" lon="-57.1">
+	<ele>0.000000</ele>
+	<name>HLN034</name>
+	<cmt>2006/09/20 2100Z; 103 MPH</cmt>
+	<desc>2006/09/20 2100Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.1" lon="-57.0">
+	<ele>0.000000</ele>
+	<name>HLN035</name>
+	<cmt>2006/09/21 0300Z; 97 MPH</cmt>
+	<desc>2006/09/21 0300Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.4" lon="-56.8">
+	<ele>0.000000</ele>
+	<name>HLN036</name>
+	<cmt>2006/09/21 0900Z; 92 MPH</cmt>
+	<desc>2006/09/21 0900Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.6" lon="-56.9">
+	<ele>0.000000</ele>
+	<name>HLN037</name>
+	<cmt>2006/09/21 1500Z; 80 MPH</cmt>
+	<desc>2006/09/21 1500Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.7" lon="-56.8">
+	<ele>0.000000</ele>
+	<name>HLN038</name>
+	<cmt>2006/09/21 2100Z; 80 MPH</cmt>
+	<desc>2006/09/21 2100Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.8" lon="-56.3">
+	<ele>0.000000</ele>
+	<name>HLN039</name>
+	<cmt>2006/09/22 0300Z; 86 MPH</cmt>
+	<desc>2006/09/22 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="32.9" lon="-55.2">
+	<ele>0.000000</ele>
+	<name>HLN040</name>
+	<cmt>2006/09/22 0900Z; 86 MPH</cmt>
+	<desc>2006/09/22 0900Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="34.4" lon="-54.2">
+	<ele>0.000000</ele>
+	<name>HLN041</name>
+	<cmt>2006/09/22 1500Z; 86 MPH</cmt>
+	<desc>2006/09/22 1500Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="35.4" lon="-53.0">
+	<ele>0.000000</ele>
+	<name>HLN042</name>
+	<cmt>2006/09/22 2100Z; 74 MPH</cmt>
+	<desc>2006/09/22 2100Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="36.0" lon="-50.6">
+	<ele>0.000000</ele>
+	<name>HLN043</name>
+	<cmt>2006/09/23 0300Z; 69 MPH</cmt>
+	<desc>2006/09/23 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.2" lon="-48.2">
+	<ele>0.000000</ele>
+	<name>HLN044</name>
+	<cmt>2006/09/23 0900Z; 69 MPH</cmt>
+	<desc>2006/09/23 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.4" lon="-47.2">
+	<ele>0.000000</ele>
+	<name>HLN045</name>
+	<cmt>2006/09/23 1200Z; 92 MPH</cmt>
+	<desc>2006/09/23 1200Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="37.7" lon="-46.4">
+	<ele>0.000000</ele>
+	<name>HLN046</name>
+	<cmt>2006/09/23 1500Z; 92 MPH</cmt>
+	<desc>2006/09/23 1500Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="38.0" lon="-44.4">
+	<ele>0.000000</ele>
+	<name>HLN047</name>
+	<cmt>2006/09/23 2100Z; 92 MPH</cmt>
+	<desc>2006/09/23 2100Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="39.1" lon="-41.7">
+	<ele>0.000000</ele>
+	<name>HLN048</name>
+	<cmt>2006/09/24 0300Z; 86 MPH</cmt>
+	<desc>2006/09/24 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="39.9" lon="-39.9">
+	<ele>0.000000</ele>
+	<name>HLN049</name>
+	<cmt>2006/09/24 0900Z; 86 MPH</cmt>
+	<desc>2006/09/24 0900Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="40.9" lon="-37.5">
+	<ele>0.000000</ele>
+	<name>HLN050</name>
+	<cmt>2006/09/24 1500Z; 69 MPH</cmt>
+	<desc>2006/09/24 1500Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.5" lon="-53.1">
+	<ele>0.000000</ele>
+	<name>ISAAC001</name>
+	<cmt>2006/09/27 2100Z; 34 MPH</cmt>
+	<desc>2006/09/27 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.2" lon="-53.8">
+	<ele>0.000000</ele>
+	<name>ISAAC002</name>
+	<cmt>2006/09/28 0300Z; 34 MPH</cmt>
+	<desc>2006/09/28 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.8" lon="-54.6">
+	<ele>0.000000</ele>
+	<name>ISAAC003</name>
+	<cmt>2006/09/28 0900Z; 34 MPH</cmt>
+	<desc>2006/09/28 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.2" lon="-54.7">
+	<ele>0.000000</ele>
+	<name>ISAAC004</name>
+	<cmt>2006/09/28 1500Z; 40 MPH</cmt>
+	<desc>2006/09/28 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.9" lon="-54.9">
+	<ele>0.000000</ele>
+	<name>ISAAC005</name>
+	<cmt>2006/09/28 2100Z; 46 MPH</cmt>
+	<desc>2006/09/28 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.2" lon="-55.2">
+	<ele>0.000000</ele>
+	<name>ISAAC006</name>
+	<cmt>2006/09/29 0300Z; 46 MPH</cmt>
+	<desc>2006/09/29 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.2" lon="-55.6">
+	<ele>0.000000</ele>
+	<name>ISAAC007</name>
+	<cmt>2006/09/29 0900Z; 46 MPH</cmt>
+	<desc>2006/09/29 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.4" lon="-56.2">
+	<ele>0.000000</ele>
+	<name>ISAAC008</name>
+	<cmt>2006/09/29 1500Z; 46 MPH</cmt>
+	<desc>2006/09/29 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.7" lon="-56.8">
+	<ele>0.000000</ele>
+	<name>ISAAC009</name>
+	<cmt>2006/09/29 2100Z; 57 MPH</cmt>
+	<desc>2006/09/29 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.1" lon="-57.4">
+	<ele>0.000000</ele>
+	<name>ISAAC010</name>
+	<cmt>2006/09/30 0300Z; 69 MPH</cmt>
+	<desc>2006/09/30 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.3" lon="-58.0">
+	<ele>0.000000</ele>
+	<name>ISAAC011</name>
+	<cmt>2006/09/30 0900Z; 69 MPH</cmt>
+	<desc>2006/09/30 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="30.9" lon="-58.7">
+	<ele>0.000000</ele>
+	<name>ISAAC012</name>
+	<cmt>2006/09/30 1500Z; 74 MPH</cmt>
+	<desc>2006/09/30 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="31.6" lon="-59.5">
+	<ele>0.000000</ele>
+	<name>ISAAC013</name>
+	<cmt>2006/09/30 2100Z; 80 MPH</cmt>
+	<desc>2006/09/30 2100Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="32.5" lon="-59.9">
+	<ele>0.000000</ele>
+	<name>ISAAC014</name>
+	<cmt>2006/10/01 0300Z; 80 MPH</cmt>
+	<desc>2006/10/01 0300Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="33.1" lon="-60.1">
+	<ele>0.000000</ele>
+	<name>ISAAC015</name>
+	<cmt>2006/10/01 0900Z; 86 MPH</cmt>
+	<desc>2006/10/01 0900Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="34.4" lon="-60.3">
+	<ele>0.000000</ele>
+	<name>ISAAC016</name>
+	<cmt>2006/10/01 1500Z; 80 MPH</cmt>
+	<desc>2006/10/01 1500Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="36.3" lon="-60.0">
+	<ele>0.000000</ele>
+	<name>ISAAC017</name>
+	<cmt>2006/10/01 2100Z; 80 MPH</cmt>
+	<desc>2006/10/01 2100Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="38.6" lon="-58.8">
+	<ele>0.000000</ele>
+	<name>ISAAC018</name>
+	<cmt>2006/10/02 0300Z; 74 MPH</cmt>
+	<desc>2006/10/02 0300Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="40.5" lon="-58.2">
+	<ele>0.000000</ele>
+	<name>ISAAC019</name>
+	<cmt>2006/10/02 0900Z; 74 MPH</cmt>
+	<desc>2006/10/02 0900Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="44.3" lon="-55.0">
+	<ele>0.000000</ele>
+	<name>ISAAC020</name>
+	<cmt>2006/10/02 1500Z; 57 MPH</cmt>
+	<desc>2006/10/02 1500Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="47.1" lon="-52.2">
+	<ele>0.000000</ele>
+	<name>ISAAC021</name>
+	<cmt>2006/10/02 2100Z; 57 MPH</cmt>
+	<desc>2006/10/02 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.5" lon="-101.5">
+	<ele>0.000000</ele>
+	<name>ALTT001</name>
+	<cmt>2006/05/27 1000Z; 28 MPH</cmt>
+	<desc>2006/05/27 1000Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.1" lon="-101.3">
+	<ele>0.000000</ele>
+	<name>ALTT002</name>
+	<cmt>2006/05/27 1500Z; 34 MPH</cmt>
+	<desc>2006/05/27 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.6" lon="-100.5">
+	<ele>0.000000</ele>
+	<name>ALTT003</name>
+	<cmt>2006/05/27 2100Z; 40 MPH</cmt>
+	<desc>2006/05/27 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.7" lon="-101.0">
+	<ele>0.000000</ele>
+	<name>ALTT004</name>
+	<cmt>2006/05/28 0300Z; 40 MPH</cmt>
+	<desc>2006/05/28 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.4" lon="-101.0">
+	<ele>0.000000</ele>
+	<name>ALTT005</name>
+	<cmt>2006/05/28 0900Z; 46 MPH</cmt>
+	<desc>2006/05/28 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.5" lon="-101.3">
+	<ele>0.000000</ele>
+	<name>ALTT006</name>
+	<cmt>2006/05/28 1500Z; 46 MPH</cmt>
+	<desc>2006/05/28 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-101.0">
+	<ele>0.000000</ele>
+	<name>ALTT007</name>
+	<cmt>2006/05/28 2100Z; 46 MPH</cmt>
+	<desc>2006/05/28 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-101.0">
+	<ele>0.000000</ele>
+	<name>ALTT008</name>
+	<cmt>2006/05/29 0300Z; 46 MPH</cmt>
+	<desc>2006/05/29 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-101.0">
+	<ele>0.000000</ele>
+	<name>ALTT009</name>
+	<cmt>2006/05/29 0900Z; 46 MPH</cmt>
+	<desc>2006/05/29 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-101.4">
+	<ele>0.000000</ele>
+	<name>ALTT010</name>
+	<cmt>2006/05/29 1500Z; 40 MPH</cmt>
+	<desc>2006/05/29 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.9" lon="-102.1">
+	<ele>0.000000</ele>
+	<name>ALTT011</name>
+	<cmt>2006/05/29 2100Z; 40 MPH</cmt>
+	<desc>2006/05/29 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-102.3">
+	<ele>0.000000</ele>
+	<name>ALTT012</name>
+	<cmt>2006/05/30 0300Z; 34 MPH</cmt>
+	<desc>2006/05/30 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-102.8">
+	<ele>0.000000</ele>
+	<name>ALTT013</name>
+	<cmt>2006/05/30 0900Z; 34 MPH</cmt>
+	<desc>2006/05/30 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-103.5">
+	<ele>0.000000</ele>
+	<name>ALTT014</name>
+	<cmt>2006/05/30 1500Z; 34 MPH</cmt>
+	<desc>2006/05/30 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.4" lon="-103.9">
+	<ele>0.000000</ele>
+	<name>ALTT015</name>
+	<cmt>2006/05/30 2100Z; 28 MPH</cmt>
+	<desc>2006/05/30 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-102.8">
+	<ele>0.000000</ele>
+	<name>TWOE001</name>
+	<cmt>2006/06/03 1500Z; 28 MPH</cmt>
+	<desc>2006/06/03 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.7" lon="-102.3">
+	<ele>0.000000</ele>
+	<name>TWOE002</name>
+	<cmt>2006/06/03 2100Z; 34 MPH</cmt>
+	<desc>2006/06/03 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.2" lon="-102.0">
+	<ele>0.000000</ele>
+	<name>TWOE003</name>
+	<cmt>2006/06/04 0300Z; 34 MPH</cmt>
+	<desc>2006/06/04 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-102.0">
+	<ele>0.000000</ele>
+	<name>TWOE004</name>
+	<cmt>2006/06/04 0900Z; 34 MPH</cmt>
+	<desc>2006/06/04 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.8" lon="-101.7">
+	<ele>0.000000</ele>
+	<name>TWOE005</name>
+	<cmt>2006/06/04 1500Z; 28 MPH</cmt>
+	<desc>2006/06/04 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-99.8">
+	<ele>0.000000</ele>
+	<name>TWOE006</name>
+	<cmt>2006/06/04 2100Z; 28 MPH</cmt>
+	<desc>2006/06/04 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.4" lon="-99.0">
+	<ele>0.000000</ele>
+	<name>TWOE007</name>
+	<cmt>2006/06/05 0300Z; 23 MPH</cmt>
+	<desc>2006/06/05 0300Z; 23 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.5" lon="-110.6">
+	<ele>0.000000</ele>
+	<name>BUD001</name>
+	<cmt>2006/07/11 0300Z; 34 MPH</cmt>
+	<desc>2006/07/11 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.7" lon="-111.3">
+	<ele>0.000000</ele>
+	<name>BUD002</name>
+	<cmt>2006/07/11 0900Z; 40 MPH</cmt>
+	<desc>2006/07/11 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.9" lon="-112.6">
+	<ele>0.000000</ele>
+	<name>BUD003</name>
+	<cmt>2006/07/11 1500Z; 40 MPH</cmt>
+	<desc>2006/07/11 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.4" lon="-113.0">
+	<ele>0.000000</ele>
+	<name>BUD004</name>
+	<cmt>2006/07/11 2100Z; 57 MPH</cmt>
+	<desc>2006/07/11 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.2" lon="-113.1">
+	<ele>0.000000</ele>
+	<name>BUD005</name>
+	<cmt>2006/07/11 2230Z; 74 MPH</cmt>
+	<desc>2006/07/11 2230Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.6" lon="-114.1">
+	<ele>0.000000</ele>
+	<name>BUD006</name>
+	<cmt>2006/07/12 0300Z; 92 MPH</cmt>
+	<desc>2006/07/12 0300Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.0" lon="-115.3">
+	<ele>0.000000</ele>
+	<name>BUD007</name>
+	<cmt>2006/07/12 0900Z; 97 MPH</cmt>
+	<desc>2006/07/12 0900Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.7" lon="-116.2">
+	<ele>0.000000</ele>
+	<name>BUD008</name>
+	<cmt>2006/07/12 1500Z; 97 MPH</cmt>
+	<desc>2006/07/12 1500Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.3" lon="-117.5">
+	<ele>0.000000</ele>
+	<name>BUD009</name>
+	<cmt>2006/07/12 2100Z; 103 MPH</cmt>
+	<desc>2006/07/12 2100Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.1" lon="-118.9">
+	<ele>0.000000</ele>
+	<name>BUD010</name>
+	<cmt>2006/07/13 0300Z; 115 MPH</cmt>
+	<desc>2006/07/13 0300Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.5" lon="-120.5">
+	<ele>0.000000</ele>
+	<name>BUD011</name>
+	<cmt>2006/07/13 0900Z; 126 MPH</cmt>
+	<desc>2006/07/13 0900Z; 126 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.9" lon="-122.0">
+	<ele>0.000000</ele>
+	<name>BUD012</name>
+	<cmt>2006/07/13 1500Z; 115 MPH</cmt>
+	<desc>2006/07/13 1500Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.4" lon="-123.3">
+	<ele>0.000000</ele>
+	<name>BUD013</name>
+	<cmt>2006/07/13 2100Z; 109 MPH</cmt>
+	<desc>2006/07/13 2100Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.9" lon="-124.6">
+	<ele>0.000000</ele>
+	<name>BUD014</name>
+	<cmt>2006/07/14 0300Z; 97 MPH</cmt>
+	<desc>2006/07/14 0300Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.5" lon="-125.9">
+	<ele>0.000000</ele>
+	<name>BUD015</name>
+	<cmt>2006/07/14 0900Z; 80 MPH</cmt>
+	<desc>2006/07/14 0900Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.7" lon="-127.1">
+	<ele>0.000000</ele>
+	<name>BUD016</name>
+	<cmt>2006/07/14 1500Z; 63 MPH</cmt>
+	<desc>2006/07/14 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.8" lon="-128.5">
+	<ele>0.000000</ele>
+	<name>BUD017</name>
+	<cmt>2006/07/14 2100Z; 46 MPH</cmt>
+	<desc>2006/07/14 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.1" lon="-130.0">
+	<ele>0.000000</ele>
+	<name>BUD018</name>
+	<cmt>2006/07/15 0300Z; 40 MPH</cmt>
+	<desc>2006/07/15 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.4" lon="-131.4">
+	<ele>0.000000</ele>
+	<name>BUD019</name>
+	<cmt>2006/07/15 0900Z; 34 MPH</cmt>
+	<desc>2006/07/15 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.6" lon="-132.9">
+	<ele>0.000000</ele>
+	<name>BUD020</name>
+	<cmt>2006/07/15 1500Z; 34 MPH</cmt>
+	<desc>2006/07/15 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.1" lon="-134.2">
+	<ele>0.000000</ele>
+	<name>BUD021</name>
+	<cmt>2006/07/15 2100Z; 28 MPH</cmt>
+	<desc>2006/07/15 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.4" lon="-102.8">
+	<ele>0.000000</ele>
+	<name>CRLTT001</name>
+	<cmt>2006/07/12 0300Z; 34 MPH</cmt>
+	<desc>2006/07/12 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.1" lon="-103.9">
+	<ele>0.000000</ele>
+	<name>CRLTT002</name>
+	<cmt>2006/07/12 0900Z; 40 MPH</cmt>
+	<desc>2006/07/12 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.5" lon="-105.3">
+	<ele>0.000000</ele>
+	<name>CRLTT003</name>
+	<cmt>2006/07/12 1500Z; 46 MPH</cmt>
+	<desc>2006/07/12 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.3" lon="-106.4">
+	<ele>0.000000</ele>
+	<name>CRLTT004</name>
+	<cmt>2006/07/12 2100Z; 57 MPH</cmt>
+	<desc>2006/07/12 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-107.9">
+	<ele>0.000000</ele>
+	<name>CRLTT005</name>
+	<cmt>2006/07/13 0300Z; 69 MPH</cmt>
+	<desc>2006/07/13 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.4" lon="-109.4">
+	<ele>0.000000</ele>
+	<name>CRLTT006</name>
+	<cmt>2006/07/13 0900Z; 86 MPH</cmt>
+	<desc>2006/07/13 0900Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.3" lon="-110.4">
+	<ele>0.000000</ele>
+	<name>CRLTT007</name>
+	<cmt>2006/07/13 1500Z; 80 MPH</cmt>
+	<desc>2006/07/13 1500Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.8" lon="-111.3">
+	<ele>0.000000</ele>
+	<name>CRLTT008</name>
+	<cmt>2006/07/13 2100Z; 86 MPH</cmt>
+	<desc>2006/07/13 2100Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.1" lon="-112.1">
+	<ele>0.000000</ele>
+	<name>CRLTT009</name>
+	<cmt>2006/07/14 0300Z; 86 MPH</cmt>
+	<desc>2006/07/14 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.1" lon="-112.8">
+	<ele>0.000000</ele>
+	<name>CRLTT010</name>
+	<cmt>2006/07/14 0900Z; 86 MPH</cmt>
+	<desc>2006/07/14 0900Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.4" lon="-113.7">
+	<ele>0.000000</ele>
+	<name>CRLTT011</name>
+	<cmt>2006/07/14 1500Z; 74 MPH</cmt>
+	<desc>2006/07/14 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.6" lon="-114.4">
+	<ele>0.000000</ele>
+	<name>CRLTT012</name>
+	<cmt>2006/07/14 2100Z; 69 MPH</cmt>
+	<desc>2006/07/14 2100Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.9" lon="-115.4">
+	<ele>0.000000</ele>
+	<name>CRLTT013</name>
+	<cmt>2006/07/15 0300Z; 80 MPH</cmt>
+	<desc>2006/07/15 0300Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.0" lon="-116.5">
+	<ele>0.000000</ele>
+	<name>CRLTT014</name>
+	<cmt>2006/07/15 0900Z; 80 MPH</cmt>
+	<desc>2006/07/15 0900Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.8" lon="-117.7">
+	<ele>0.000000</ele>
+	<name>CRLTT015</name>
+	<cmt>2006/07/15 1500Z; 74 MPH</cmt>
+	<desc>2006/07/15 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.4" lon="-118.4">
+	<ele>0.000000</ele>
+	<name>CRLTT016</name>
+	<cmt>2006/07/15 2100Z; 63 MPH</cmt>
+	<desc>2006/07/15 2100Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.7" lon="-119.6">
+	<ele>0.000000</ele>
+	<name>CRLTT017</name>
+	<cmt>2006/07/16 0300Z; 51 MPH</cmt>
+	<desc>2006/07/16 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.9" lon="-120.5">
+	<ele>0.000000</ele>
+	<name>CRLTT018</name>
+	<cmt>2006/07/16 0900Z; 46 MPH</cmt>
+	<desc>2006/07/16 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.2" lon="-121.5">
+	<ele>0.000000</ele>
+	<name>CRLTT019</name>
+	<cmt>2006/07/16 1500Z; 34 MPH</cmt>
+	<desc>2006/07/16 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.4" lon="-122.4">
+	<ele>0.000000</ele>
+	<name>CRLTT020</name>
+	<cmt>2006/07/16 2100Z; 34 MPH</cmt>
+	<desc>2006/07/16 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.9" lon="-123.5">
+	<ele>0.000000</ele>
+	<name>CRLTT021</name>
+	<cmt>2006/07/17 0300Z; 28 MPH</cmt>
+	<desc>2006/07/17 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.4" lon="-109.9">
+	<ele>0.000000</ele>
+	<name>DNL001</name>
+	<cmt>2006/07/17 0300Z; 34 MPH</cmt>
+	<desc>2006/07/17 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.4" lon="-111.0">
+	<ele>0.000000</ele>
+	<name>DNL002</name>
+	<cmt>2006/07/17 0900Z; 34 MPH</cmt>
+	<desc>2006/07/17 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.4" lon="-112.2">
+	<ele>0.000000</ele>
+	<name>DNL003</name>
+	<cmt>2006/07/17 1500Z; 40 MPH</cmt>
+	<desc>2006/07/17 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.4" lon="-112.8">
+	<ele>0.000000</ele>
+	<name>DNL004</name>
+	<cmt>2006/07/17 2100Z; 46 MPH</cmt>
+	<desc>2006/07/17 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.3" lon="-114.1">
+	<ele>0.000000</ele>
+	<name>DNL005</name>
+	<cmt>2006/07/18 0300Z; 51 MPH</cmt>
+	<desc>2006/07/18 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.2" lon="-115.2">
+	<ele>0.000000</ele>
+	<name>DNL006</name>
+	<cmt>2006/07/18 0900Z; 63 MPH</cmt>
+	<desc>2006/07/18 0900Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.2" lon="-116.8">
+	<ele>0.000000</ele>
+	<name>DNL007</name>
+	<cmt>2006/07/18 1500Z; 69 MPH</cmt>
+	<desc>2006/07/18 1500Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="11.9" lon="-117.6">
+	<ele>0.000000</ele>
+	<name>DNL008</name>
+	<cmt>2006/07/18 2100Z; 74 MPH</cmt>
+	<desc>2006/07/18 2100Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="11.9" lon="-118.4">
+	<ele>0.000000</ele>
+	<name>DNL009</name>
+	<cmt>2006/07/19 0300Z; 80 MPH</cmt>
+	<desc>2006/07/19 0300Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="11.8" lon="-119.0">
+	<ele>0.000000</ele>
+	<name>DNL010</name>
+	<cmt>2006/07/19 0900Z; 92 MPH</cmt>
+	<desc>2006/07/19 0900Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="11.9" lon="-119.6">
+	<ele>0.000000</ele>
+	<name>DNL011</name>
+	<cmt>2006/07/19 1500Z; 97 MPH</cmt>
+	<desc>2006/07/19 1500Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.0" lon="-120.4">
+	<ele>0.000000</ele>
+	<name>DNL012</name>
+	<cmt>2006/07/19 2100Z; 97 MPH</cmt>
+	<desc>2006/07/19 2100Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.0" lon="-121.0">
+	<ele>0.000000</ele>
+	<name>DNL013</name>
+	<cmt>2006/07/20 0300Z; 109 MPH</cmt>
+	<desc>2006/07/20 0300Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.2" lon="-121.9">
+	<ele>0.000000</ele>
+	<name>DNL014</name>
+	<cmt>2006/07/20 0900Z; 115 MPH</cmt>
+	<desc>2006/07/20 0900Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.5" lon="-122.6">
+	<ele>0.000000</ele>
+	<name>DNL015</name>
+	<cmt>2006/07/20 1500Z; 126 MPH</cmt>
+	<desc>2006/07/20 1500Z; 126 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.7" lon="-123.4">
+	<ele>0.000000</ele>
+	<name>DNL016</name>
+	<cmt>2006/07/20 2100Z; 132 MPH</cmt>
+	<desc>2006/07/20 2100Z; 132 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.1" lon="-124.3">
+	<ele>0.000000</ele>
+	<name>DNL017</name>
+	<cmt>2006/07/21 0300Z; 138 MPH</cmt>
+	<desc>2006/07/21 0300Z; 138 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.2" lon="-125.3">
+	<ele>0.000000</ele>
+	<name>DNL018</name>
+	<cmt>2006/07/21 0900Z; 132 MPH</cmt>
+	<desc>2006/07/21 0900Z; 132 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.4" lon="-126.3">
+	<ele>0.000000</ele>
+	<name>DNL019</name>
+	<cmt>2006/07/21 1500Z; 132 MPH</cmt>
+	<desc>2006/07/21 1500Z; 132 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.5" lon="-127.4">
+	<ele>0.000000</ele>
+	<name>DNL020</name>
+	<cmt>2006/07/21 2100Z; 143 MPH</cmt>
+	<desc>2006/07/21 2100Z; 143 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.6" lon="-128.5">
+	<ele>0.000000</ele>
+	<name>DNL021</name>
+	<cmt>2006/07/22 0300Z; 149 MPH</cmt>
+	<desc>2006/07/22 0300Z; 149 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.8" lon="-129.7">
+	<ele>0.000000</ele>
+	<name>DNL022</name>
+	<cmt>2006/07/22 0900Z; 149 MPH</cmt>
+	<desc>2006/07/22 0900Z; 149 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.9" lon="-130.8">
+	<ele>0.000000</ele>
+	<name>DNL023</name>
+	<cmt>2006/07/22 1500Z; 149 MPH</cmt>
+	<desc>2006/07/22 1500Z; 149 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.0" lon="-131.9">
+	<ele>0.000000</ele>
+	<name>DNL024</name>
+	<cmt>2006/07/22 2100Z; 143 MPH</cmt>
+	<desc>2006/07/22 2100Z; 143 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.4" lon="-133.2">
+	<ele>0.000000</ele>
+	<name>DNL025</name>
+	<cmt>2006/07/23 0300Z; 143 MPH</cmt>
+	<desc>2006/07/23 0300Z; 143 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.7" lon="-134.6">
+	<ele>0.000000</ele>
+	<name>DNL026</name>
+	<cmt>2006/07/23 0900Z; 132 MPH</cmt>
+	<desc>2006/07/23 0900Z; 132 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.9" lon="-135.7">
+	<ele>0.000000</ele>
+	<name>DNL027</name>
+	<cmt>2006/07/23 1500Z; 132 MPH</cmt>
+	<desc>2006/07/23 1500Z; 132 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.3" lon="-137.1">
+	<ele>0.000000</ele>
+	<name>DNL028</name>
+	<cmt>2006/07/23 2100Z; 120 MPH</cmt>
+	<desc>2006/07/23 2100Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-138.7">
+	<ele>0.000000</ele>
+	<name>DNL029</name>
+	<cmt>2006/07/24 0300Z; 109 MPH</cmt>
+	<desc>2006/07/24 0300Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.1" lon="-139.8">
+	<ele>0.000000</ele>
+	<name>DNL030</name>
+	<cmt>2006/07/24 0900Z; 97 MPH</cmt>
+	<desc>2006/07/24 0900Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.1" lon="-103.1">
+	<ele>0.000000</ele>
+	<name>EML001</name>
+	<cmt>2006/07/21 1500Z; 28 MPH</cmt>
+	<desc>2006/07/21 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.7" lon="-103.3">
+	<ele>0.000000</ele>
+	<name>EML002</name>
+	<cmt>2006/07/21 2100Z; 28 MPH</cmt>
+	<desc>2006/07/21 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.4" lon="-103.5">
+	<ele>0.000000</ele>
+	<name>EML003</name>
+	<cmt>2006/07/22 0300Z; 34 MPH</cmt>
+	<desc>2006/07/22 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.8" lon="-104.0">
+	<ele>0.000000</ele>
+	<name>EML004</name>
+	<cmt>2006/07/22 0900Z; 40 MPH</cmt>
+	<desc>2006/07/22 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.3" lon="-104.6">
+	<ele>0.000000</ele>
+	<name>EML005</name>
+	<cmt>2006/07/22 1500Z; 40 MPH</cmt>
+	<desc>2006/07/22 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-104.6">
+	<ele>0.000000</ele>
+	<name>EML006</name>
+	<cmt>2006/07/22 2100Z; 46 MPH</cmt>
+	<desc>2006/07/22 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.4" lon="-105.3">
+	<ele>0.000000</ele>
+	<name>EML007</name>
+	<cmt>2006/07/23 0300Z; 46 MPH</cmt>
+	<desc>2006/07/23 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.8" lon="-106.5">
+	<ele>0.000000</ele>
+	<name>EML008</name>
+	<cmt>2006/07/23 0900Z; 51 MPH</cmt>
+	<desc>2006/07/23 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.1" lon="-107.4">
+	<ele>0.000000</ele>
+	<name>EML009</name>
+	<cmt>2006/07/23 1500Z; 63 MPH</cmt>
+	<desc>2006/07/23 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.4" lon="-107.8">
+	<ele>0.000000</ele>
+	<name>EML010</name>
+	<cmt>2006/07/23 2100Z; 69 MPH</cmt>
+	<desc>2006/07/23 2100Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.2" lon="-108.8">
+	<ele>0.000000</ele>
+	<name>EML011</name>
+	<cmt>2006/07/24 0300Z; 69 MPH</cmt>
+	<desc>2006/07/24 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.4" lon="-109.7">
+	<ele>0.000000</ele>
+	<name>EML012</name>
+	<cmt>2006/07/24 0900Z; 69 MPH</cmt>
+	<desc>2006/07/24 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.7" lon="-110.1">
+	<ele>0.000000</ele>
+	<name>EML013</name>
+	<cmt>2006/07/24 1500Z; 63 MPH</cmt>
+	<desc>2006/07/24 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.2" lon="-110.4">
+	<ele>0.000000</ele>
+	<name>EML014</name>
+	<cmt>2006/07/24 2100Z; 57 MPH</cmt>
+	<desc>2006/07/24 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.8" lon="-110.6">
+	<ele>0.000000</ele>
+	<name>EML015</name>
+	<cmt>2006/07/25 0300Z; 51 MPH</cmt>
+	<desc>2006/07/25 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.2" lon="-111.0">
+	<ele>0.000000</ele>
+	<name>EML016</name>
+	<cmt>2006/07/25 0900Z; 51 MPH</cmt>
+	<desc>2006/07/25 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.6" lon="-111.3">
+	<ele>0.000000</ele>
+	<name>EML017</name>
+	<cmt>2006/07/25 1500Z; 63 MPH</cmt>
+	<desc>2006/07/25 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.8" lon="-111.6">
+	<ele>0.000000</ele>
+	<name>EML018</name>
+	<cmt>2006/07/25 2100Z; 63 MPH</cmt>
+	<desc>2006/07/25 2100Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.9" lon="-111.0">
+	<ele>0.000000</ele>
+	<name>EML019</name>
+	<cmt>2006/07/26 0300Z; 69 MPH</cmt>
+	<desc>2006/07/26 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.0" lon="-112.5">
+	<ele>0.000000</ele>
+	<name>EML020</name>
+	<cmt>2006/07/26 0900Z; 69 MPH</cmt>
+	<desc>2006/07/26 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.7" lon="-113.5">
+	<ele>0.000000</ele>
+	<name>EML021</name>
+	<cmt>2006/07/26 1500Z; 69 MPH</cmt>
+	<desc>2006/07/26 1500Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.5" lon="-114.4">
+	<ele>0.000000</ele>
+	<name>EML022</name>
+	<cmt>2006/07/26 2100Z; 63 MPH</cmt>
+	<desc>2006/07/26 2100Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.8" lon="-115.8">
+	<ele>0.000000</ele>
+	<name>EML023</name>
+	<cmt>2006/07/27 0300Z; 51 MPH</cmt>
+	<desc>2006/07/27 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.4" lon="-116.7">
+	<ele>0.000000</ele>
+	<name>EML024</name>
+	<cmt>2006/07/27 0900Z; 34 MPH</cmt>
+	<desc>2006/07/27 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.1" lon="-118.6">
+	<ele>0.000000</ele>
+	<name>EML025</name>
+	<cmt>2006/07/27 1500Z; 28 MPH</cmt>
+	<desc>2006/07/27 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.3" lon="-119.2">
+	<ele>0.000000</ele>
+	<name>EML026</name>
+	<cmt>2006/07/27 2100Z; 28 MPH</cmt>
+	<desc>2006/07/27 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.0" lon="-119.8">
+	<ele>0.000000</ele>
+	<name>EML027</name>
+	<cmt>2006/07/28 0300Z; 28 MPH</cmt>
+	<desc>2006/07/28 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.2" lon="-122.0">
+	<ele>0.000000</ele>
+	<name>FABIO001</name>
+	<cmt>2006/07/31 2100Z; 34 MPH</cmt>
+	<desc>2006/07/31 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.5" lon="-123.3">
+	<ele>0.000000</ele>
+	<name>FABIO002</name>
+	<cmt>2006/08/01 0300Z; 40 MPH</cmt>
+	<desc>2006/08/01 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.8" lon="-124.6">
+	<ele>0.000000</ele>
+	<name>FABIO003</name>
+	<cmt>2006/08/01 0900Z; 40 MPH</cmt>
+	<desc>2006/08/01 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.0" lon="-125.7">
+	<ele>0.000000</ele>
+	<name>FABIO004</name>
+	<cmt>2006/08/01 1500Z; 51 MPH</cmt>
+	<desc>2006/08/01 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.0" lon="-127.3">
+	<ele>0.000000</ele>
+	<name>FABIO005</name>
+	<cmt>2006/08/01 2100Z; 51 MPH</cmt>
+	<desc>2006/08/01 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.7" lon="-128.2">
+	<ele>0.000000</ele>
+	<name>FABIO006</name>
+	<cmt>2006/08/02 0300Z; 51 MPH</cmt>
+	<desc>2006/08/02 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.7" lon="-129.5">
+	<ele>0.000000</ele>
+	<name>FABIO007</name>
+	<cmt>2006/08/02 0900Z; 51 MPH</cmt>
+	<desc>2006/08/02 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.9" lon="-131.2">
+	<ele>0.000000</ele>
+	<name>FABIO008</name>
+	<cmt>2006/08/02 1500Z; 46 MPH</cmt>
+	<desc>2006/08/02 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.1" lon="-132.6">
+	<ele>0.000000</ele>
+	<name>FABIO009</name>
+	<cmt>2006/08/02 2100Z; 40 MPH</cmt>
+	<desc>2006/08/02 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.3" lon="-134.3">
+	<ele>0.000000</ele>
+	<name>FABIO010</name>
+	<cmt>2006/08/03 0300Z; 34 MPH</cmt>
+	<desc>2006/08/03 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.2" lon="-135.8">
+	<ele>0.000000</ele>
+	<name>FABIO011</name>
+	<cmt>2006/08/03 0900Z; 34 MPH</cmt>
+	<desc>2006/08/03 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.1" lon="-137.3">
+	<ele>0.000000</ele>
+	<name>FABIO012</name>
+	<cmt>2006/08/03 1500Z; 34 MPH</cmt>
+	<desc>2006/08/03 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.0" lon="-138.9">
+	<ele>0.000000</ele>
+	<name>FABIO013</name>
+	<cmt>2006/08/03 2100Z; 34 MPH</cmt>
+	<desc>2006/08/03 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.7" lon="-104.6">
+	<ele>0.000000</ele>
+	<name>GILMA001</name>
+	<cmt>2006/08/01 0300Z; 34 MPH</cmt>
+	<desc>2006/08/01 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.6" lon="-104.6">
+	<ele>0.000000</ele>
+	<name>GILMA002</name>
+	<cmt>2006/08/01 0900Z; 34 MPH</cmt>
+	<desc>2006/08/01 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.8" lon="-105.5">
+	<ele>0.000000</ele>
+	<name>GILMA003</name>
+	<cmt>2006/08/01 1500Z; 40 MPH</cmt>
+	<desc>2006/08/01 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.4" lon="-105.6">
+	<ele>0.000000</ele>
+	<name>GILMA004</name>
+	<cmt>2006/08/01 2100Z; 40 MPH</cmt>
+	<desc>2006/08/01 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.8" lon="-106.0">
+	<ele>0.000000</ele>
+	<name>GILMA005</name>
+	<cmt>2006/08/02 0300Z; 40 MPH</cmt>
+	<desc>2006/08/02 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.6" lon="-106.0">
+	<ele>0.000000</ele>
+	<name>GILMA006</name>
+	<cmt>2006/08/02 0900Z; 34 MPH</cmt>
+	<desc>2006/08/02 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.9" lon="-106.5">
+	<ele>0.000000</ele>
+	<name>GILMA007</name>
+	<cmt>2006/08/02 1500Z; 34 MPH</cmt>
+	<desc>2006/08/02 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.0" lon="-107.2">
+	<ele>0.000000</ele>
+	<name>GILMA008</name>
+	<cmt>2006/08/02 2100Z; 34 MPH</cmt>
+	<desc>2006/08/02 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.4" lon="-107.8">
+	<ele>0.000000</ele>
+	<name>GILMA009</name>
+	<cmt>2006/08/03 0300Z; 34 MPH</cmt>
+	<desc>2006/08/03 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.4" lon="-108.4">
+	<ele>0.000000</ele>
+	<name>GILMA010</name>
+	<cmt>2006/08/03 0900Z; 28 MPH</cmt>
+	<desc>2006/08/03 0900Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.7" lon="-109.5">
+	<ele>0.000000</ele>
+	<name>GILMA011</name>
+	<cmt>2006/08/03 1500Z; 28 MPH</cmt>
+	<desc>2006/08/03 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-110.1">
+	<ele>0.000000</ele>
+	<name>GILMA012</name>
+	<cmt>2006/08/03 2100Z; 23 MPH</cmt>
+	<desc>2006/08/03 2100Z; 23 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.0" lon="-114.1">
+	<ele>0.000000</ele>
+	<name>HCTR001</name>
+	<cmt>2006/08/15 2100Z; 34 MPH</cmt>
+	<desc>2006/08/15 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.3" lon="-115.3">
+	<ele>0.000000</ele>
+	<name>HCTR002</name>
+	<cmt>2006/08/16 0300Z; 34 MPH</cmt>
+	<desc>2006/08/16 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.1" lon="-116.5">
+	<ele>0.000000</ele>
+	<name>HCTR003</name>
+	<cmt>2006/08/16 0900Z; 46 MPH</cmt>
+	<desc>2006/08/16 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.0" lon="-117.2">
+	<ele>0.000000</ele>
+	<name>HCTR004</name>
+	<cmt>2006/08/16 1500Z; 63 MPH</cmt>
+	<desc>2006/08/16 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.8" lon="-117.6">
+	<ele>0.000000</ele>
+	<name>HCTR005</name>
+	<cmt>2006/08/16 2100Z; 63 MPH</cmt>
+	<desc>2006/08/16 2100Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.3" lon="-118.6">
+	<ele>0.000000</ele>
+	<name>HCTR006</name>
+	<cmt>2006/08/17 0300Z; 63 MPH</cmt>
+	<desc>2006/08/17 0300Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.5" lon="-119.6">
+	<ele>0.000000</ele>
+	<name>HCTR007</name>
+	<cmt>2006/08/17 0900Z; 69 MPH</cmt>
+	<desc>2006/08/17 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.7" lon="-121.1">
+	<ele>0.000000</ele>
+	<name>HCTR008</name>
+	<cmt>2006/08/17 1500Z; 86 MPH</cmt>
+	<desc>2006/08/17 1500Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.0" lon="-122.1">
+	<ele>0.000000</ele>
+	<name>HCTR009</name>
+	<cmt>2006/08/17 2100Z; 92 MPH</cmt>
+	<desc>2006/08/17 2100Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.4" lon="-123.2">
+	<ele>0.000000</ele>
+	<name>HCTR010</name>
+	<cmt>2006/08/18 0300Z; 92 MPH</cmt>
+	<desc>2006/08/18 0300Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-124.4">
+	<ele>0.000000</ele>
+	<name>HCTR011</name>
+	<cmt>2006/08/18 0900Z; 103 MPH</cmt>
+	<desc>2006/08/18 0900Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.1" lon="-125.8">
+	<ele>0.000000</ele>
+	<name>HCTR012</name>
+	<cmt>2006/08/18 1500Z; 97 MPH</cmt>
+	<desc>2006/08/18 1500Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.7" lon="-126.9">
+	<ele>0.000000</ele>
+	<name>HCTR013</name>
+	<cmt>2006/08/18 2100Z; 97 MPH</cmt>
+	<desc>2006/08/18 2100Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-128.0">
+	<ele>0.000000</ele>
+	<name>HCTR014</name>
+	<cmt>2006/08/19 0300Z; 97 MPH</cmt>
+	<desc>2006/08/19 0300Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.4" lon="-129.1">
+	<ele>0.000000</ele>
+	<name>HCTR015</name>
+	<cmt>2006/08/19 0900Z; 103 MPH</cmt>
+	<desc>2006/08/19 0900Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.7" lon="-130.1">
+	<ele>0.000000</ele>
+	<name>HCTR016</name>
+	<cmt>2006/08/19 1500Z; 97 MPH</cmt>
+	<desc>2006/08/19 1500Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.3" lon="-131.0">
+	<ele>0.000000</ele>
+	<name>HCTR017</name>
+	<cmt>2006/08/19 2100Z; 86 MPH</cmt>
+	<desc>2006/08/19 2100Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.0" lon="-132.1">
+	<ele>0.000000</ele>
+	<name>HCTR018</name>
+	<cmt>2006/08/20 0300Z; 80 MPH</cmt>
+	<desc>2006/08/20 0300Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.4" lon="-132.6">
+	<ele>0.000000</ele>
+	<name>HCTR019</name>
+	<cmt>2006/08/20 0900Z; 86 MPH</cmt>
+	<desc>2006/08/20 0900Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.8" lon="-133.5">
+	<ele>0.000000</ele>
+	<name>HCTR020</name>
+	<cmt>2006/08/20 1500Z; 69 MPH</cmt>
+	<desc>2006/08/20 1500Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.4" lon="-134.2">
+	<ele>0.000000</ele>
+	<name>HCTR021</name>
+	<cmt>2006/08/20 2100Z; 57 MPH</cmt>
+	<desc>2006/08/20 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.9" lon="-134.6">
+	<ele>0.000000</ele>
+	<name>HCTR022</name>
+	<cmt>2006/08/21 0300Z; 46 MPH</cmt>
+	<desc>2006/08/21 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.2" lon="-135.1">
+	<ele>0.000000</ele>
+	<name>HCTR023</name>
+	<cmt>2006/08/21 0900Z; 40 MPH</cmt>
+	<desc>2006/08/21 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.8" lon="-135.4">
+	<ele>0.000000</ele>
+	<name>HCTR024</name>
+	<cmt>2006/08/21 1500Z; 40 MPH</cmt>
+	<desc>2006/08/21 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.3" lon="-135.5">
+	<ele>0.000000</ele>
+	<name>HCTR025</name>
+	<cmt>2006/08/21 2100Z; 46 MPH</cmt>
+	<desc>2006/08/21 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.6" lon="-135.9">
+	<ele>0.000000</ele>
+	<name>HCTR026</name>
+	<cmt>2006/08/22 0300Z; 40 MPH</cmt>
+	<desc>2006/08/22 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.4" lon="-136.5">
+	<ele>0.000000</ele>
+	<name>HCTR027</name>
+	<cmt>2006/08/22 0900Z; 40 MPH</cmt>
+	<desc>2006/08/22 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.8" lon="-137.0">
+	<ele>0.000000</ele>
+	<name>HCTR028</name>
+	<cmt>2006/08/22 1500Z; 40 MPH</cmt>
+	<desc>2006/08/22 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.9" lon="-137.4">
+	<ele>0.000000</ele>
+	<name>HCTR029</name>
+	<cmt>2006/08/22 2100Z; 40 MPH</cmt>
+	<desc>2006/08/22 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.0" lon="-138.1">
+	<ele>0.000000</ele>
+	<name>HCTR030</name>
+	<cmt>2006/08/23 0300Z; 34 MPH</cmt>
+	<desc>2006/08/23 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.8" lon="-102.8">
+	<ele>0.000000</ele>
+	<name>ILN001</name>
+	<cmt>2006/08/21 1800Z; 34 MPH</cmt>
+	<desc>2006/08/21 1800Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.8" lon="-103.2">
+	<ele>0.000000</ele>
+	<name>ILN002</name>
+	<cmt>2006/08/21 2100Z; 40 MPH</cmt>
+	<desc>2006/08/21 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.3" lon="-104.3">
+	<ele>0.000000</ele>
+	<name>ILN003</name>
+	<cmt>2006/08/22 0300Z; 46 MPH</cmt>
+	<desc>2006/08/22 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.0" lon="-105.6">
+	<ele>0.000000</ele>
+	<name>ILN004</name>
+	<cmt>2006/08/22 0900Z; 51 MPH</cmt>
+	<desc>2006/08/22 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.8" lon="-106.7">
+	<ele>0.000000</ele>
+	<name>ILN005</name>
+	<cmt>2006/08/22 1500Z; 63 MPH</cmt>
+	<desc>2006/08/22 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-108.2">
+	<ele>0.000000</ele>
+	<name>ILN006</name>
+	<cmt>2006/08/22 2100Z; 74 MPH</cmt>
+	<desc>2006/08/22 2100Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.6" lon="-109.2">
+	<ele>0.000000</ele>
+	<name>ILN007</name>
+	<cmt>2006/08/23 0300Z; 86 MPH</cmt>
+	<desc>2006/08/23 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.5" lon="-110.6">
+	<ele>0.000000</ele>
+	<name>ILN008</name>
+	<cmt>2006/08/23 0900Z; 115 MPH</cmt>
+	<desc>2006/08/23 0900Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.1" lon="-111.5">
+	<ele>0.000000</ele>
+	<name>ILN009</name>
+	<cmt>2006/08/23 1500Z; 120 MPH</cmt>
+	<desc>2006/08/23 1500Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.0" lon="-112.7">
+	<ele>0.000000</ele>
+	<name>ILN010</name>
+	<cmt>2006/08/23 2100Z; 120 MPH</cmt>
+	<desc>2006/08/23 2100Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.4" lon="-113.5">
+	<ele>0.000000</ele>
+	<name>ILN011</name>
+	<cmt>2006/08/24 0300Z; 120 MPH</cmt>
+	<desc>2006/08/24 0300Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.9" lon="-114.2">
+	<ele>0.000000</ele>
+	<name>ILN012</name>
+	<cmt>2006/08/24 0900Z; 109 MPH</cmt>
+	<desc>2006/08/24 0900Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.5" lon="-114.9">
+	<ele>0.000000</ele>
+	<name>ILN013</name>
+	<cmt>2006/08/24 1500Z; 97 MPH</cmt>
+	<desc>2006/08/24 1500Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.8" lon="-115.5">
+	<ele>0.000000</ele>
+	<name>ILN014</name>
+	<cmt>2006/08/24 2100Z; 97 MPH</cmt>
+	<desc>2006/08/24 2100Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.2" lon="-116.0">
+	<ele>0.000000</ele>
+	<name>ILN015</name>
+	<cmt>2006/08/25 0300Z; 92 MPH</cmt>
+	<desc>2006/08/25 0300Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.3" lon="-116.7">
+	<ele>0.000000</ele>
+	<name>ILN016</name>
+	<cmt>2006/08/25 0900Z; 86 MPH</cmt>
+	<desc>2006/08/25 0900Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.6" lon="-116.9">
+	<ele>0.000000</ele>
+	<name>ILN017</name>
+	<cmt>2006/08/25 1500Z; 80 MPH</cmt>
+	<desc>2006/08/25 1500Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.0" lon="-117.2">
+	<ele>0.000000</ele>
+	<name>ILN018</name>
+	<cmt>2006/08/25 2100Z; 74 MPH</cmt>
+	<desc>2006/08/25 2100Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.3" lon="-117.9">
+	<ele>0.000000</ele>
+	<name>ILN019</name>
+	<cmt>2006/08/26 0300Z; 74 MPH</cmt>
+	<desc>2006/08/26 0300Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.5" lon="-118.6">
+	<ele>0.000000</ele>
+	<name>ILN020</name>
+	<cmt>2006/08/26 0900Z; 63 MPH</cmt>
+	<desc>2006/08/26 0900Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.8" lon="-119.3">
+	<ele>0.000000</ele>
+	<name>ILN021</name>
+	<cmt>2006/08/26 1500Z; 63 MPH</cmt>
+	<desc>2006/08/26 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.8" lon="-119.2">
+	<ele>0.000000</ele>
+	<name>ILN022</name>
+	<cmt>2006/08/26 2100Z; 57 MPH</cmt>
+	<desc>2006/08/26 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.2" lon="-119.8">
+	<ele>0.000000</ele>
+	<name>ILN023</name>
+	<cmt>2006/08/27 0300Z; 46 MPH</cmt>
+	<desc>2006/08/27 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.4" lon="-120.1">
+	<ele>0.000000</ele>
+	<name>ILN024</name>
+	<cmt>2006/08/27 0900Z; 34 MPH</cmt>
+	<desc>2006/08/27 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.6" lon="-120.9">
+	<ele>0.000000</ele>
+	<name>ILN025</name>
+	<cmt>2006/08/27 1500Z; 34 MPH</cmt>
+	<desc>2006/08/27 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.2" lon="-95.7">
+	<ele>0.000000</ele>
+	<name>JOHN001</name>
+	<cmt>2006/08/28 1500Z; 34 MPH</cmt>
+	<desc>2006/08/28 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.4" lon="-96.7">
+	<ele>0.000000</ele>
+	<name>JOHN002</name>
+	<cmt>2006/08/28 2100Z; 46 MPH</cmt>
+	<desc>2006/08/28 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.9" lon="-97.3">
+	<ele>0.000000</ele>
+	<name>JOHN003</name>
+	<cmt>2006/08/29 0300Z; 63 MPH</cmt>
+	<desc>2006/08/29 0300Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.9" lon="-97.8">
+	<ele>0.000000</ele>
+	<name>JOHN004</name>
+	<cmt>2006/08/29 0900Z; 69 MPH</cmt>
+	<desc>2006/08/29 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.3" lon="-99.0">
+	<ele>0.000000</ele>
+	<name>JOHN005</name>
+	<cmt>2006/08/29 1500Z; 80 MPH</cmt>
+	<desc>2006/08/29 1500Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.4" lon="-99.7">
+	<ele>0.000000</ele>
+	<name>JOHN006</name>
+	<cmt>2006/08/29 2100Z; 115 MPH</cmt>
+	<desc>2006/08/29 2100Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.2" lon="-100.4">
+	<ele>0.000000</ele>
+	<name>JOHN007</name>
+	<cmt>2006/08/30 0300Z; 115 MPH</cmt>
+	<desc>2006/08/30 0300Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.6" lon="-101.3">
+	<ele>0.000000</ele>
+	<name>JOHN008</name>
+	<cmt>2006/08/30 0900Z; 115 MPH</cmt>
+	<desc>2006/08/30 0900Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.6" lon="-102.3">
+	<ele>0.000000</ele>
+	<name>JOHN009</name>
+	<cmt>2006/08/30 1500Z; 132 MPH</cmt>
+	<desc>2006/08/30 1500Z; 132 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.4" lon="-103.3">
+	<ele>0.000000</ele>
+	<name>JOHN010</name>
+	<cmt>2006/08/30 2100Z; 132 MPH</cmt>
+	<desc>2006/08/30 2100Z; 132 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.1" lon="-104.5">
+	<ele>0.000000</ele>
+	<name>JOHN011</name>
+	<cmt>2006/08/31 0300Z; 126 MPH</cmt>
+	<desc>2006/08/31 0300Z; 126 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.7" lon="-105.3">
+	<ele>0.000000</ele>
+	<name>JOHN012</name>
+	<cmt>2006/08/31 0900Z; 126 MPH</cmt>
+	<desc>2006/08/31 0900Z; 126 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.5" lon="-106.5">
+	<ele>0.000000</ele>
+	<name>JOHN013</name>
+	<cmt>2006/08/31 1500Z; 126 MPH</cmt>
+	<desc>2006/08/31 1500Z; 126 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.7" lon="-107.0">
+	<ele>0.000000</ele>
+	<name>JOHN014</name>
+	<cmt>2006/08/31 2100Z; 103 MPH</cmt>
+	<desc>2006/08/31 2100Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.4" lon="-107.8">
+	<ele>0.000000</ele>
+	<name>JOHN015</name>
+	<cmt>2006/09/01 0300Z; 103 MPH</cmt>
+	<desc>2006/09/01 0300Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.7" lon="-108.8">
+	<ele>0.000000</ele>
+	<name>JOHN016</name>
+	<cmt>2006/09/01 0900Z; 115 MPH</cmt>
+	<desc>2006/09/01 0900Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.0" lon="-108.8">
+	<ele>0.000000</ele>
+	<name>JOHN017</name>
+	<cmt>2006/09/01 1500Z; 115 MPH</cmt>
+	<desc>2006/09/01 1500Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.8" lon="-109.0">
+	<ele>0.000000</ele>
+	<name>JOHN018</name>
+	<cmt>2006/09/01 2100Z; 109 MPH</cmt>
+	<desc>2006/09/01 2100Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.4" lon="-109.6">
+	<ele>0.000000</ele>
+	<name>JOHN019</name>
+	<cmt>2006/09/02 0300Z; 109 MPH</cmt>
+	<desc>2006/09/02 0300Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.2" lon="-110.2">
+	<ele>0.000000</ele>
+	<name>JOHN020</name>
+	<cmt>2006/09/02 0900Z; 97 MPH</cmt>
+	<desc>2006/09/02 0900Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.5" lon="-110.8">
+	<ele>0.000000</ele>
+	<name>JOHN021</name>
+	<cmt>2006/09/02 1500Z; 80 MPH</cmt>
+	<desc>2006/09/02 1500Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.0" lon="-111.2">
+	<ele>0.000000</ele>
+	<name>JOHN022</name>
+	<cmt>2006/09/02 2100Z; 69 MPH</cmt>
+	<desc>2006/09/02 2100Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.6" lon="-111.7">
+	<ele>0.000000</ele>
+	<name>JOHN023</name>
+	<cmt>2006/09/03 0300Z; 57 MPH</cmt>
+	<desc>2006/09/03 0300Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.3" lon="-112.1">
+	<ele>0.000000</ele>
+	<name>JOHN024</name>
+	<cmt>2006/09/03 0900Z; 51 MPH</cmt>
+	<desc>2006/09/03 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.1" lon="-112.5">
+	<ele>0.000000</ele>
+	<name>JOHN025</name>
+	<cmt>2006/09/03 1500Z; 46 MPH</cmt>
+	<desc>2006/09/03 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="27.6" lon="-112.7">
+	<ele>0.000000</ele>
+	<name>JOHN026</name>
+	<cmt>2006/09/03 2100Z; 40 MPH</cmt>
+	<desc>2006/09/03 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.2" lon="-113.1">
+	<ele>0.000000</ele>
+	<name>JOHN027</name>
+	<cmt>2006/09/04 0300Z; 34 MPH</cmt>
+	<desc>2006/09/04 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="28.4" lon="-113.1">
+	<ele>0.000000</ele>
+	<name>JOHN028</name>
+	<cmt>2006/09/04 0900Z; 28 MPH</cmt>
+	<desc>2006/09/04 0900Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="29.2" lon="-113.3">
+	<ele>0.000000</ele>
+	<name>JOHN029</name>
+	<cmt>2006/09/04 1500Z; 28 MPH</cmt>
+	<desc>2006/09/04 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-114.2">
+	<ele>0.000000</ele>
+	<name>KRSTY001</name>
+	<cmt>2006/08/30 0500Z; 28 MPH</cmt>
+	<desc>2006/08/30 0500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-114.7">
+	<ele>0.000000</ele>
+	<name>KRSTY002</name>
+	<cmt>2006/08/30 0900Z; 40 MPH</cmt>
+	<desc>2006/08/30 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.7" lon="-115.1">
+	<ele>0.000000</ele>
+	<name>KRSTY003</name>
+	<cmt>2006/08/30 1500Z; 57 MPH</cmt>
+	<desc>2006/08/30 1500Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-115.6">
+	<ele>0.000000</ele>
+	<name>KRSTY004</name>
+	<cmt>2006/08/30 2100Z; 63 MPH</cmt>
+	<desc>2006/08/30 2100Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.2" lon="-115.7">
+	<ele>0.000000</ele>
+	<name>KRSTY005</name>
+	<cmt>2006/08/31 0300Z; 69 MPH</cmt>
+	<desc>2006/08/31 0300Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.6" lon="-116.1">
+	<ele>0.000000</ele>
+	<name>KRSTY006</name>
+	<cmt>2006/08/31 0900Z; 74 MPH</cmt>
+	<desc>2006/08/31 0900Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.9" lon="-116.5">
+	<ele>0.000000</ele>
+	<name>KRSTY007</name>
+	<cmt>2006/08/31 1500Z; 74 MPH</cmt>
+	<desc>2006/08/31 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.4" lon="-117.2">
+	<ele>0.000000</ele>
+	<name>KRSTY008</name>
+	<cmt>2006/08/31 2100Z; 74 MPH</cmt>
+	<desc>2006/08/31 2100Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.3" lon="-117.8">
+	<ele>0.000000</ele>
+	<name>KRSTY009</name>
+	<cmt>2006/09/01 0300Z; 74 MPH</cmt>
+	<desc>2006/09/01 0300Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.3" lon="-118.1">
+	<ele>0.000000</ele>
+	<name>KRSTY010</name>
+	<cmt>2006/09/01 0900Z; 69 MPH</cmt>
+	<desc>2006/09/01 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.3" lon="-118.3">
+	<ele>0.000000</ele>
+	<name>KRSTY011</name>
+	<cmt>2006/09/01 1500Z; 57 MPH</cmt>
+	<desc>2006/09/01 1500Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.2" lon="-118.5">
+	<ele>0.000000</ele>
+	<name>KRSTY012</name>
+	<cmt>2006/09/01 2100Z; 51 MPH</cmt>
+	<desc>2006/09/01 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.0" lon="-119.1">
+	<ele>0.000000</ele>
+	<name>KRSTY013</name>
+	<cmt>2006/09/02 0300Z; 46 MPH</cmt>
+	<desc>2006/09/02 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.0" lon="-119.0">
+	<ele>0.000000</ele>
+	<name>KRSTY014</name>
+	<cmt>2006/09/02 0900Z; 46 MPH</cmt>
+	<desc>2006/09/02 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.8" lon="-118.9">
+	<ele>0.000000</ele>
+	<name>KRSTY015</name>
+	<cmt>2006/09/02 1500Z; 40 MPH</cmt>
+	<desc>2006/09/02 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.3" lon="-118.6">
+	<ele>0.000000</ele>
+	<name>KRSTY016</name>
+	<cmt>2006/09/02 2100Z; 34 MPH</cmt>
+	<desc>2006/09/02 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.3" lon="-118.2">
+	<ele>0.000000</ele>
+	<name>KRSTY017</name>
+	<cmt>2006/09/03 0300Z; 34 MPH</cmt>
+	<desc>2006/09/03 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.1" lon="-118.1">
+	<ele>0.000000</ele>
+	<name>KRSTY018</name>
+	<cmt>2006/09/03 0900Z; 34 MPH</cmt>
+	<desc>2006/09/03 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.0" lon="-117.9">
+	<ele>0.000000</ele>
+	<name>KRSTY019</name>
+	<cmt>2006/09/03 1500Z; 34 MPH</cmt>
+	<desc>2006/09/03 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.7" lon="-118.1">
+	<ele>0.000000</ele>
+	<name>KRSTY020</name>
+	<cmt>2006/09/03 2100Z; 40 MPH</cmt>
+	<desc>2006/09/03 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.8" lon="-118.4">
+	<ele>0.000000</ele>
+	<name>KRSTY021</name>
+	<cmt>2006/09/04 0300Z; 40 MPH</cmt>
+	<desc>2006/09/04 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.5" lon="-118.6">
+	<ele>0.000000</ele>
+	<name>KRSTY022</name>
+	<cmt>2006/09/04 0900Z; 34 MPH</cmt>
+	<desc>2006/09/04 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.7" lon="-119.0">
+	<ele>0.000000</ele>
+	<name>KRSTY023</name>
+	<cmt>2006/09/04 1500Z; 34 MPH</cmt>
+	<desc>2006/09/04 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-119.3">
+	<ele>0.000000</ele>
+	<name>KRSTY024</name>
+	<cmt>2006/09/04 2100Z; 34 MPH</cmt>
+	<desc>2006/09/04 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-119.8">
+	<ele>0.000000</ele>
+	<name>KRSTY025</name>
+	<cmt>2006/09/05 0300Z; 34 MPH</cmt>
+	<desc>2006/09/05 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-120.5">
+	<ele>0.000000</ele>
+	<name>KRSTY026</name>
+	<cmt>2006/09/05 0900Z; 34 MPH</cmt>
+	<desc>2006/09/05 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.4" lon="-121.5">
+	<ele>0.000000</ele>
+	<name>KRSTY027</name>
+	<cmt>2006/09/05 1500Z; 40 MPH</cmt>
+	<desc>2006/09/05 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.7" lon="-122.8">
+	<ele>0.000000</ele>
+	<name>KRSTY028</name>
+	<cmt>2006/09/05 2100Z; 46 MPH</cmt>
+	<desc>2006/09/05 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.1" lon="-123.9">
+	<ele>0.000000</ele>
+	<name>KRSTY029</name>
+	<cmt>2006/09/06 0300Z; 40 MPH</cmt>
+	<desc>2006/09/06 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.3" lon="-125.2">
+	<ele>0.000000</ele>
+	<name>KRSTY030</name>
+	<cmt>2006/09/06 0900Z; 40 MPH</cmt>
+	<desc>2006/09/06 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-126.9">
+	<ele>0.000000</ele>
+	<name>KRSTY031</name>
+	<cmt>2006/09/06 1500Z; 40 MPH</cmt>
+	<desc>2006/09/06 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-127.9">
+	<ele>0.000000</ele>
+	<name>KRSTY032</name>
+	<cmt>2006/09/06 2100Z; 34 MPH</cmt>
+	<desc>2006/09/06 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-128.7">
+	<ele>0.000000</ele>
+	<name>KRSTY033</name>
+	<cmt>2006/09/07 0300Z; 34 MPH</cmt>
+	<desc>2006/09/07 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-129.6">
+	<ele>0.000000</ele>
+	<name>KRSTY034</name>
+	<cmt>2006/09/07 0900Z; 28 MPH</cmt>
+	<desc>2006/09/07 0900Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.4" lon="-130.2">
+	<ele>0.000000</ele>
+	<name>KRSTY035</name>
+	<cmt>2006/09/07 1500Z; 28 MPH</cmt>
+	<desc>2006/09/07 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.9" lon="-130.4">
+	<ele>0.000000</ele>
+	<name>KRSTY036</name>
+	<cmt>2006/09/07 2100Z; 28 MPH</cmt>
+	<desc>2006/09/07 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.4" lon="-131.3">
+	<ele>0.000000</ele>
+	<name>KRSTY037</name>
+	<cmt>2006/09/08 0300Z; 28 MPH</cmt>
+	<desc>2006/09/08 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-101.5">
+	<ele>0.000000</ele>
+	<name>LANE001</name>
+	<cmt>2006/09/13 2100Z; 34 MPH</cmt>
+	<desc>2006/09/13 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.6" lon="-102.4">
+	<ele>0.000000</ele>
+	<name>LANE002</name>
+	<cmt>2006/09/14 0300Z; 34 MPH</cmt>
+	<desc>2006/09/14 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.9" lon="-102.9">
+	<ele>0.000000</ele>
+	<name>LANE003</name>
+	<cmt>2006/09/14 0900Z; 40 MPH</cmt>
+	<desc>2006/09/14 0900Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.5" lon="-104.3">
+	<ele>0.000000</ele>
+	<name>LANE004</name>
+	<cmt>2006/09/14 1500Z; 46 MPH</cmt>
+	<desc>2006/09/14 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.9" lon="-105.2">
+	<ele>0.000000</ele>
+	<name>LANE005</name>
+	<cmt>2006/09/14 2100Z; 57 MPH</cmt>
+	<desc>2006/09/14 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.4" lon="-105.3">
+	<ele>0.000000</ele>
+	<name>LANE006</name>
+	<cmt>2006/09/15 0300Z; 57 MPH</cmt>
+	<desc>2006/09/15 0300Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.1" lon="-106.0">
+	<ele>0.000000</ele>
+	<name>LANE007</name>
+	<cmt>2006/09/15 0900Z; 63 MPH</cmt>
+	<desc>2006/09/15 0900Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.7" lon="-106.2">
+	<ele>0.000000</ele>
+	<name>LANE008</name>
+	<cmt>2006/09/15 1500Z; 69 MPH</cmt>
+	<desc>2006/09/15 1500Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.6" lon="-106.3">
+	<ele>0.000000</ele>
+	<name>LANE009</name>
+	<cmt>2006/09/15 2100Z; 80 MPH</cmt>
+	<desc>2006/09/15 2100Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.7" lon="-106.8">
+	<ele>0.000000</ele>
+	<name>LANE010</name>
+	<cmt>2006/09/16 0300Z; 103 MPH</cmt>
+	<desc>2006/09/16 0300Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="22.7" lon="-107.0">
+	<ele>0.000000</ele>
+	<name>LANE011</name>
+	<cmt>2006/09/16 0900Z; 115 MPH</cmt>
+	<desc>2006/09/16 0900Z; 115 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.5" lon="-107.1">
+	<ele>0.000000</ele>
+	<name>LANE012</name>
+	<cmt>2006/09/16 1500Z; 126 MPH</cmt>
+	<desc>2006/09/16 1500Z; 126 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.4" lon="-107.2">
+	<ele>0.000000</ele>
+	<name>LANE013</name>
+	<cmt>2006/09/16 2100Z; 120 MPH</cmt>
+	<desc>2006/09/16 2100Z; 120 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.0" lon="-107.4">
+	<ele>0.000000</ele>
+	<name>LANE014</name>
+	<cmt>2006/09/17 0300Z; 86 MPH</cmt>
+	<desc>2006/09/17 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.6" lon="-107.4">
+	<ele>0.000000</ele>
+	<name>LANE015</name>
+	<cmt>2006/09/17 0900Z; 51 MPH</cmt>
+	<desc>2006/09/17 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="26.3" lon="-107.6">
+	<ele>0.000000</ele>
+	<name>LANE016</name>
+	<cmt>2006/09/17 1500Z; 28 MPH</cmt>
+	<desc>2006/09/17 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.5" lon="-114.4">
+	<ele>0.000000</ele>
+	<name>MRM001</name>
+	<cmt>2006/09/16 1200Z; 34 MPH</cmt>
+	<desc>2006/09/16 1200Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.8" lon="-114.2">
+	<ele>0.000000</ele>
+	<name>MRM002</name>
+	<cmt>2006/09/16 1500Z; 34 MPH</cmt>
+	<desc>2006/09/16 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.2" lon="-114.3">
+	<ele>0.000000</ele>
+	<name>MRM003</name>
+	<cmt>2006/09/16 2100Z; 40 MPH</cmt>
+	<desc>2006/09/16 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.4" lon="-114.4">
+	<ele>0.000000</ele>
+	<name>MRM004</name>
+	<cmt>2006/09/17 0300Z; 46 MPH</cmt>
+	<desc>2006/09/17 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.1" lon="-113.9">
+	<ele>0.000000</ele>
+	<name>MRM005</name>
+	<cmt>2006/09/17 0900Z; 46 MPH</cmt>
+	<desc>2006/09/17 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.2" lon="-113.9">
+	<ele>0.000000</ele>
+	<name>MRM006</name>
+	<cmt>2006/09/17 1500Z; 46 MPH</cmt>
+	<desc>2006/09/17 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.3" lon="-114.0">
+	<ele>0.000000</ele>
+	<name>MRM007</name>
+	<cmt>2006/09/17 2100Z; 40 MPH</cmt>
+	<desc>2006/09/17 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.4" lon="-114.1">
+	<ele>0.000000</ele>
+	<name>MRM008</name>
+	<cmt>2006/09/18 0300Z; 40 MPH</cmt>
+	<desc>2006/09/18 0300Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.9" lon="-113.7">
+	<ele>0.000000</ele>
+	<name>MRM009</name>
+	<cmt>2006/09/18 0900Z; 34 MPH</cmt>
+	<desc>2006/09/18 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.1" lon="-113.8">
+	<ele>0.000000</ele>
+	<name>MRM010</name>
+	<cmt>2006/09/18 1500Z; 28 MPH</cmt>
+	<desc>2006/09/18 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.7" lon="-117.3">
+	<ele>0.000000</ele>
+	<name>NRMN001</name>
+	<cmt>2006/10/09 0400Z; 34 MPH</cmt>
+	<desc>2006/10/09 0400Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.3" lon="-117.6">
+	<ele>0.000000</ele>
+	<name>NRMN002</name>
+	<cmt>2006/10/09 0900Z; 34 MPH</cmt>
+	<desc>2006/10/09 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-117.6">
+	<ele>0.000000</ele>
+	<name>NRMN003</name>
+	<cmt>2006/10/09 1500Z; 46 MPH</cmt>
+	<desc>2006/10/09 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-117.9">
+	<ele>0.000000</ele>
+	<name>NRMN004</name>
+	<cmt>2006/10/09 2100Z; 46 MPH</cmt>
+	<desc>2006/10/09 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.9" lon="-117.8">
+	<ele>0.000000</ele>
+	<name>NRMN005</name>
+	<cmt>2006/10/10 0300Z; 51 MPH</cmt>
+	<desc>2006/10/10 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-117.8">
+	<ele>0.000000</ele>
+	<name>NRMN006</name>
+	<cmt>2006/10/10 0900Z; 51 MPH</cmt>
+	<desc>2006/10/10 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-117.9">
+	<ele>0.000000</ele>
+	<name>NRMN007</name>
+	<cmt>2006/10/10 1500Z; 46 MPH</cmt>
+	<desc>2006/10/10 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-117.7">
+	<ele>0.000000</ele>
+	<name>NRMN008</name>
+	<cmt>2006/10/10 2100Z; 34 MPH</cmt>
+	<desc>2006/10/10 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.8" lon="-117.1">
+	<ele>0.000000</ele>
+	<name>NRMN009</name>
+	<cmt>2006/10/11 0300Z; 28 MPH</cmt>
+	<desc>2006/10/11 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.1" lon="-105.1">
+	<ele>0.000000</ele>
+	<name>NRMN010</name>
+	<cmt>2006/10/15 0900Z; 34 MPH</cmt>
+	<desc>2006/10/15 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.0" lon="-104.8">
+	<ele>0.000000</ele>
+	<name>NRMN011</name>
+	<cmt>2006/10/15 1500Z; 34 MPH</cmt>
+	<desc>2006/10/15 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="19.2" lon="-104.7">
+	<ele>0.000000</ele>
+	<name>NRMN012</name>
+	<cmt>2006/10/15 2100Z; 34 MPH</cmt>
+	<desc>2006/10/15 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.8" lon="-127.9">
+	<ele>0.000000</ele>
+	<name>OLV001</name>
+	<cmt>2006/10/09 2100Z; 34 MPH</cmt>
+	<desc>2006/10/09 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.3" lon="-127.7">
+	<ele>0.000000</ele>
+	<name>OLV002</name>
+	<cmt>2006/10/10 0300Z; 34 MPH</cmt>
+	<desc>2006/10/10 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.0" lon="-127.7">
+	<ele>0.000000</ele>
+	<name>OLV003</name>
+	<cmt>2006/10/10 0900Z; 34 MPH</cmt>
+	<desc>2006/10/10 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.6" lon="-127.5">
+	<ele>0.000000</ele>
+	<name>OLV004</name>
+	<cmt>2006/10/10 1500Z; 46 MPH</cmt>
+	<desc>2006/10/10 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.9" lon="-126.0">
+	<ele>0.000000</ele>
+	<name>OLV005</name>
+	<cmt>2006/10/10 2100Z; 46 MPH</cmt>
+	<desc>2006/10/10 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-125.4">
+	<ele>0.000000</ele>
+	<name>OLV006</name>
+	<cmt>2006/10/11 0300Z; 46 MPH</cmt>
+	<desc>2006/10/11 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.9" lon="-124.7">
+	<ele>0.000000</ele>
+	<name>OLV007</name>
+	<cmt>2006/10/11 0900Z; 34 MPH</cmt>
+	<desc>2006/10/11 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-124.5">
+	<ele>0.000000</ele>
+	<name>OLV008</name>
+	<cmt>2006/10/11 1500Z; 34 MPH</cmt>
+	<desc>2006/10/11 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-123.6">
+	<ele>0.000000</ele>
+	<name>OLV009</name>
+	<cmt>2006/10/11 2100Z; 28 MPH</cmt>
+	<desc>2006/10/11 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.3" lon="-122.7">
+	<ele>0.000000</ele>
+	<name>OLV010</name>
+	<cmt>2006/10/12 0300Z; 28 MPH</cmt>
+	<desc>2006/10/12 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.6" lon="-121.9">
+	<ele>0.000000</ele>
+	<name>OLV011</name>
+	<cmt>2006/10/12 0900Z; 28 MPH</cmt>
+	<desc>2006/10/12 0900Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.7" lon="-121.1">
+	<ele>0.000000</ele>
+	<name>OLV012</name>
+	<cmt>2006/10/12 1500Z; 28 MPH</cmt>
+	<desc>2006/10/12 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.5" lon="-120.4">
+	<ele>0.000000</ele>
+	<name>OLV013</name>
+	<cmt>2006/10/12 2100Z; 28 MPH</cmt>
+	<desc>2006/10/12 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.5" lon="-105.9">
+	<ele>0.000000</ele>
+	<name>PAUL001</name>
+	<cmt>2006/10/21 0900Z; 34 MPH</cmt>
+	<desc>2006/10/21 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.0" lon="-106.9">
+	<ele>0.000000</ele>
+	<name>PAUL002</name>
+	<cmt>2006/10/21 1500Z; 40 MPH</cmt>
+	<desc>2006/10/21 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.1" lon="-107.4">
+	<ele>0.000000</ele>
+	<name>PAUL003</name>
+	<cmt>2006/10/21 2100Z; 51 MPH</cmt>
+	<desc>2006/10/21 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.9" lon="-108.0">
+	<ele>0.000000</ele>
+	<name>PAUL004</name>
+	<cmt>2006/10/22 0300Z; 51 MPH</cmt>
+	<desc>2006/10/22 0300Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-108.9">
+	<ele>0.000000</ele>
+	<name>PAUL005</name>
+	<cmt>2006/10/22 0900Z; 51 MPH</cmt>
+	<desc>2006/10/22 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.3" lon="-109.1">
+	<ele>0.000000</ele>
+	<name>PAUL006</name>
+	<cmt>2006/10/22 1500Z; 51 MPH</cmt>
+	<desc>2006/10/22 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.9" lon="-110.7">
+	<ele>0.000000</ele>
+	<name>PAUL007</name>
+	<cmt>2006/10/22 2100Z; 63 MPH</cmt>
+	<desc>2006/10/22 2100Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.1" lon="-111.1">
+	<ele>0.000000</ele>
+	<name>PAUL008</name>
+	<cmt>2006/10/23 0300Z; 86 MPH</cmt>
+	<desc>2006/10/23 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-111.5">
+	<ele>0.000000</ele>
+	<name>PAUL009</name>
+	<cmt>2006/10/23 0900Z; 97 MPH</cmt>
+	<desc>2006/10/23 0900Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.5" lon="-111.5">
+	<ele>0.000000</ele>
+	<name>PAUL010</name>
+	<cmt>2006/10/23 1500Z; 109 MPH</cmt>
+	<desc>2006/10/23 1500Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-111.6">
+	<ele>0.000000</ele>
+	<name>PAUL011</name>
+	<cmt>2006/10/23 2100Z; 92 MPH</cmt>
+	<desc>2006/10/23 2100Z; 92 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.6" lon="-111.7">
+	<ele>0.000000</ele>
+	<name>PAUL012</name>
+	<cmt>2006/10/24 0300Z; 86 MPH</cmt>
+	<desc>2006/10/24 0300Z; 86 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.6" lon="-111.4">
+	<ele>0.000000</ele>
+	<name>PAUL013</name>
+	<cmt>2006/10/24 0900Z; 80 MPH</cmt>
+	<desc>2006/10/24 0900Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="18.9" lon="-112.0">
+	<ele>0.000000</ele>
+	<name>PAUL014</name>
+	<cmt>2006/10/24 1500Z; 63 MPH</cmt>
+	<desc>2006/10/24 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="20.3" lon="-111.3">
+	<ele>0.000000</ele>
+	<name>PAUL015</name>
+	<cmt>2006/10/24 2100Z; 51 MPH</cmt>
+	<desc>2006/10/24 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.1" lon="-110.5">
+	<ele>0.000000</ele>
+	<name>PAUL016</name>
+	<cmt>2006/10/25 0300Z; 46 MPH</cmt>
+	<desc>2006/10/25 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="21.8" lon="-109.9">
+	<ele>0.000000</ele>
+	<name>PAUL017</name>
+	<cmt>2006/10/25 0900Z; 46 MPH</cmt>
+	<desc>2006/10/25 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="23.0" lon="-108.8">
+	<ele>0.000000</ele>
+	<name>PAUL018</name>
+	<cmt>2006/10/25 1500Z; 46 MPH</cmt>
+	<desc>2006/10/25 1500Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.0" lon="-107.5">
+	<ele>0.000000</ele>
+	<name>PAUL019</name>
+	<cmt>2006/10/25 2100Z; 46 MPH</cmt>
+	<desc>2006/10/25 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.4" lon="-108.1">
+	<ele>0.000000</ele>
+	<name>PAUL020</name>
+	<cmt>2006/10/25 2300Z; 34 MPH</cmt>
+	<desc>2006/10/25 2300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="24.7" lon="-108.1">
+	<ele>0.000000</ele>
+	<name>PAUL021</name>
+	<cmt>2006/10/26 0300Z; 28 MPH</cmt>
+	<desc>2006/10/26 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="25.2" lon="-107.8">
+	<ele>0.000000</ele>
+	<name>PAUL022</name>
+	<cmt>2006/10/26 0900Z; 28 MPH</cmt>
+	<desc>2006/10/26 0900Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.8" lon="-104.2">
+	<ele>0.000000</ele>
+	<name>EGHTN001</name>
+	<cmt>2006/10/26 1500Z; 34 MPH</cmt>
+	<desc>2006/10/26 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="17.0" lon="-104.7">
+	<ele>0.000000</ele>
+	<name>EGHTN002</name>
+	<cmt>2006/10/26 2100Z; 34 MPH</cmt>
+	<desc>2006/10/26 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.9" lon="-105.6">
+	<ele>0.000000</ele>
+	<name>EGHTN003</name>
+	<cmt>2006/10/27 0300Z; 34 MPH</cmt>
+	<desc>2006/10/27 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.6" lon="-106.4">
+	<ele>0.000000</ele>
+	<name>EGHTN004</name>
+	<cmt>2006/10/27 0900Z; 28 MPH</cmt>
+	<desc>2006/10/27 0900Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-105.2">
+	<ele>0.000000</ele>
+	<name>EGHTN005</name>
+	<cmt>2006/10/27 1500Z; 28 MPH</cmt>
+	<desc>2006/10/27 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.6" lon="-105.8">
+	<ele>0.000000</ele>
+	<name>EGHTN006</name>
+	<cmt>2006/10/27 2100Z; 28 MPH</cmt>
+	<desc>2006/10/27 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-106.1">
+	<ele>0.000000</ele>
+	<name>EGHTN007</name>
+	<cmt>2006/10/28 0300Z; 28 MPH</cmt>
+	<desc>2006/10/28 0300Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.7" lon="-104.5">
+	<ele>0.000000</ele>
+	<name>ROSA001</name>
+	<cmt>2006/11/08 0900Z; 34 MPH</cmt>
+	<desc>2006/11/08 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.6" lon="-104.3">
+	<ele>0.000000</ele>
+	<name>ROSA002</name>
+	<cmt>2006/11/08 1500Z; 34 MPH</cmt>
+	<desc>2006/11/08 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.3" lon="-104.3">
+	<ele>0.000000</ele>
+	<name>ROSA003</name>
+	<cmt>2006/11/08 2100Z; 34 MPH</cmt>
+	<desc>2006/11/08 2100Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.6" lon="-105.1">
+	<ele>0.000000</ele>
+	<name>ROSA004</name>
+	<cmt>2006/11/09 0300Z; 34 MPH</cmt>
+	<desc>2006/11/09 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.8" lon="-105.4">
+	<ele>0.000000</ele>
+	<name>ROSA005</name>
+	<cmt>2006/11/09 0900Z; 34 MPH</cmt>
+	<desc>2006/11/09 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.7" lon="-105.4">
+	<ele>0.000000</ele>
+	<name>ROSA006</name>
+	<cmt>2006/11/09 1500Z; 40 MPH</cmt>
+	<desc>2006/11/09 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.8" lon="-105.4">
+	<ele>0.000000</ele>
+	<name>ROSA007</name>
+	<cmt>2006/11/09 2100Z; 40 MPH</cmt>
+	<desc>2006/11/09 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.1" lon="-105.4">
+	<ele>0.000000</ele>
+	<name>ROSA008</name>
+	<cmt>2006/11/10 0300Z; 34 MPH</cmt>
+	<desc>2006/11/10 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.7" lon="-105.9">
+	<ele>0.000000</ele>
+	<name>ROSA009</name>
+	<cmt>2006/11/10 0900Z; 28 MPH</cmt>
+	<desc>2006/11/10 0900Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.1" lon="-106.1">
+	<ele>0.000000</ele>
+	<name>ROSA010</name>
+	<cmt>2006/11/10 1500Z; 28 MPH</cmt>
+	<desc>2006/11/10 1500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="16.2" lon="-106.5">
+	<ele>0.000000</ele>
+	<name>ROSA011</name>
+	<cmt>2006/11/10 2100Z; 28 MPH</cmt>
+	<desc>2006/11/10 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.0" lon="-113.0">
+	<ele>0.000000</ele>
+	<name>TWNTY001</name>
+	<cmt>2006/11/11 0900Z; 34 MPH</cmt>
+	<desc>2006/11/11 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.3" lon="-113.2">
+	<ele>0.000000</ele>
+	<name>TWNTY002</name>
+	<cmt>2006/11/11 1500Z; 34 MPH</cmt>
+	<desc>2006/11/11 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.0" lon="-114.0">
+	<ele>0.000000</ele>
+	<name>TWNTY003</name>
+	<cmt>2006/11/11 2100Z; 28 MPH</cmt>
+	<desc>2006/11/11 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.9" lon="-104.5">
+	<ele>0.000000</ele>
+	<name>SRG001</name>
+	<cmt>2006/11/14 0500Z; 28 MPH</cmt>
+	<desc>2006/11/14 0500Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.0" lon="-104.6">
+	<ele>0.000000</ele>
+	<name>SRG002</name>
+	<cmt>2006/11/14 0900Z; 34 MPH</cmt>
+	<desc>2006/11/14 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.2" lon="-104.5">
+	<ele>0.000000</ele>
+	<name>SRG003</name>
+	<cmt>2006/11/14 1500Z; 40 MPH</cmt>
+	<desc>2006/11/14 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.8" lon="-104.5">
+	<ele>0.000000</ele>
+	<name>SRG004</name>
+	<cmt>2006/11/14 2100Z; 57 MPH</cmt>
+	<desc>2006/11/14 2100Z; 57 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.8" lon="-104.3">
+	<ele>0.000000</ele>
+	<name>SRG005</name>
+	<cmt>2006/11/15 0300Z; 63 MPH</cmt>
+	<desc>2006/11/15 0300Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.6" lon="-104.2">
+	<ele>0.000000</ele>
+	<name>SRG006</name>
+	<cmt>2006/11/15 0900Z; 63 MPH</cmt>
+	<desc>2006/11/15 0900Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.1" lon="-103.9">
+	<ele>0.000000</ele>
+	<name>SRG007</name>
+	<cmt>2006/11/15 1500Z; 74 MPH</cmt>
+	<desc>2006/11/15 1500Z; 74 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.1" lon="-103.7">
+	<ele>0.000000</ele>
+	<name>SRG008</name>
+	<cmt>2006/11/15 1700Z; 97 MPH</cmt>
+	<desc>2006/11/15 1700Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.0" lon="-103.6">
+	<ele>0.000000</ele>
+	<name>SRG009</name>
+	<cmt>2006/11/15 2100Z; 109 MPH</cmt>
+	<desc>2006/11/15 2100Z; 109 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.3" lon="-103.2">
+	<ele>0.000000</ele>
+	<name>SRG010</name>
+	<cmt>2006/11/16 0300Z; 103 MPH</cmt>
+	<desc>2006/11/16 0300Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.5" lon="-103.1">
+	<ele>0.000000</ele>
+	<name>SRG011</name>
+	<cmt>2006/11/16 0900Z; 103 MPH</cmt>
+	<desc>2006/11/16 0900Z; 103 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="12.9" lon="-103.0">
+	<ele>0.000000</ele>
+	<name>SRG012</name>
+	<cmt>2006/11/16 1500Z; 97 MPH</cmt>
+	<desc>2006/11/16 1500Z; 97 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.6" lon="-102.8">
+	<ele>0.000000</ele>
+	<name>SRG013</name>
+	<cmt>2006/11/16 2100Z; 80 MPH</cmt>
+	<desc>2006/11/16 2100Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="13.8" lon="-102.7">
+	<ele>0.000000</ele>
+	<name>SRG014</name>
+	<cmt>2006/11/17 0300Z; 80 MPH</cmt>
+	<desc>2006/11/17 0300Z; 80 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.0" lon="-102.8">
+	<ele>0.000000</ele>
+	<name>SRG015</name>
+	<cmt>2006/11/17 0900Z; 69 MPH</cmt>
+	<desc>2006/11/17 0900Z; 69 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.2" lon="-102.5">
+	<ele>0.000000</ele>
+	<name>SRG016</name>
+	<cmt>2006/11/17 1500Z; 63 MPH</cmt>
+	<desc>2006/11/17 1500Z; 63 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.0" lon="-102.6">
+	<ele>0.000000</ele>
+	<name>SRG017</name>
+	<cmt>2006/11/17 2100Z; 46 MPH</cmt>
+	<desc>2006/11/17 2100Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.5" lon="-103.1">
+	<ele>0.000000</ele>
+	<name>SRG018</name>
+	<cmt>2006/11/18 0300Z; 46 MPH</cmt>
+	<desc>2006/11/18 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.9" lon="-103.3">
+	<ele>0.000000</ele>
+	<name>SRG019</name>
+	<cmt>2006/11/18 0900Z; 51 MPH</cmt>
+	<desc>2006/11/18 0900Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.2" lon="-104.1">
+	<ele>0.000000</ele>
+	<name>SRG020</name>
+	<cmt>2006/11/18 1500Z; 51 MPH</cmt>
+	<desc>2006/11/18 1500Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.6" lon="-104.7">
+	<ele>0.000000</ele>
+	<name>SRG021</name>
+	<cmt>2006/11/18 2100Z; 51 MPH</cmt>
+	<desc>2006/11/18 2100Z; 51 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.7" lon="-105.1">
+	<ele>0.000000</ele>
+	<name>SRG022</name>
+	<cmt>2006/11/19 0300Z; 46 MPH</cmt>
+	<desc>2006/11/19 0300Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.6" lon="-105.2">
+	<ele>0.000000</ele>
+	<name>SRG023</name>
+	<cmt>2006/11/19 0900Z; 46 MPH</cmt>
+	<desc>2006/11/19 0900Z; 46 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.3" lon="-105.5">
+	<ele>0.000000</ele>
+	<name>SRG024</name>
+	<cmt>2006/11/19 1500Z; 40 MPH</cmt>
+	<desc>2006/11/19 1500Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.1" lon="-105.9">
+	<ele>0.000000</ele>
+	<name>SRG025</name>
+	<cmt>2006/11/19 2100Z; 40 MPH</cmt>
+	<desc>2006/11/19 2100Z; 40 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="15.0" lon="-106.4">
+	<ele>0.000000</ele>
+	<name>SRG026</name>
+	<cmt>2006/11/20 0300Z; 34 MPH</cmt>
+	<desc>2006/11/20 0300Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.8" lon="-106.7">
+	<ele>0.000000</ele>
+	<name>SRG027</name>
+	<cmt>2006/11/20 0900Z; 34 MPH</cmt>
+	<desc>2006/11/20 0900Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.9" lon="-107.2">
+	<ele>0.000000</ele>
+	<name>SRG028</name>
+	<cmt>2006/11/20 1500Z; 34 MPH</cmt>
+	<desc>2006/11/20 1500Z; 34 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<wpt lat="14.9" lon="-108.0">
+	<ele>0.000000</ele>
+	<name>SRG029</name>
+	<cmt>2006/11/20 2100Z; 28 MPH</cmt>
+	<desc>2006/11/20 2100Z; 28 MPH</desc>
+	<sym>crossed square</sym>
+</wpt>
+<rte>
+	<name>ALBERTO</name>
+	<rtept lat="21.1" lon="-85.3">
+		<name>ALBRT001</name>
+		<time>2006-06-10T13:00:00Z</time>
+	</rtept>
+	<rtept lat="21.5" lon="-85.6">
+		<name>ALBRT002</name>
+		<time>2006-06-10T15:00:00Z</time>
+	</rtept>
+	<rtept lat="21.8" lon="-85.7">
+		<name>ALBRT003</name>
+		<time>2006-06-10T21:00:00Z</time>
+	</rtept>
+	<rtept lat="23.4" lon="-86.2">
+		<name>ALBRT004</name>
+		<time>2006-06-11T03:00:00Z</time>
+	</rtept>
+	<rtept lat="23.5" lon="-87.0">
+		<name>ALBRT005</name>
+		<time>2006-06-11T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.9" lon="-88.1">
+		<name>ALBRT006</name>
+		<time>2006-06-11T15:00:00Z</time>
+	</rtept>
+	<rtept lat="24.5" lon="-87.8">
+		<name>ALBRT007</name>
+		<time>2006-06-11T21:00:00Z</time>
+	</rtept>
+	<rtept lat="25.3" lon="-87.7">
+		<name>ALBRT008</name>
+		<time>2006-06-12T03:00:00Z</time>
+	</rtept>
+	<rtept lat="26.2" lon="-87.2">
+		<name>ALBRT009</name>
+		<time>2006-06-12T09:00:00Z</time>
+	</rtept>
+	<rtept lat="27.1" lon="-85.9">
+		<name>ALBRT010</name>
+		<time>2006-06-12T15:00:00Z</time>
+	</rtept>
+	<rtept lat="27.9" lon="-85.1">
+		<name>ALBRT011</name>
+		<time>2006-06-12T21:00:00Z</time>
+	</rtept>
+	<rtept lat="28.4" lon="-84.6">
+		<name>ALBRT012</name>
+		<time>2006-06-13T03:00:00Z</time>
+	</rtept>
+	<rtept lat="29.2" lon="-84.2">
+		<name>ALBRT013</name>
+		<time>2006-06-13T09:00:00Z</time>
+	</rtept>
+	<rtept lat="29.8" lon="-83.8">
+		<name>ALBRT014</name>
+		<time>2006-06-13T15:00:00Z</time>
+	</rtept>
+	<rtept lat="30.7" lon="-83.2">
+		<name>ALBRT015</name>
+		<time>2006-06-13T21:00:00Z</time>
+	</rtept>
+	<rtept lat="31.8" lon="-82.3">
+		<name>ALBRT016</name>
+		<time>2006-06-14T03:00:00Z</time>
+	</rtept>
+	<rtept lat="33.5" lon="-81.4">
+		<name>ALBRT017</name>
+		<time>2006-06-14T09:00:00Z</time>
+	</rtept>
+	<rtept lat="35.0" lon="-79.5">
+		<name>ALBRT018</name>
+		<time>2006-06-14T15:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>BERYL</name>
+	<rtept lat="32.5" lon="-73.4">
+		<name>BERYL001</name>
+		<time>2006-07-18T15:00:00Z</time>
+	</rtept>
+	<rtept lat="33.3" lon="-73.3">
+		<name>BERYL002</name>
+		<time>2006-07-18T21:00:00Z</time>
+	</rtept>
+	<rtept lat="34.1" lon="-73.6">
+		<name>BERYL003</name>
+		<time>2006-07-19T03:00:00Z</time>
+	</rtept>
+	<rtept lat="34.7" lon="-73.7">
+		<name>BERYL004</name>
+		<time>2006-07-19T09:00:00Z</time>
+	</rtept>
+	<rtept lat="35.6" lon="-73.7">
+		<name>BERYL005</name>
+		<time>2006-07-19T15:00:00Z</time>
+	</rtept>
+	<rtept lat="36.3" lon="-73.5">
+		<name>BERYL006</name>
+		<time>2006-07-19T21:00:00Z</time>
+	</rtept>
+	<rtept lat="37.0" lon="-73.0">
+		<name>BERYL007</name>
+		<time>2006-07-20T03:00:00Z</time>
+	</rtept>
+	<rtept lat="37.8" lon="-73.2">
+		<name>BERYL008</name>
+		<time>2006-07-20T09:00:00Z</time>
+	</rtept>
+	<rtept lat="38.8" lon="-72.7">
+		<name>BERYL009</name>
+		<time>2006-07-20T15:00:00Z</time>
+	</rtept>
+	<rtept lat="39.6" lon="-72.0">
+		<name>BERYL010</name>
+		<time>2006-07-20T21:00:00Z</time>
+	</rtept>
+	<rtept lat="40.2" lon="-71.3">
+		<name>BERYL011</name>
+		<time>2006-07-21T03:00:00Z</time>
+	</rtept>
+	<rtept lat="41.7" lon="-69.7">
+		<name>BERYL012</name>
+		<time>2006-07-21T09:00:00Z</time>
+	</rtept>
+	<rtept lat="43.1" lon="-67.4">
+		<name>BERYL013</name>
+		<time>2006-07-21T15:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>CHRIS</name>
+	<rtept lat="16.6" lon="-59.4">
+		<name>CHRIS001</name>
+		<time>2006-08-01T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.6" lon="-59.2">
+		<name>CHRIS002</name>
+		<time>2006-08-01T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.3" lon="-60.3">
+		<name>CHRIS003</name>
+		<time>2006-08-01T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.7" lon="-61.2">
+		<name>CHRIS004</name>
+		<time>2006-08-01T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.0" lon="-61.1">
+		<name>CHRIS005</name>
+		<time>2006-08-01T21:30:00Z</time>
+	</rtept>
+	<rtept lat="18.3" lon="-61.8">
+		<name>CHRIS006</name>
+		<time>2006-08-02T03:00:00Z</time>
+	</rtept>
+	<rtept lat="18.8" lon="-62.6">
+		<name>CHRIS007</name>
+		<time>2006-08-02T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.2" lon="-63.4">
+		<name>CHRIS008</name>
+		<time>2006-08-02T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.9" lon="-64.3">
+		<name>CHRIS009</name>
+		<time>2006-08-02T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.8" lon="-64.9">
+		<name>CHRIS010</name>
+		<time>2006-08-03T03:00:00Z</time>
+	</rtept>
+	<rtept lat="20.3" lon="-66.4">
+		<name>CHRIS011</name>
+		<time>2006-08-03T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.5" lon="-67.3">
+		<name>CHRIS012</name>
+		<time>2006-08-03T15:00:00Z</time>
+	</rtept>
+	<rtept lat="20.7" lon="-68.2">
+		<name>CHRIS013</name>
+		<time>2006-08-03T21:00:00Z</time>
+	</rtept>
+	<rtept lat="20.8" lon="-69.3">
+		<name>CHRIS014</name>
+		<time>2006-08-04T03:00:00Z</time>
+	</rtept>
+	<rtept lat="20.9" lon="-70.9">
+		<name>CHRIS015</name>
+		<time>2006-08-04T09:00:00Z</time>
+	</rtept>
+	<rtept lat="21.3" lon="-71.6">
+		<name>CHRIS016</name>
+		<time>2006-08-04T15:00:00Z</time>
+	</rtept>
+	<rtept lat="21.4" lon="-72.8">
+		<name>CHRIS017</name>
+		<time>2006-08-04T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.6" lon="-74.0">
+		<name>CHRIS018</name>
+		<time>2006-08-05T03:00:00Z</time>
+	</rtept>
+	<rtept lat="21.5" lon="-75.6">
+		<name>CHRIS019</name>
+		<time>2006-08-05T09:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>DEBBY</name>
+	<rtept lat="12.5" lon="-21.5">
+		<name>DEBBY001</name>
+		<time>2006-08-21T21:00:00Z</time>
+	</rtept>
+	<rtept lat="12.2" lon="-23.2">
+		<name>DEBBY002</name>
+		<time>2006-08-22T03:00:00Z</time>
+	</rtept>
+	<rtept lat="12.8" lon="-24.6">
+		<name>DEBBY003</name>
+		<time>2006-08-22T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.6" lon="-26.1">
+		<name>DEBBY004</name>
+		<time>2006-08-22T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.5" lon="-27.5">
+		<name>DEBBY005</name>
+		<time>2006-08-22T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.2" lon="-28.9">
+		<name>DEBBY006</name>
+		<time>2006-08-23T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.9" lon="-30.1">
+		<name>DEBBY007</name>
+		<time>2006-08-23T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.8" lon="-31.5">
+		<name>DEBBY008</name>
+		<time>2006-08-23T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.9" lon="-33.0">
+		<name>DEBBY009</name>
+		<time>2006-08-23T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.8" lon="-34.7">
+		<name>DEBBY010</name>
+		<time>2006-08-24T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.6" lon="-36.3">
+		<name>DEBBY011</name>
+		<time>2006-08-24T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.4" lon="-37.8">
+		<name>DEBBY012</name>
+		<time>2006-08-24T15:00:00Z</time>
+	</rtept>
+	<rtept lat="21.3" lon="-39.5">
+		<name>DEBBY013</name>
+		<time>2006-08-24T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.9" lon="-41.1">
+		<name>DEBBY014</name>
+		<time>2006-08-25T03:00:00Z</time>
+	</rtept>
+	<rtept lat="22.9" lon="-42.3">
+		<name>DEBBY015</name>
+		<time>2006-08-25T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.9" lon="-43.3">
+		<name>DEBBY016</name>
+		<time>2006-08-25T15:00:00Z</time>
+	</rtept>
+	<rtept lat="24.9" lon="-44.7">
+		<name>DEBBY017</name>
+		<time>2006-08-25T21:00:00Z</time>
+	</rtept>
+	<rtept lat="25.2" lon="-45.6">
+		<name>DEBBY018</name>
+		<time>2006-08-26T03:00:00Z</time>
+	</rtept>
+	<rtept lat="25.3" lon="-46.7">
+		<name>DEBBY019</name>
+		<time>2006-08-26T09:00:00Z</time>
+	</rtept>
+	<rtept lat="25.6" lon="-47.3">
+		<name>DEBBY020</name>
+		<time>2006-08-26T15:00:00Z</time>
+	</rtept>
+	<rtept lat="27.0" lon="-47.5">
+		<name>DEBBY021</name>
+		<time>2006-08-26T21:00:00Z</time>
+	</rtept>
+	<rtept lat="27.9" lon="-48.5">
+		<name>DEBBY022</name>
+		<time>2006-08-27T03:00:00Z</time>
+	</rtept>
+	<rtept lat="28.6" lon="-49.3">
+		<name>DEBBY023</name>
+		<time>2006-08-27T09:00:00Z</time>
+	</rtept>
+	<rtept lat="29.6" lon="-49.2">
+		<name>DEBBY024</name>
+		<time>2006-08-27T15:00:00Z</time>
+	</rtept>
+	<rtept lat="31.5" lon="-48.6">
+		<name>DEBBY025</name>
+		<time>2006-08-27T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>ERNESTO</name>
+	<rtept lat="12.9" lon="-62.4">
+		<name>ERNST001</name>
+		<time>2006-08-24T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.2" lon="-63.9">
+		<name>ERNST002</name>
+		<time>2006-08-25T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.4" lon="-65.7">
+		<name>ERNST003</name>
+		<time>2006-08-25T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.5" lon="-66.4">
+		<name>ERNST004</name>
+		<time>2006-08-25T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.3" lon="-67.6">
+		<name>ERNST005</name>
+		<time>2006-08-25T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.8" lon="-69.1">
+		<name>ERNST006</name>
+		<time>2006-08-26T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.8" lon="-70.2">
+		<name>ERNST007</name>
+		<time>2006-08-26T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.1" lon="-71.2">
+		<name>ERNST008</name>
+		<time>2006-08-26T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.9" lon="-71.6">
+		<name>ERNST009</name>
+		<time>2006-08-26T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.8" lon="-72.7">
+		<name>ERNST010</name>
+		<time>2006-08-27T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-73.1">
+		<name>ERNST011</name>
+		<time>2006-08-27T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.6" lon="-73.7">
+		<name>ERNST012</name>
+		<time>2006-08-27T15:00:00Z</time>
+	</rtept>
+	<rtept lat="18.0" lon="-74.5">
+		<name>ERNST013</name>
+		<time>2006-08-27T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.6" lon="-74.7">
+		<name>ERNST014</name>
+		<time>2006-08-28T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.6" lon="-75.4">
+		<name>ERNST015</name>
+		<time>2006-08-28T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.3" lon="-75.7">
+		<name>ERNST016</name>
+		<time>2006-08-28T15:00:00Z</time>
+	</rtept>
+	<rtept lat="21.3" lon="-76.9">
+		<name>ERNST017</name>
+		<time>2006-08-28T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.7" lon="-77.8">
+		<name>ERNST018</name>
+		<time>2006-08-29T03:00:00Z</time>
+	</rtept>
+	<rtept lat="22.6" lon="-78.9">
+		<name>ERNST019</name>
+		<time>2006-08-29T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.3" lon="-79.5">
+		<name>ERNST020</name>
+		<time>2006-08-29T15:00:00Z</time>
+	</rtept>
+	<rtept lat="24.3" lon="-80.2">
+		<name>ERNST021</name>
+		<time>2006-08-29T21:00:00Z</time>
+	</rtept>
+	<rtept lat="24.9" lon="-80.5">
+		<name>ERNST022</name>
+		<time>2006-08-30T03:00:00Z</time>
+	</rtept>
+	<rtept lat="25.6" lon="-80.9">
+		<name>ERNST023</name>
+		<time>2006-08-30T09:00:00Z</time>
+	</rtept>
+	<rtept lat="26.4" lon="-80.9">
+		<name>ERNST024</name>
+		<time>2006-08-30T15:00:00Z</time>
+	</rtept>
+	<rtept lat="27.6" lon="-80.8">
+		<name>ERNST025</name>
+		<time>2006-08-30T21:00:00Z</time>
+	</rtept>
+	<rtept lat="28.7" lon="-80.6">
+		<name>ERNST026</name>
+		<time>2006-08-31T03:00:00Z</time>
+	</rtept>
+	<rtept lat="30.0" lon="-80.2">
+		<name>ERNST027</name>
+		<time>2006-08-31T09:00:00Z</time>
+	</rtept>
+	<rtept lat="31.3" lon="-79.6">
+		<name>ERNST028</name>
+		<time>2006-08-31T15:00:00Z</time>
+	</rtept>
+	<rtept lat="32.6" lon="-78.7">
+		<name>ERNST029</name>
+		<time>2006-08-31T21:00:00Z</time>
+	</rtept>
+	<rtept lat="33.9" lon="-78.2">
+		<name>ERNST030</name>
+		<time>2006-09-01T03:00:00Z</time>
+	</rtept>
+	<rtept lat="35.1" lon="-77.8">
+		<name>ERNST031</name>
+		<time>2006-09-01T09:00:00Z</time>
+	</rtept>
+	<rtept lat="36.4" lon="-77.6">
+		<name>ERNST032</name>
+		<time>2006-09-01T15:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>FLORENCE</name>
+	<rtept lat="14.6" lon="-40.4">
+		<name>FLRNC001</name>
+		<time>2006-09-03T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.8" lon="-40.4">
+		<name>FLRNC002</name>
+		<time>2006-09-04T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.6" lon="-41.1">
+		<name>FLRNC003</name>
+		<time>2006-09-04T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.3" lon="-42.7">
+		<name>FLRNC004</name>
+		<time>2006-09-04T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.9" lon="-43.8">
+		<name>FLRNC005</name>
+		<time>2006-09-04T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.3" lon="-44.8">
+		<name>FLRNC006</name>
+		<time>2006-09-05T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.7" lon="-45.9">
+		<name>FLRNC007</name>
+		<time>2006-09-05T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.3" lon="-47.3">
+		<name>FLRNC008</name>
+		<time>2006-09-05T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.4" lon="-48.5">
+		<name>FLRNC009</name>
+		<time>2006-09-05T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.7" lon="-49.5">
+		<name>FLRNC010</name>
+		<time>2006-09-06T03:00:00Z</time>
+	</rtept>
+	<rtept lat="18.4" lon="-50.2">
+		<name>FLRNC011</name>
+		<time>2006-09-06T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.3" lon="-50.9">
+		<name>FLRNC012</name>
+		<time>2006-09-06T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.0" lon="-51.4">
+		<name>FLRNC013</name>
+		<time>2006-09-06T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.6" lon="-52.5">
+		<name>FLRNC014</name>
+		<time>2006-09-07T03:00:00Z</time>
+	</rtept>
+	<rtept lat="20.1" lon="-53.2">
+		<name>FLRNC015</name>
+		<time>2006-09-07T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.8" lon="-53.4">
+		<name>FLRNC016</name>
+		<time>2006-09-07T15:00:00Z</time>
+	</rtept>
+	<rtept lat="20.6" lon="-54.9">
+		<name>FLRNC017</name>
+		<time>2006-09-07T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.3" lon="-56.1">
+		<name>FLRNC018</name>
+		<time>2006-09-08T03:00:00Z</time>
+	</rtept>
+	<rtept lat="22.1" lon="-57.6">
+		<name>FLRNC019</name>
+		<time>2006-09-08T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.0" lon="-59.1">
+		<name>FLRNC020</name>
+		<time>2006-09-08T15:00:00Z</time>
+	</rtept>
+	<rtept lat="23.9" lon="-60.1">
+		<name>FLRNC021</name>
+		<time>2006-09-08T21:00:00Z</time>
+	</rtept>
+	<rtept lat="24.5" lon="-61.4">
+		<name>FLRNC022</name>
+		<time>2006-09-09T03:00:00Z</time>
+	</rtept>
+	<rtept lat="24.1" lon="-62.8">
+		<name>FLRNC023</name>
+		<time>2006-09-09T09:00:00Z</time>
+	</rtept>
+	<rtept lat="24.7" lon="-63.7">
+		<name>FLRNC024</name>
+		<time>2006-09-09T15:00:00Z</time>
+	</rtept>
+	<rtept lat="25.6" lon="-64.3">
+		<name>FLRNC025</name>
+		<time>2006-09-09T21:00:00Z</time>
+	</rtept>
+	<rtept lat="26.6" lon="-64.9">
+		<name>FLRNC026</name>
+		<time>2006-09-10T03:00:00Z</time>
+	</rtept>
+	<rtept lat="27.7" lon="-65.7">
+		<name>FLRNC027</name>
+		<time>2006-09-10T09:00:00Z</time>
+	</rtept>
+	<rtept lat="28.7" lon="-65.9">
+		<name>FLRNC028</name>
+		<time>2006-09-10T15:00:00Z</time>
+	</rtept>
+	<rtept lat="29.9" lon="-66.2">
+		<name>FLRNC029</name>
+		<time>2006-09-10T21:00:00Z</time>
+	</rtept>
+	<rtept lat="31.0" lon="-66.1">
+		<name>FLRNC030</name>
+		<time>2006-09-11T03:00:00Z</time>
+	</rtept>
+	<rtept lat="31.8" lon="-66.0">
+		<name>FLRNC031</name>
+		<time>2006-09-11T09:00:00Z</time>
+	</rtept>
+	<rtept lat="32.9" lon="-65.6">
+		<name>FLRNC032</name>
+		<time>2006-09-11T15:00:00Z</time>
+	</rtept>
+	<rtept lat="34.4" lon="-64.8">
+		<name>FLRNC033</name>
+		<time>2006-09-11T21:00:00Z</time>
+	</rtept>
+	<rtept lat="35.8" lon="-63.9">
+		<name>FLRNC034</name>
+		<time>2006-09-12T03:00:00Z</time>
+	</rtept>
+	<rtept lat="37.2" lon="-62.4">
+		<name>FLRNC035</name>
+		<time>2006-09-12T09:00:00Z</time>
+	</rtept>
+	<rtept lat="38.2" lon="-61.2">
+		<name>FLRNC036</name>
+		<time>2006-09-12T15:00:00Z</time>
+	</rtept>
+	<rtept lat="39.3" lon="-59.3">
+		<name>FLRNC037</name>
+		<time>2006-09-12T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>GORDON</name>
+	<rtept lat="20.2" lon="-54.5">
+		<name>GRDN001</name>
+		<time>2006-09-11T03:00:00Z</time>
+	</rtept>
+	<rtept lat="20.5" lon="-55.1">
+		<name>GRDN002</name>
+		<time>2006-09-11T09:00:00Z</time>
+	</rtept>
+	<rtept lat="21.1" lon="-56.7">
+		<name>GRDN003</name>
+		<time>2006-09-11T15:00:00Z</time>
+	</rtept>
+	<rtept lat="21.6" lon="-57.3">
+		<name>GRDN004</name>
+		<time>2006-09-11T21:00:00Z</time>
+	</rtept>
+	<rtept lat="22.1" lon="-57.9">
+		<name>GRDN005</name>
+		<time>2006-09-12T03:00:00Z</time>
+	</rtept>
+	<rtept lat="22.6" lon="-58.3">
+		<name>GRDN006</name>
+		<time>2006-09-12T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.4" lon="-58.3">
+		<name>GRDN007</name>
+		<time>2006-09-12T15:00:00Z</time>
+	</rtept>
+	<rtept lat="23.7" lon="-58.4">
+		<name>GRDN008</name>
+		<time>2006-09-12T21:00:00Z</time>
+	</rtept>
+	<rtept lat="24.4" lon="-57.9">
+		<name>GRDN009</name>
+		<time>2006-09-13T03:00:00Z</time>
+	</rtept>
+	<rtept lat="25.1" lon="-57.9">
+		<name>GRDN010</name>
+		<time>2006-09-13T09:00:00Z</time>
+	</rtept>
+	<rtept lat="26.0" lon="-57.9">
+		<name>GRDN011</name>
+		<time>2006-09-13T15:00:00Z</time>
+	</rtept>
+	<rtept lat="27.0" lon="-57.5">
+		<name>GRDN012</name>
+		<time>2006-09-13T21:00:00Z</time>
+	</rtept>
+	<rtept lat="27.8" lon="-57.1">
+		<name>GRDN013</name>
+		<time>2006-09-14T03:00:00Z</time>
+	</rtept>
+	<rtept lat="28.7" lon="-56.6">
+		<name>GRDN014</name>
+		<time>2006-09-14T09:00:00Z</time>
+	</rtept>
+	<rtept lat="29.5" lon="-55.9">
+		<name>GRDN015</name>
+		<time>2006-09-14T15:00:00Z</time>
+	</rtept>
+	<rtept lat="30.2" lon="-54.9">
+		<name>GRDN016</name>
+		<time>2006-09-14T21:00:00Z</time>
+	</rtept>
+	<rtept lat="30.6" lon="-54.3">
+		<name>GRDN017</name>
+		<time>2006-09-15T03:00:00Z</time>
+	</rtept>
+	<rtept lat="30.9" lon="-53.4">
+		<name>GRDN018</name>
+		<time>2006-09-15T09:00:00Z</time>
+	</rtept>
+	<rtept lat="31.1" lon="-53.3">
+		<name>GRDN019</name>
+		<time>2006-09-15T15:00:00Z</time>
+	</rtept>
+	<rtept lat="31.1" lon="-53.5">
+		<name>GRDN020</name>
+		<time>2006-09-15T21:00:00Z</time>
+	</rtept>
+	<rtept lat="31.3" lon="-53.4">
+		<name>GRDN021</name>
+		<time>2006-09-16T03:00:00Z</time>
+	</rtept>
+	<rtept lat="31.3" lon="-53.7">
+		<name>GRDN022</name>
+		<time>2006-09-16T09:00:00Z</time>
+	</rtept>
+	<rtept lat="31.3" lon="-53.7">
+		<name>GRDN023</name>
+		<time>2006-09-16T15:00:00Z</time>
+	</rtept>
+	<rtept lat="31.7" lon="-54.0">
+		<name>GRDN024</name>
+		<time>2006-09-16T21:00:00Z</time>
+	</rtept>
+	<rtept lat="32.0" lon="-53.9">
+		<name>GRDN025</name>
+		<time>2006-09-17T03:00:00Z</time>
+	</rtept>
+	<rtept lat="32.6" lon="-53.3">
+		<name>GRDN026</name>
+		<time>2006-09-17T09:00:00Z</time>
+	</rtept>
+	<rtept lat="33.6" lon="-53.2">
+		<name>GRDN027</name>
+		<time>2006-09-17T15:00:00Z</time>
+	</rtept>
+	<rtept lat="34.6" lon="-52.4">
+		<name>GRDN028</name>
+		<time>2006-09-17T21:00:00Z</time>
+	</rtept>
+	<rtept lat="35.4" lon="-51.5">
+		<name>GRDN029</name>
+		<time>2006-09-18T03:00:00Z</time>
+	</rtept>
+	<rtept lat="36.5" lon="-49.6">
+		<name>GRDN030</name>
+		<time>2006-09-18T09:00:00Z</time>
+	</rtept>
+	<rtept lat="37.3" lon="-47.6">
+		<name>GRDN031</name>
+		<time>2006-09-18T15:00:00Z</time>
+	</rtept>
+	<rtept lat="37.8" lon="-44.8">
+		<name>GRDN032</name>
+		<time>2006-09-18T21:00:00Z</time>
+	</rtept>
+	<rtept lat="38.0" lon="-41.6">
+		<name>GRDN033</name>
+		<time>2006-09-19T03:00:00Z</time>
+	</rtept>
+	<rtept lat="38.1" lon="-38.7">
+		<name>GRDN034</name>
+		<time>2006-09-19T09:00:00Z</time>
+	</rtept>
+	<rtept lat="38.0" lon="-35.4">
+		<name>GRDN035</name>
+		<time>2006-09-19T15:00:00Z</time>
+	</rtept>
+	<rtept lat="37.9" lon="-31.6">
+		<name>GRDN036</name>
+		<time>2006-09-19T21:00:00Z</time>
+	</rtept>
+	<rtept lat="37.7" lon="-28.1">
+		<name>GRDN037</name>
+		<time>2006-09-20T03:00:00Z</time>
+	</rtept>
+	<rtept lat="37.8" lon="-24.2">
+		<name>GRDN038</name>
+		<time>2006-09-20T09:00:00Z</time>
+	</rtept>
+	<rtept lat="37.8" lon="-20.9">
+		<name>GRDN039</name>
+		<time>2006-09-20T15:00:00Z</time>
+	</rtept>
+	<rtept lat="39.2" lon="-16.6">
+		<name>GRDN040</name>
+		<time>2006-09-20T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>HELENE</name>
+	<rtept lat="12.5" lon="-23.0">
+		<name>HLN001</name>
+		<time>2006-09-12T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.0" lon="-23.9">
+		<name>HLN002</name>
+		<time>2006-09-12T21:00:00Z</time>
+	</rtept>
+	<rtept lat="11.8" lon="-25.3">
+		<name>HLN003</name>
+		<time>2006-09-13T03:00:00Z</time>
+	</rtept>
+	<rtept lat="11.9" lon="-26.7">
+		<name>HLN004</name>
+		<time>2006-09-13T09:00:00Z</time>
+	</rtept>
+	<rtept lat="12.0" lon="-28.5">
+		<name>HLN005</name>
+		<time>2006-09-13T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.7" lon="-30.7">
+		<name>HLN006</name>
+		<time>2006-09-13T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.3" lon="-32.7">
+		<name>HLN007</name>
+		<time>2006-09-14T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.7" lon="-34.7">
+		<name>HLN008</name>
+		<time>2006-09-14T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.4" lon="-36.8">
+		<name>HLN009</name>
+		<time>2006-09-14T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.2" lon="-37.6">
+		<name>HLN010</name>
+		<time>2006-09-14T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.5" lon="-38.9">
+		<name>HLN011</name>
+		<time>2006-09-15T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.0" lon="-40.3">
+		<name>HLN012</name>
+		<time>2006-09-15T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-41.4">
+		<name>HLN013</name>
+		<time>2006-09-15T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.7" lon="-42.8">
+		<name>HLN014</name>
+		<time>2006-09-15T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.2" lon="-43.7">
+		<name>HLN015</name>
+		<time>2006-09-16T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.9" lon="-44.7">
+		<name>HLN016</name>
+		<time>2006-09-16T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.8" lon="-45.6">
+		<name>HLN017</name>
+		<time>2006-09-16T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.3" lon="-46.3">
+		<name>HLN018</name>
+		<time>2006-09-16T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.5" lon="-47.5">
+		<name>HLN019</name>
+		<time>2006-09-17T03:00:00Z</time>
+	</rtept>
+	<rtept lat="20.0" lon="-48.2">
+		<name>HLN020</name>
+		<time>2006-09-17T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.5" lon="-49.0">
+		<name>HLN021</name>
+		<time>2006-09-17T15:00:00Z</time>
+	</rtept>
+	<rtept lat="21.2" lon="-49.3">
+		<name>HLN022</name>
+		<time>2006-09-17T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.6" lon="-49.4">
+		<name>HLN023</name>
+		<time>2006-09-18T03:00:00Z</time>
+	</rtept>
+	<rtept lat="22.3" lon="-49.6">
+		<name>HLN024</name>
+		<time>2006-09-18T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.2" lon="-50.2">
+		<name>HLN025</name>
+		<time>2006-09-18T15:00:00Z</time>
+	</rtept>
+	<rtept lat="23.9" lon="-51.1">
+		<name>HLN026</name>
+		<time>2006-09-18T21:00:00Z</time>
+	</rtept>
+	<rtept lat="24.2" lon="-51.4">
+		<name>HLN027</name>
+		<time>2006-09-19T03:00:00Z</time>
+	</rtept>
+	<rtept lat="24.4" lon="-52.1">
+		<name>HLN028</name>
+		<time>2006-09-19T09:00:00Z</time>
+	</rtept>
+	<rtept lat="24.6" lon="-52.9">
+		<name>HLN029</name>
+		<time>2006-09-19T15:00:00Z</time>
+	</rtept>
+	<rtept lat="24.6" lon="-54.1">
+		<name>HLN030</name>
+		<time>2006-09-19T21:00:00Z</time>
+	</rtept>
+	<rtept lat="24.6" lon="-54.8">
+		<name>HLN031</name>
+		<time>2006-09-20T03:00:00Z</time>
+	</rtept>
+	<rtept lat="25.3" lon="-55.4">
+		<name>HLN032</name>
+		<time>2006-09-20T09:00:00Z</time>
+	</rtept>
+	<rtept lat="26.0" lon="-56.3">
+		<name>HLN033</name>
+		<time>2006-09-20T15:00:00Z</time>
+	</rtept>
+	<rtept lat="26.6" lon="-57.1">
+		<name>HLN034</name>
+		<time>2006-09-20T21:00:00Z</time>
+	</rtept>
+	<rtept lat="27.1" lon="-57.0">
+		<name>HLN035</name>
+		<time>2006-09-21T03:00:00Z</time>
+	</rtept>
+	<rtept lat="28.4" lon="-56.8">
+		<name>HLN036</name>
+		<time>2006-09-21T09:00:00Z</time>
+	</rtept>
+	<rtept lat="29.6" lon="-56.9">
+		<name>HLN037</name>
+		<time>2006-09-21T15:00:00Z</time>
+	</rtept>
+	<rtept lat="30.7" lon="-56.8">
+		<name>HLN038</name>
+		<time>2006-09-21T21:00:00Z</time>
+	</rtept>
+	<rtept lat="31.8" lon="-56.3">
+		<name>HLN039</name>
+		<time>2006-09-22T03:00:00Z</time>
+	</rtept>
+	<rtept lat="32.9" lon="-55.2">
+		<name>HLN040</name>
+		<time>2006-09-22T09:00:00Z</time>
+	</rtept>
+	<rtept lat="34.4" lon="-54.2">
+		<name>HLN041</name>
+		<time>2006-09-22T15:00:00Z</time>
+	</rtept>
+	<rtept lat="35.4" lon="-53.0">
+		<name>HLN042</name>
+		<time>2006-09-22T21:00:00Z</time>
+	</rtept>
+	<rtept lat="36.0" lon="-50.6">
+		<name>HLN043</name>
+		<time>2006-09-23T03:00:00Z</time>
+	</rtept>
+	<rtept lat="37.2" lon="-48.2">
+		<name>HLN044</name>
+		<time>2006-09-23T09:00:00Z</time>
+	</rtept>
+	<rtept lat="37.4" lon="-47.2">
+		<name>HLN045</name>
+		<time>2006-09-23T12:00:00Z</time>
+	</rtept>
+	<rtept lat="37.7" lon="-46.4">
+		<name>HLN046</name>
+		<time>2006-09-23T15:00:00Z</time>
+	</rtept>
+	<rtept lat="38.0" lon="-44.4">
+		<name>HLN047</name>
+		<time>2006-09-23T21:00:00Z</time>
+	</rtept>
+	<rtept lat="39.1" lon="-41.7">
+		<name>HLN048</name>
+		<time>2006-09-24T03:00:00Z</time>
+	</rtept>
+	<rtept lat="39.9" lon="-39.9">
+		<name>HLN049</name>
+		<time>2006-09-24T09:00:00Z</time>
+	</rtept>
+	<rtept lat="40.9" lon="-37.5">
+		<name>HLN050</name>
+		<time>2006-09-24T15:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>ISAAC</name>
+	<rtept lat="26.5" lon="-53.1">
+		<name>ISAAC001</name>
+		<time>2006-09-27T21:00:00Z</time>
+	</rtept>
+	<rtept lat="27.2" lon="-53.8">
+		<name>ISAAC002</name>
+		<time>2006-09-28T03:00:00Z</time>
+	</rtept>
+	<rtept lat="27.8" lon="-54.6">
+		<name>ISAAC003</name>
+		<time>2006-09-28T09:00:00Z</time>
+	</rtept>
+	<rtept lat="28.2" lon="-54.7">
+		<name>ISAAC004</name>
+		<time>2006-09-28T15:00:00Z</time>
+	</rtept>
+	<rtept lat="28.9" lon="-54.9">
+		<name>ISAAC005</name>
+		<time>2006-09-28T21:00:00Z</time>
+	</rtept>
+	<rtept lat="29.2" lon="-55.2">
+		<name>ISAAC006</name>
+		<time>2006-09-29T03:00:00Z</time>
+	</rtept>
+	<rtept lat="29.2" lon="-55.6">
+		<name>ISAAC007</name>
+		<time>2006-09-29T09:00:00Z</time>
+	</rtept>
+	<rtept lat="29.4" lon="-56.2">
+		<name>ISAAC008</name>
+		<time>2006-09-29T15:00:00Z</time>
+	</rtept>
+	<rtept lat="29.7" lon="-56.8">
+		<name>ISAAC009</name>
+		<time>2006-09-29T21:00:00Z</time>
+	</rtept>
+	<rtept lat="30.1" lon="-57.4">
+		<name>ISAAC010</name>
+		<time>2006-09-30T03:00:00Z</time>
+	</rtept>
+	<rtept lat="30.3" lon="-58.0">
+		<name>ISAAC011</name>
+		<time>2006-09-30T09:00:00Z</time>
+	</rtept>
+	<rtept lat="30.9" lon="-58.7">
+		<name>ISAAC012</name>
+		<time>2006-09-30T15:00:00Z</time>
+	</rtept>
+	<rtept lat="31.6" lon="-59.5">
+		<name>ISAAC013</name>
+		<time>2006-09-30T21:00:00Z</time>
+	</rtept>
+	<rtept lat="32.5" lon="-59.9">
+		<name>ISAAC014</name>
+		<time>2006-10-01T03:00:00Z</time>
+	</rtept>
+	<rtept lat="33.1" lon="-60.1">
+		<name>ISAAC015</name>
+		<time>2006-10-01T09:00:00Z</time>
+	</rtept>
+	<rtept lat="34.4" lon="-60.3">
+		<name>ISAAC016</name>
+		<time>2006-10-01T15:00:00Z</time>
+	</rtept>
+	<rtept lat="36.3" lon="-60.0">
+		<name>ISAAC017</name>
+		<time>2006-10-01T21:00:00Z</time>
+	</rtept>
+	<rtept lat="38.6" lon="-58.8">
+		<name>ISAAC018</name>
+		<time>2006-10-02T03:00:00Z</time>
+	</rtept>
+	<rtept lat="40.5" lon="-58.2">
+		<name>ISAAC019</name>
+		<time>2006-10-02T09:00:00Z</time>
+	</rtept>
+	<rtept lat="44.3" lon="-55.0">
+		<name>ISAAC020</name>
+		<time>2006-10-02T15:00:00Z</time>
+	</rtept>
+	<rtept lat="47.1" lon="-52.2">
+		<name>ISAAC021</name>
+		<time>2006-10-02T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>ALETTA</name>
+	<rtept lat="14.5" lon="-101.5">
+		<name>ALTT001</name>
+		<time>2006-05-27T10:00:00Z</time>
+	</rtept>
+	<rtept lat="15.1" lon="-101.3">
+		<name>ALTT002</name>
+		<time>2006-05-27T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.6" lon="-100.5">
+		<name>ALTT003</name>
+		<time>2006-05-27T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.7" lon="-101.0">
+		<name>ALTT004</name>
+		<time>2006-05-28T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.4" lon="-101.0">
+		<name>ALTT005</name>
+		<time>2006-05-28T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.5" lon="-101.3">
+		<name>ALTT006</name>
+		<time>2006-05-28T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-101.0">
+		<name>ALTT007</name>
+		<time>2006-05-28T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.0" lon="-101.0">
+		<name>ALTT008</name>
+		<time>2006-05-29T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.2" lon="-101.0">
+		<name>ALTT009</name>
+		<time>2006-05-29T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.0" lon="-101.4">
+		<name>ALTT010</name>
+		<time>2006-05-29T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.9" lon="-102.1">
+		<name>ALTT011</name>
+		<time>2006-05-29T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.0" lon="-102.3">
+		<name>ALTT012</name>
+		<time>2006-05-30T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.0" lon="-102.8">
+		<name>ALTT013</name>
+		<time>2006-05-30T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.0" lon="-103.5">
+		<name>ALTT014</name>
+		<time>2006-05-30T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.4" lon="-103.9">
+		<name>ALTT015</name>
+		<time>2006-05-30T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>TWO-E</name>
+	<rtept lat="16.0" lon="-102.8">
+		<name>TWOE001</name>
+		<time>2006-06-03T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.7" lon="-102.3">
+		<name>TWOE002</name>
+		<time>2006-06-03T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.2" lon="-102.0">
+		<name>TWOE003</name>
+		<time>2006-06-04T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-102.0">
+		<name>TWOE004</name>
+		<time>2006-06-04T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.8" lon="-101.7">
+		<name>TWOE005</name>
+		<time>2006-06-04T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-99.8">
+		<name>TWOE006</name>
+		<time>2006-06-04T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.4" lon="-99.0">
+		<name>TWOE007</name>
+		<time>2006-06-05T03:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>BUD</name>
+	<rtept lat="12.5" lon="-110.6">
+		<name>BUD001</name>
+		<time>2006-07-11T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.7" lon="-111.3">
+		<name>BUD002</name>
+		<time>2006-07-11T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.9" lon="-112.6">
+		<name>BUD003</name>
+		<time>2006-07-11T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.4" lon="-113.0">
+		<name>BUD004</name>
+		<time>2006-07-11T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.2" lon="-113.1">
+		<name>BUD005</name>
+		<time>2006-07-11T22:30:00Z</time>
+	</rtept>
+	<rtept lat="14.6" lon="-114.1">
+		<name>BUD006</name>
+		<time>2006-07-12T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.0" lon="-115.3">
+		<name>BUD007</name>
+		<time>2006-07-12T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.7" lon="-116.2">
+		<name>BUD008</name>
+		<time>2006-07-12T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.3" lon="-117.5">
+		<name>BUD009</name>
+		<time>2006-07-12T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.1" lon="-118.9">
+		<name>BUD010</name>
+		<time>2006-07-13T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.5" lon="-120.5">
+		<name>BUD011</name>
+		<time>2006-07-13T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.9" lon="-122.0">
+		<name>BUD012</name>
+		<time>2006-07-13T15:00:00Z</time>
+	</rtept>
+	<rtept lat="18.4" lon="-123.3">
+		<name>BUD013</name>
+		<time>2006-07-13T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.9" lon="-124.6">
+		<name>BUD014</name>
+		<time>2006-07-14T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.5" lon="-125.9">
+		<name>BUD015</name>
+		<time>2006-07-14T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.7" lon="-127.1">
+		<name>BUD016</name>
+		<time>2006-07-14T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.8" lon="-128.5">
+		<name>BUD017</name>
+		<time>2006-07-14T21:00:00Z</time>
+	</rtept>
+	<rtept lat="20.1" lon="-130.0">
+		<name>BUD018</name>
+		<time>2006-07-15T03:00:00Z</time>
+	</rtept>
+	<rtept lat="20.4" lon="-131.4">
+		<name>BUD019</name>
+		<time>2006-07-15T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.6" lon="-132.9">
+		<name>BUD020</name>
+		<time>2006-07-15T15:00:00Z</time>
+	</rtept>
+	<rtept lat="21.1" lon="-134.2">
+		<name>BUD021</name>
+		<time>2006-07-15T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>CARLOTTA</name>
+	<rtept lat="14.4" lon="-102.8">
+		<name>CRLTT001</name>
+		<time>2006-07-12T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.1" lon="-103.9">
+		<name>CRLTT002</name>
+		<time>2006-07-12T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.5" lon="-105.3">
+		<name>CRLTT003</name>
+		<time>2006-07-12T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.3" lon="-106.4">
+		<name>CRLTT004</name>
+		<time>2006-07-12T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.2" lon="-107.9">
+		<name>CRLTT005</name>
+		<time>2006-07-13T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.4" lon="-109.4">
+		<name>CRLTT006</name>
+		<time>2006-07-13T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.3" lon="-110.4">
+		<name>CRLTT007</name>
+		<time>2006-07-13T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.8" lon="-111.3">
+		<name>CRLTT008</name>
+		<time>2006-07-13T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.1" lon="-112.1">
+		<name>CRLTT009</name>
+		<time>2006-07-14T03:00:00Z</time>
+	</rtept>
+	<rtept lat="18.1" lon="-112.8">
+		<name>CRLTT010</name>
+		<time>2006-07-14T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.4" lon="-113.7">
+		<name>CRLTT011</name>
+		<time>2006-07-14T15:00:00Z</time>
+	</rtept>
+	<rtept lat="18.6" lon="-114.4">
+		<name>CRLTT012</name>
+		<time>2006-07-14T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.9" lon="-115.4">
+		<name>CRLTT013</name>
+		<time>2006-07-15T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.0" lon="-116.5">
+		<name>CRLTT014</name>
+		<time>2006-07-15T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.8" lon="-117.7">
+		<name>CRLTT015</name>
+		<time>2006-07-15T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.4" lon="-118.4">
+		<name>CRLTT016</name>
+		<time>2006-07-15T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.7" lon="-119.6">
+		<name>CRLTT017</name>
+		<time>2006-07-16T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.9" lon="-120.5">
+		<name>CRLTT018</name>
+		<time>2006-07-16T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.2" lon="-121.5">
+		<name>CRLTT019</name>
+		<time>2006-07-16T15:00:00Z</time>
+	</rtept>
+	<rtept lat="20.4" lon="-122.4">
+		<name>CRLTT020</name>
+		<time>2006-07-16T21:00:00Z</time>
+	</rtept>
+	<rtept lat="20.9" lon="-123.5">
+		<name>CRLTT021</name>
+		<time>2006-07-17T03:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>DANIEL</name>
+	<rtept lat="12.4" lon="-109.9">
+		<name>DNL001</name>
+		<time>2006-07-17T03:00:00Z</time>
+	</rtept>
+	<rtept lat="12.4" lon="-111.0">
+		<name>DNL002</name>
+		<time>2006-07-17T09:00:00Z</time>
+	</rtept>
+	<rtept lat="12.4" lon="-112.2">
+		<name>DNL003</name>
+		<time>2006-07-17T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.4" lon="-112.8">
+		<name>DNL004</name>
+		<time>2006-07-17T21:00:00Z</time>
+	</rtept>
+	<rtept lat="12.3" lon="-114.1">
+		<name>DNL005</name>
+		<time>2006-07-18T03:00:00Z</time>
+	</rtept>
+	<rtept lat="12.2" lon="-115.2">
+		<name>DNL006</name>
+		<time>2006-07-18T09:00:00Z</time>
+	</rtept>
+	<rtept lat="12.2" lon="-116.8">
+		<name>DNL007</name>
+		<time>2006-07-18T15:00:00Z</time>
+	</rtept>
+	<rtept lat="11.9" lon="-117.6">
+		<name>DNL008</name>
+		<time>2006-07-18T21:00:00Z</time>
+	</rtept>
+	<rtept lat="11.9" lon="-118.4">
+		<name>DNL009</name>
+		<time>2006-07-19T03:00:00Z</time>
+	</rtept>
+	<rtept lat="11.8" lon="-119.0">
+		<name>DNL010</name>
+		<time>2006-07-19T09:00:00Z</time>
+	</rtept>
+	<rtept lat="11.9" lon="-119.6">
+		<name>DNL011</name>
+		<time>2006-07-19T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.0" lon="-120.4">
+		<name>DNL012</name>
+		<time>2006-07-19T21:00:00Z</time>
+	</rtept>
+	<rtept lat="12.0" lon="-121.0">
+		<name>DNL013</name>
+		<time>2006-07-20T03:00:00Z</time>
+	</rtept>
+	<rtept lat="12.2" lon="-121.9">
+		<name>DNL014</name>
+		<time>2006-07-20T09:00:00Z</time>
+	</rtept>
+	<rtept lat="12.5" lon="-122.6">
+		<name>DNL015</name>
+		<time>2006-07-20T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.7" lon="-123.4">
+		<name>DNL016</name>
+		<time>2006-07-20T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.1" lon="-124.3">
+		<name>DNL017</name>
+		<time>2006-07-21T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.2" lon="-125.3">
+		<name>DNL018</name>
+		<time>2006-07-21T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.4" lon="-126.3">
+		<name>DNL019</name>
+		<time>2006-07-21T15:00:00Z</time>
+	</rtept>
+	<rtept lat="13.5" lon="-127.4">
+		<name>DNL020</name>
+		<time>2006-07-21T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.6" lon="-128.5">
+		<name>DNL021</name>
+		<time>2006-07-22T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.8" lon="-129.7">
+		<name>DNL022</name>
+		<time>2006-07-22T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.9" lon="-130.8">
+		<name>DNL023</name>
+		<time>2006-07-22T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.0" lon="-131.9">
+		<name>DNL024</name>
+		<time>2006-07-22T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.4" lon="-133.2">
+		<name>DNL025</name>
+		<time>2006-07-23T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.7" lon="-134.6">
+		<name>DNL026</name>
+		<time>2006-07-23T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.9" lon="-135.7">
+		<name>DNL027</name>
+		<time>2006-07-23T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.3" lon="-137.1">
+		<name>DNL028</name>
+		<time>2006-07-23T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-138.7">
+		<name>DNL029</name>
+		<time>2006-07-24T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.1" lon="-139.8">
+		<name>DNL030</name>
+		<time>2006-07-24T09:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>EMILIA</name>
+	<rtept lat="12.1" lon="-103.1">
+		<name>EML001</name>
+		<time>2006-07-21T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.7" lon="-103.3">
+		<name>EML002</name>
+		<time>2006-07-21T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.4" lon="-103.5">
+		<name>EML003</name>
+		<time>2006-07-22T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.8" lon="-104.0">
+		<name>EML004</name>
+		<time>2006-07-22T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.3" lon="-104.6">
+		<name>EML005</name>
+		<time>2006-07-22T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-104.6">
+		<name>EML006</name>
+		<time>2006-07-22T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.4" lon="-105.3">
+		<name>EML007</name>
+		<time>2006-07-23T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.8" lon="-106.5">
+		<name>EML008</name>
+		<time>2006-07-23T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.1" lon="-107.4">
+		<name>EML009</name>
+		<time>2006-07-23T15:00:00Z</time>
+	</rtept>
+	<rtept lat="18.4" lon="-107.8">
+		<name>EML010</name>
+		<time>2006-07-23T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.2" lon="-108.8">
+		<name>EML011</name>
+		<time>2006-07-24T03:00:00Z</time>
+	</rtept>
+	<rtept lat="18.4" lon="-109.7">
+		<name>EML012</name>
+		<time>2006-07-24T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.7" lon="-110.1">
+		<name>EML013</name>
+		<time>2006-07-24T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.2" lon="-110.4">
+		<name>EML014</name>
+		<time>2006-07-24T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.8" lon="-110.6">
+		<name>EML015</name>
+		<time>2006-07-25T03:00:00Z</time>
+	</rtept>
+	<rtept lat="20.2" lon="-111.0">
+		<name>EML016</name>
+		<time>2006-07-25T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.6" lon="-111.3">
+		<name>EML017</name>
+		<time>2006-07-25T15:00:00Z</time>
+	</rtept>
+	<rtept lat="21.8" lon="-111.6">
+		<name>EML018</name>
+		<time>2006-07-25T21:00:00Z</time>
+	</rtept>
+	<rtept lat="22.9" lon="-111.0">
+		<name>EML019</name>
+		<time>2006-07-26T03:00:00Z</time>
+	</rtept>
+	<rtept lat="24.0" lon="-112.5">
+		<name>EML020</name>
+		<time>2006-07-26T09:00:00Z</time>
+	</rtept>
+	<rtept lat="24.7" lon="-113.5">
+		<name>EML021</name>
+		<time>2006-07-26T15:00:00Z</time>
+	</rtept>
+	<rtept lat="25.5" lon="-114.4">
+		<name>EML022</name>
+		<time>2006-07-26T21:00:00Z</time>
+	</rtept>
+	<rtept lat="25.8" lon="-115.8">
+		<name>EML023</name>
+		<time>2006-07-27T03:00:00Z</time>
+	</rtept>
+	<rtept lat="26.4" lon="-116.7">
+		<name>EML024</name>
+		<time>2006-07-27T09:00:00Z</time>
+	</rtept>
+	<rtept lat="27.1" lon="-118.6">
+		<name>EML025</name>
+		<time>2006-07-27T15:00:00Z</time>
+	</rtept>
+	<rtept lat="27.3" lon="-119.2">
+		<name>EML026</name>
+		<time>2006-07-27T21:00:00Z</time>
+	</rtept>
+	<rtept lat="28.0" lon="-119.8">
+		<name>EML027</name>
+		<time>2006-07-28T03:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>FABIO</name>
+	<rtept lat="14.2" lon="-122.0">
+		<name>FABIO001</name>
+		<time>2006-07-31T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.5" lon="-123.3">
+		<name>FABIO002</name>
+		<time>2006-08-01T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.8" lon="-124.6">
+		<name>FABIO003</name>
+		<time>2006-08-01T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.0" lon="-125.7">
+		<name>FABIO004</name>
+		<time>2006-08-01T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.0" lon="-127.3">
+		<name>FABIO005</name>
+		<time>2006-08-01T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.7" lon="-128.2">
+		<name>FABIO006</name>
+		<time>2006-08-02T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.7" lon="-129.5">
+		<name>FABIO007</name>
+		<time>2006-08-02T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.9" lon="-131.2">
+		<name>FABIO008</name>
+		<time>2006-08-02T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.1" lon="-132.6">
+		<name>FABIO009</name>
+		<time>2006-08-02T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.3" lon="-134.3">
+		<name>FABIO010</name>
+		<time>2006-08-03T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.2" lon="-135.8">
+		<name>FABIO011</name>
+		<time>2006-08-03T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.1" lon="-137.3">
+		<name>FABIO012</name>
+		<time>2006-08-03T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.0" lon="-138.9">
+		<name>FABIO013</name>
+		<time>2006-08-03T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>GILMA</name>
+	<rtept lat="12.7" lon="-104.6">
+		<name>GILMA001</name>
+		<time>2006-08-01T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.6" lon="-104.6">
+		<name>GILMA002</name>
+		<time>2006-08-01T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.8" lon="-105.5">
+		<name>GILMA003</name>
+		<time>2006-08-01T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.4" lon="-105.6">
+		<name>GILMA004</name>
+		<time>2006-08-01T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.8" lon="-106.0">
+		<name>GILMA005</name>
+		<time>2006-08-02T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.6" lon="-106.0">
+		<name>GILMA006</name>
+		<time>2006-08-02T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.9" lon="-106.5">
+		<name>GILMA007</name>
+		<time>2006-08-02T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.0" lon="-107.2">
+		<name>GILMA008</name>
+		<time>2006-08-02T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.4" lon="-107.8">
+		<name>GILMA009</name>
+		<time>2006-08-03T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.4" lon="-108.4">
+		<name>GILMA010</name>
+		<time>2006-08-03T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.7" lon="-109.5">
+		<name>GILMA011</name>
+		<time>2006-08-03T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.0" lon="-110.1">
+		<name>GILMA012</name>
+		<time>2006-08-03T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>HECTOR</name>
+	<rtept lat="13.0" lon="-114.1">
+		<name>HCTR001</name>
+		<time>2006-08-15T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.3" lon="-115.3">
+		<name>HCTR002</name>
+		<time>2006-08-16T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.1" lon="-116.5">
+		<name>HCTR003</name>
+		<time>2006-08-16T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.0" lon="-117.2">
+		<name>HCTR004</name>
+		<time>2006-08-16T15:00:00Z</time>
+	</rtept>
+	<rtept lat="13.8" lon="-117.6">
+		<name>HCTR005</name>
+		<time>2006-08-16T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.3" lon="-118.6">
+		<name>HCTR006</name>
+		<time>2006-08-17T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.5" lon="-119.6">
+		<name>HCTR007</name>
+		<time>2006-08-17T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.7" lon="-121.1">
+		<name>HCTR008</name>
+		<time>2006-08-17T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.0" lon="-122.1">
+		<name>HCTR009</name>
+		<time>2006-08-17T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.4" lon="-123.2">
+		<name>HCTR010</name>
+		<time>2006-08-18T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-124.4">
+		<name>HCTR011</name>
+		<time>2006-08-18T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.1" lon="-125.8">
+		<name>HCTR012</name>
+		<time>2006-08-18T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.7" lon="-126.9">
+		<name>HCTR013</name>
+		<time>2006-08-18T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-128.0">
+		<name>HCTR014</name>
+		<time>2006-08-19T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.4" lon="-129.1">
+		<name>HCTR015</name>
+		<time>2006-08-19T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.7" lon="-130.1">
+		<name>HCTR016</name>
+		<time>2006-08-19T15:00:00Z</time>
+	</rtept>
+	<rtept lat="18.3" lon="-131.0">
+		<name>HCTR017</name>
+		<time>2006-08-19T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.0" lon="-132.1">
+		<name>HCTR018</name>
+		<time>2006-08-20T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.4" lon="-132.6">
+		<name>HCTR019</name>
+		<time>2006-08-20T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.8" lon="-133.5">
+		<name>HCTR020</name>
+		<time>2006-08-20T15:00:00Z</time>
+	</rtept>
+	<rtept lat="20.4" lon="-134.2">
+		<name>HCTR021</name>
+		<time>2006-08-20T21:00:00Z</time>
+	</rtept>
+	<rtept lat="20.9" lon="-134.6">
+		<name>HCTR022</name>
+		<time>2006-08-21T03:00:00Z</time>
+	</rtept>
+	<rtept lat="21.2" lon="-135.1">
+		<name>HCTR023</name>
+		<time>2006-08-21T09:00:00Z</time>
+	</rtept>
+	<rtept lat="21.8" lon="-135.4">
+		<name>HCTR024</name>
+		<time>2006-08-21T15:00:00Z</time>
+	</rtept>
+	<rtept lat="22.3" lon="-135.5">
+		<name>HCTR025</name>
+		<time>2006-08-21T21:00:00Z</time>
+	</rtept>
+	<rtept lat="22.6" lon="-135.9">
+		<name>HCTR026</name>
+		<time>2006-08-22T03:00:00Z</time>
+	</rtept>
+	<rtept lat="22.4" lon="-136.5">
+		<name>HCTR027</name>
+		<time>2006-08-22T09:00:00Z</time>
+	</rtept>
+	<rtept lat="22.8" lon="-137.0">
+		<name>HCTR028</name>
+		<time>2006-08-22T15:00:00Z</time>
+	</rtept>
+	<rtept lat="22.9" lon="-137.4">
+		<name>HCTR029</name>
+		<time>2006-08-22T21:00:00Z</time>
+	</rtept>
+	<rtept lat="23.0" lon="-138.1">
+		<name>HCTR030</name>
+		<time>2006-08-23T03:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>ILEANA</name>
+	<rtept lat="12.8" lon="-102.8">
+		<name>ILN001</name>
+		<time>2006-08-21T18:00:00Z</time>
+	</rtept>
+	<rtept lat="12.8" lon="-103.2">
+		<name>ILN002</name>
+		<time>2006-08-21T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.3" lon="-104.3">
+		<name>ILN003</name>
+		<time>2006-08-22T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.0" lon="-105.6">
+		<name>ILN004</name>
+		<time>2006-08-22T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.8" lon="-106.7">
+		<name>ILN005</name>
+		<time>2006-08-22T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-108.2">
+		<name>ILN006</name>
+		<time>2006-08-22T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.6" lon="-109.2">
+		<name>ILN007</name>
+		<time>2006-08-23T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.5" lon="-110.6">
+		<name>ILN008</name>
+		<time>2006-08-23T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.1" lon="-111.5">
+		<name>ILN009</name>
+		<time>2006-08-23T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.0" lon="-112.7">
+		<name>ILN010</name>
+		<time>2006-08-23T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.4" lon="-113.5">
+		<name>ILN011</name>
+		<time>2006-08-24T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.9" lon="-114.2">
+		<name>ILN012</name>
+		<time>2006-08-24T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.5" lon="-114.9">
+		<name>ILN013</name>
+		<time>2006-08-24T15:00:00Z</time>
+	</rtept>
+	<rtept lat="20.8" lon="-115.5">
+		<name>ILN014</name>
+		<time>2006-08-24T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.2" lon="-116.0">
+		<name>ILN015</name>
+		<time>2006-08-25T03:00:00Z</time>
+	</rtept>
+	<rtept lat="21.3" lon="-116.7">
+		<name>ILN016</name>
+		<time>2006-08-25T09:00:00Z</time>
+	</rtept>
+	<rtept lat="21.6" lon="-116.9">
+		<name>ILN017</name>
+		<time>2006-08-25T15:00:00Z</time>
+	</rtept>
+	<rtept lat="22.0" lon="-117.2">
+		<name>ILN018</name>
+		<time>2006-08-25T21:00:00Z</time>
+	</rtept>
+	<rtept lat="22.3" lon="-117.9">
+		<name>ILN019</name>
+		<time>2006-08-26T03:00:00Z</time>
+	</rtept>
+	<rtept lat="22.5" lon="-118.6">
+		<name>ILN020</name>
+		<time>2006-08-26T09:00:00Z</time>
+	</rtept>
+	<rtept lat="22.8" lon="-119.3">
+		<name>ILN021</name>
+		<time>2006-08-26T15:00:00Z</time>
+	</rtept>
+	<rtept lat="22.8" lon="-119.2">
+		<name>ILN022</name>
+		<time>2006-08-26T21:00:00Z</time>
+	</rtept>
+	<rtept lat="23.2" lon="-119.8">
+		<name>ILN023</name>
+		<time>2006-08-27T03:00:00Z</time>
+	</rtept>
+	<rtept lat="23.4" lon="-120.1">
+		<name>ILN024</name>
+		<time>2006-08-27T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.6" lon="-120.9">
+		<name>ILN025</name>
+		<time>2006-08-27T15:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>JOHN</name>
+	<rtept lat="13.2" lon="-95.7">
+		<name>JOHN001</name>
+		<time>2006-08-28T15:00:00Z</time>
+	</rtept>
+	<rtept lat="13.4" lon="-96.7">
+		<name>JOHN002</name>
+		<time>2006-08-28T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.9" lon="-97.3">
+		<name>JOHN003</name>
+		<time>2006-08-29T03:00:00Z</time>
+	</rtept>
+	<rtept lat="13.9" lon="-97.8">
+		<name>JOHN004</name>
+		<time>2006-08-29T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.3" lon="-99.0">
+		<name>JOHN005</name>
+		<time>2006-08-29T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.4" lon="-99.7">
+		<name>JOHN006</name>
+		<time>2006-08-29T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.2" lon="-100.4">
+		<name>JOHN007</name>
+		<time>2006-08-30T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.6" lon="-101.3">
+		<name>JOHN008</name>
+		<time>2006-08-30T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.6" lon="-102.3">
+		<name>JOHN009</name>
+		<time>2006-08-30T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.4" lon="-103.3">
+		<name>JOHN010</name>
+		<time>2006-08-30T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.1" lon="-104.5">
+		<name>JOHN011</name>
+		<time>2006-08-31T03:00:00Z</time>
+	</rtept>
+	<rtept lat="18.7" lon="-105.3">
+		<name>JOHN012</name>
+		<time>2006-08-31T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.5" lon="-106.5">
+		<name>JOHN013</name>
+		<time>2006-08-31T15:00:00Z</time>
+	</rtept>
+	<rtept lat="20.7" lon="-107.0">
+		<name>JOHN014</name>
+		<time>2006-08-31T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.4" lon="-107.8">
+		<name>JOHN015</name>
+		<time>2006-09-01T03:00:00Z</time>
+	</rtept>
+	<rtept lat="21.7" lon="-108.8">
+		<name>JOHN016</name>
+		<time>2006-09-01T09:00:00Z</time>
+	</rtept>
+	<rtept lat="22.0" lon="-108.8">
+		<name>JOHN017</name>
+		<time>2006-09-01T15:00:00Z</time>
+	</rtept>
+	<rtept lat="22.8" lon="-109.0">
+		<name>JOHN018</name>
+		<time>2006-09-01T21:00:00Z</time>
+	</rtept>
+	<rtept lat="23.4" lon="-109.6">
+		<name>JOHN019</name>
+		<time>2006-09-02T03:00:00Z</time>
+	</rtept>
+	<rtept lat="24.2" lon="-110.2">
+		<name>JOHN020</name>
+		<time>2006-09-02T09:00:00Z</time>
+	</rtept>
+	<rtept lat="24.5" lon="-110.8">
+		<name>JOHN021</name>
+		<time>2006-09-02T15:00:00Z</time>
+	</rtept>
+	<rtept lat="25.0" lon="-111.2">
+		<name>JOHN022</name>
+		<time>2006-09-02T21:00:00Z</time>
+	</rtept>
+	<rtept lat="25.6" lon="-111.7">
+		<name>JOHN023</name>
+		<time>2006-09-03T03:00:00Z</time>
+	</rtept>
+	<rtept lat="26.3" lon="-112.1">
+		<name>JOHN024</name>
+		<time>2006-09-03T09:00:00Z</time>
+	</rtept>
+	<rtept lat="27.1" lon="-112.5">
+		<name>JOHN025</name>
+		<time>2006-09-03T15:00:00Z</time>
+	</rtept>
+	<rtept lat="27.6" lon="-112.7">
+		<name>JOHN026</name>
+		<time>2006-09-03T21:00:00Z</time>
+	</rtept>
+	<rtept lat="28.2" lon="-113.1">
+		<name>JOHN027</name>
+		<time>2006-09-04T03:00:00Z</time>
+	</rtept>
+	<rtept lat="28.4" lon="-113.1">
+		<name>JOHN028</name>
+		<time>2006-09-04T09:00:00Z</time>
+	</rtept>
+	<rtept lat="29.2" lon="-113.3">
+		<name>JOHN029</name>
+		<time>2006-09-04T15:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>KRISTY</name>
+	<rtept lat="16.2" lon="-114.2">
+		<name>KRSTY001</name>
+		<time>2006-08-30T05:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-114.7">
+		<name>KRSTY002</name>
+		<time>2006-08-30T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.7" lon="-115.1">
+		<name>KRSTY003</name>
+		<time>2006-08-30T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-115.6">
+		<name>KRSTY004</name>
+		<time>2006-08-30T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.2" lon="-115.7">
+		<name>KRSTY005</name>
+		<time>2006-08-31T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.6" lon="-116.1">
+		<name>KRSTY006</name>
+		<time>2006-08-31T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.9" lon="-116.5">
+		<name>KRSTY007</name>
+		<time>2006-08-31T15:00:00Z</time>
+	</rtept>
+	<rtept lat="18.4" lon="-117.2">
+		<name>KRSTY008</name>
+		<time>2006-08-31T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.3" lon="-117.8">
+		<name>KRSTY009</name>
+		<time>2006-09-01T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.3" lon="-118.1">
+		<name>KRSTY010</name>
+		<time>2006-09-01T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.3" lon="-118.3">
+		<name>KRSTY011</name>
+		<time>2006-09-01T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.2" lon="-118.5">
+		<name>KRSTY012</name>
+		<time>2006-09-01T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.0" lon="-119.1">
+		<name>KRSTY013</name>
+		<time>2006-09-02T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.0" lon="-119.0">
+		<name>KRSTY014</name>
+		<time>2006-09-02T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.8" lon="-118.9">
+		<name>KRSTY015</name>
+		<time>2006-09-02T15:00:00Z</time>
+	</rtept>
+	<rtept lat="18.3" lon="-118.6">
+		<name>KRSTY016</name>
+		<time>2006-09-02T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.3" lon="-118.2">
+		<name>KRSTY017</name>
+		<time>2006-09-03T03:00:00Z</time>
+	</rtept>
+	<rtept lat="18.1" lon="-118.1">
+		<name>KRSTY018</name>
+		<time>2006-09-03T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.0" lon="-117.9">
+		<name>KRSTY019</name>
+		<time>2006-09-03T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.7" lon="-118.1">
+		<name>KRSTY020</name>
+		<time>2006-09-03T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.8" lon="-118.4">
+		<name>KRSTY021</name>
+		<time>2006-09-04T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.5" lon="-118.6">
+		<name>KRSTY022</name>
+		<time>2006-09-04T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.7" lon="-119.0">
+		<name>KRSTY023</name>
+		<time>2006-09-04T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.2" lon="-119.3">
+		<name>KRSTY024</name>
+		<time>2006-09-04T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.2" lon="-119.8">
+		<name>KRSTY025</name>
+		<time>2006-09-05T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.2" lon="-120.5">
+		<name>KRSTY026</name>
+		<time>2006-09-05T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.4" lon="-121.5">
+		<name>KRSTY027</name>
+		<time>2006-09-05T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.7" lon="-122.8">
+		<name>KRSTY028</name>
+		<time>2006-09-05T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.1" lon="-123.9">
+		<name>KRSTY029</name>
+		<time>2006-09-06T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.3" lon="-125.2">
+		<name>KRSTY030</name>
+		<time>2006-09-06T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-126.9">
+		<name>KRSTY031</name>
+		<time>2006-09-06T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-127.9">
+		<name>KRSTY032</name>
+		<time>2006-09-06T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-128.7">
+		<name>KRSTY033</name>
+		<time>2006-09-07T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-129.6">
+		<name>KRSTY034</name>
+		<time>2006-09-07T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.4" lon="-130.2">
+		<name>KRSTY035</name>
+		<time>2006-09-07T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.9" lon="-130.4">
+		<name>KRSTY036</name>
+		<time>2006-09-07T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.4" lon="-131.3">
+		<name>KRSTY037</name>
+		<time>2006-09-08T03:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>LANE</name>
+	<rtept lat="16.0" lon="-101.5">
+		<name>LANE001</name>
+		<time>2006-09-13T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.6" lon="-102.4">
+		<name>LANE002</name>
+		<time>2006-09-14T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.9" lon="-102.9">
+		<name>LANE003</name>
+		<time>2006-09-14T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.5" lon="-104.3">
+		<name>LANE004</name>
+		<time>2006-09-14T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.9" lon="-105.2">
+		<name>LANE005</name>
+		<time>2006-09-14T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.4" lon="-105.3">
+		<name>LANE006</name>
+		<time>2006-09-15T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.1" lon="-106.0">
+		<name>LANE007</name>
+		<time>2006-09-15T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.7" lon="-106.2">
+		<name>LANE008</name>
+		<time>2006-09-15T15:00:00Z</time>
+	</rtept>
+	<rtept lat="20.6" lon="-106.3">
+		<name>LANE009</name>
+		<time>2006-09-15T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.7" lon="-106.8">
+		<name>LANE010</name>
+		<time>2006-09-16T03:00:00Z</time>
+	</rtept>
+	<rtept lat="22.7" lon="-107.0">
+		<name>LANE011</name>
+		<time>2006-09-16T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.5" lon="-107.1">
+		<name>LANE012</name>
+		<time>2006-09-16T15:00:00Z</time>
+	</rtept>
+	<rtept lat="24.4" lon="-107.2">
+		<name>LANE013</name>
+		<time>2006-09-16T21:00:00Z</time>
+	</rtept>
+	<rtept lat="25.0" lon="-107.4">
+		<name>LANE014</name>
+		<time>2006-09-17T03:00:00Z</time>
+	</rtept>
+	<rtept lat="25.6" lon="-107.4">
+		<name>LANE015</name>
+		<time>2006-09-17T09:00:00Z</time>
+	</rtept>
+	<rtept lat="26.3" lon="-107.6">
+		<name>LANE016</name>
+		<time>2006-09-17T15:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>MIRIAM</name>
+	<rtept lat="17.5" lon="-114.4">
+		<name>MRM001</name>
+		<time>2006-09-16T12:00:00Z</time>
+	</rtept>
+	<rtept lat="17.8" lon="-114.2">
+		<name>MRM002</name>
+		<time>2006-09-16T15:00:00Z</time>
+	</rtept>
+	<rtept lat="18.2" lon="-114.3">
+		<name>MRM003</name>
+		<time>2006-09-16T21:00:00Z</time>
+	</rtept>
+	<rtept lat="18.4" lon="-114.4">
+		<name>MRM004</name>
+		<time>2006-09-17T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.1" lon="-113.9">
+		<name>MRM005</name>
+		<time>2006-09-17T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.2" lon="-113.9">
+		<name>MRM006</name>
+		<time>2006-09-17T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.3" lon="-114.0">
+		<name>MRM007</name>
+		<time>2006-09-17T21:00:00Z</time>
+	</rtept>
+	<rtept lat="19.4" lon="-114.1">
+		<name>MRM008</name>
+		<time>2006-09-18T03:00:00Z</time>
+	</rtept>
+	<rtept lat="19.9" lon="-113.7">
+		<name>MRM009</name>
+		<time>2006-09-18T09:00:00Z</time>
+	</rtept>
+	<rtept lat="20.1" lon="-113.8">
+		<name>MRM010</name>
+		<time>2006-09-18T15:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>NORMAN</name>
+	<rtept lat="14.7" lon="-117.3">
+		<name>NRMN001</name>
+		<time>2006-10-09T04:00:00Z</time>
+	</rtept>
+	<rtept lat="15.3" lon="-117.6">
+		<name>NRMN002</name>
+		<time>2006-10-09T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-117.6">
+		<name>NRMN003</name>
+		<time>2006-10-09T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.2" lon="-117.9">
+		<name>NRMN004</name>
+		<time>2006-10-09T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.9" lon="-117.8">
+		<name>NRMN005</name>
+		<time>2006-10-10T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-117.8">
+		<name>NRMN006</name>
+		<time>2006-10-10T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-117.9">
+		<name>NRMN007</name>
+		<time>2006-10-10T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-117.7">
+		<name>NRMN008</name>
+		<time>2006-10-10T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.8" lon="-117.1">
+		<name>NRMN009</name>
+		<time>2006-10-11T03:00:00Z</time>
+	</rtept>
+	<rtept lat="18.1" lon="-105.1">
+		<name>NRMN010</name>
+		<time>2006-10-15T09:00:00Z</time>
+	</rtept>
+	<rtept lat="19.0" lon="-104.8">
+		<name>NRMN011</name>
+		<time>2006-10-15T15:00:00Z</time>
+	</rtept>
+	<rtept lat="19.2" lon="-104.7">
+		<name>NRMN012</name>
+		<time>2006-10-15T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>OLIVIA</name>
+	<rtept lat="12.8" lon="-127.9">
+		<name>OLV001</name>
+		<time>2006-10-09T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.3" lon="-127.7">
+		<name>OLV002</name>
+		<time>2006-10-10T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.0" lon="-127.7">
+		<name>OLV003</name>
+		<time>2006-10-10T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.6" lon="-127.5">
+		<name>OLV004</name>
+		<time>2006-10-10T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.9" lon="-126.0">
+		<name>OLV005</name>
+		<time>2006-10-10T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-125.4">
+		<name>OLV006</name>
+		<time>2006-10-11T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.9" lon="-124.7">
+		<name>OLV007</name>
+		<time>2006-10-11T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-124.5">
+		<name>OLV008</name>
+		<time>2006-10-11T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-123.6">
+		<name>OLV009</name>
+		<time>2006-10-11T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.3" lon="-122.7">
+		<name>OLV010</name>
+		<time>2006-10-12T03:00:00Z</time>
+	</rtept>
+	<rtept lat="17.6" lon="-121.9">
+		<name>OLV011</name>
+		<time>2006-10-12T09:00:00Z</time>
+	</rtept>
+	<rtept lat="17.7" lon="-121.1">
+		<name>OLV012</name>
+		<time>2006-10-12T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.5" lon="-120.4">
+		<name>OLV013</name>
+		<time>2006-10-12T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>PAUL</name>
+	<rtept lat="15.5" lon="-105.9">
+		<name>PAUL001</name>
+		<time>2006-10-21T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.0" lon="-106.9">
+		<name>PAUL002</name>
+		<time>2006-10-21T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.1" lon="-107.4">
+		<name>PAUL003</name>
+		<time>2006-10-21T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.9" lon="-108.0">
+		<name>PAUL004</name>
+		<time>2006-10-22T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-108.9">
+		<name>PAUL005</name>
+		<time>2006-10-22T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.3" lon="-109.1">
+		<name>PAUL006</name>
+		<time>2006-10-22T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.9" lon="-110.7">
+		<name>PAUL007</name>
+		<time>2006-10-22T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.1" lon="-111.1">
+		<name>PAUL008</name>
+		<time>2006-10-23T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.2" lon="-111.5">
+		<name>PAUL009</name>
+		<time>2006-10-23T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.5" lon="-111.5">
+		<name>PAUL010</name>
+		<time>2006-10-23T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-111.6">
+		<name>PAUL011</name>
+		<time>2006-10-23T21:00:00Z</time>
+	</rtept>
+	<rtept lat="17.6" lon="-111.7">
+		<name>PAUL012</name>
+		<time>2006-10-24T03:00:00Z</time>
+	</rtept>
+	<rtept lat="18.6" lon="-111.4">
+		<name>PAUL013</name>
+		<time>2006-10-24T09:00:00Z</time>
+	</rtept>
+	<rtept lat="18.9" lon="-112.0">
+		<name>PAUL014</name>
+		<time>2006-10-24T15:00:00Z</time>
+	</rtept>
+	<rtept lat="20.3" lon="-111.3">
+		<name>PAUL015</name>
+		<time>2006-10-24T21:00:00Z</time>
+	</rtept>
+	<rtept lat="21.1" lon="-110.5">
+		<name>PAUL016</name>
+		<time>2006-10-25T03:00:00Z</time>
+	</rtept>
+	<rtept lat="21.8" lon="-109.9">
+		<name>PAUL017</name>
+		<time>2006-10-25T09:00:00Z</time>
+	</rtept>
+	<rtept lat="23.0" lon="-108.8">
+		<name>PAUL018</name>
+		<time>2006-10-25T15:00:00Z</time>
+	</rtept>
+	<rtept lat="24.0" lon="-107.5">
+		<name>PAUL019</name>
+		<time>2006-10-25T21:00:00Z</time>
+	</rtept>
+	<rtept lat="24.4" lon="-108.1">
+		<name>PAUL020</name>
+		<time>2006-10-25T23:00:00Z</time>
+	</rtept>
+	<rtept lat="24.7" lon="-108.1">
+		<name>PAUL021</name>
+		<time>2006-10-26T03:00:00Z</time>
+	</rtept>
+	<rtept lat="25.2" lon="-107.8">
+		<name>PAUL022</name>
+		<time>2006-10-26T09:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>EIGHTEEN-E</name>
+	<rtept lat="16.8" lon="-104.2">
+		<name>EGHTN001</name>
+		<time>2006-10-26T15:00:00Z</time>
+	</rtept>
+	<rtept lat="17.0" lon="-104.7">
+		<name>EGHTN002</name>
+		<time>2006-10-26T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.9" lon="-105.6">
+		<name>EGHTN003</name>
+		<time>2006-10-27T03:00:00Z</time>
+	</rtept>
+	<rtept lat="16.6" lon="-106.4">
+		<name>EGHTN004</name>
+		<time>2006-10-27T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-105.2">
+		<name>EGHTN005</name>
+		<time>2006-10-27T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.6" lon="-105.8">
+		<name>EGHTN006</name>
+		<time>2006-10-27T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-106.1">
+		<name>EGHTN007</name>
+		<time>2006-10-28T03:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>ROSA</name>
+	<rtept lat="12.7" lon="-104.5">
+		<name>ROSA001</name>
+		<time>2006-11-08T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.6" lon="-104.3">
+		<name>ROSA002</name>
+		<time>2006-11-08T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.3" lon="-104.3">
+		<name>ROSA003</name>
+		<time>2006-11-08T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.6" lon="-105.1">
+		<name>ROSA004</name>
+		<time>2006-11-09T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.8" lon="-105.4">
+		<name>ROSA005</name>
+		<time>2006-11-09T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.7" lon="-105.4">
+		<name>ROSA006</name>
+		<time>2006-11-09T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.8" lon="-105.4">
+		<name>ROSA007</name>
+		<time>2006-11-09T21:00:00Z</time>
+	</rtept>
+	<rtept lat="16.1" lon="-105.4">
+		<name>ROSA008</name>
+		<time>2006-11-10T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.7" lon="-105.9">
+		<name>ROSA009</name>
+		<time>2006-11-10T09:00:00Z</time>
+	</rtept>
+	<rtept lat="16.1" lon="-106.1">
+		<name>ROSA010</name>
+		<time>2006-11-10T15:00:00Z</time>
+	</rtept>
+	<rtept lat="16.2" lon="-106.5">
+		<name>ROSA011</name>
+		<time>2006-11-10T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>TWENTY-E</name>
+	<rtept lat="13.0" lon="-113.0">
+		<name>TWNTY001</name>
+		<time>2006-11-11T09:00:00Z</time>
+	</rtept>
+	<rtept lat="12.3" lon="-113.2">
+		<name>TWNTY002</name>
+		<time>2006-11-11T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.0" lon="-114.0">
+		<name>TWNTY003</name>
+		<time>2006-11-11T21:00:00Z</time>
+	</rtept>
+</rte>
+<rte>
+	<name>SERGIO</name>
+	<rtept lat="12.9" lon="-104.5">
+		<name>SRG001</name>
+		<time>2006-11-14T05:00:00Z</time>
+	</rtept>
+	<rtept lat="13.0" lon="-104.6">
+		<name>SRG002</name>
+		<time>2006-11-14T09:00:00Z</time>
+	</rtept>
+	<rtept lat="13.2" lon="-104.5">
+		<name>SRG003</name>
+		<time>2006-11-14T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.8" lon="-104.5">
+		<name>SRG004</name>
+		<time>2006-11-14T21:00:00Z</time>
+	</rtept>
+	<rtept lat="12.8" lon="-104.3">
+		<name>SRG005</name>
+		<time>2006-11-15T03:00:00Z</time>
+	</rtept>
+	<rtept lat="12.6" lon="-104.2">
+		<name>SRG006</name>
+		<time>2006-11-15T09:00:00Z</time>
+	</rtept>
+	<rtept lat="12.1" lon="-103.9">
+		<name>SRG007</name>
+		<time>2006-11-15T15:00:00Z</time>
+	</rtept>
+	<rtept lat="12.1" lon="-103.7">
+		<name>SRG008</name>
+		<time>2006-11-15T17:00:00Z</time>
+	</rtept>
+	<rtept lat="12.0" lon="-103.6">
+		<name>SRG009</name>
+		<time>2006-11-15T21:00:00Z</time>
+	</rtept>
+	<rtept lat="12.3" lon="-103.2">
+		<name>SRG010</name>
+		<time>2006-11-16T03:00:00Z</time>
+	</rtept>
+	<rtept lat="12.5" lon="-103.1">
+		<name>SRG011</name>
+		<time>2006-11-16T09:00:00Z</time>
+	</rtept>
+	<rtept lat="12.9" lon="-103.0">
+		<name>SRG012</name>
+		<time>2006-11-16T15:00:00Z</time>
+	</rtept>
+	<rtept lat="13.6" lon="-102.8">
+		<name>SRG013</name>
+		<time>2006-11-16T21:00:00Z</time>
+	</rtept>
+	<rtept lat="13.8" lon="-102.7">
+		<name>SRG014</name>
+		<time>2006-11-17T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.0" lon="-102.8">
+		<name>SRG015</name>
+		<time>2006-11-17T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.2" lon="-102.5">
+		<name>SRG016</name>
+		<time>2006-11-17T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.0" lon="-102.6">
+		<name>SRG017</name>
+		<time>2006-11-17T21:00:00Z</time>
+	</rtept>
+	<rtept lat="14.5" lon="-103.1">
+		<name>SRG018</name>
+		<time>2006-11-18T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.9" lon="-103.3">
+		<name>SRG019</name>
+		<time>2006-11-18T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.2" lon="-104.1">
+		<name>SRG020</name>
+		<time>2006-11-18T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.6" lon="-104.7">
+		<name>SRG021</name>
+		<time>2006-11-18T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.7" lon="-105.1">
+		<name>SRG022</name>
+		<time>2006-11-19T03:00:00Z</time>
+	</rtept>
+	<rtept lat="15.6" lon="-105.2">
+		<name>SRG023</name>
+		<time>2006-11-19T09:00:00Z</time>
+	</rtept>
+	<rtept lat="15.3" lon="-105.5">
+		<name>SRG024</name>
+		<time>2006-11-19T15:00:00Z</time>
+	</rtept>
+	<rtept lat="15.1" lon="-105.9">
+		<name>SRG025</name>
+		<time>2006-11-19T21:00:00Z</time>
+	</rtept>
+	<rtept lat="15.0" lon="-106.4">
+		<name>SRG026</name>
+		<time>2006-11-20T03:00:00Z</time>
+	</rtept>
+	<rtept lat="14.8" lon="-106.7">
+		<name>SRG027</name>
+		<time>2006-11-20T09:00:00Z</time>
+	</rtept>
+	<rtept lat="14.9" lon="-107.2">
+		<name>SRG028</name>
+		<time>2006-11-20T15:00:00Z</time>
+	</rtept>
+	<rtept lat="14.9" lon="-108.0">
+		<name>SRG029</name>
+		<time>2006-11-20T21:00:00Z</time>
+	</rtept>
+</rte>
+</gpx>

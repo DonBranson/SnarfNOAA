@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 1.4.1_02-b06 (Sun Microsystems Inc.)
+Main-Class: com.moneybender.noaa.FetchNOAATest
+Class-Path: junit.jar log4j-1.2.8.jar
