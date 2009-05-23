@@ -1,10 +1,9 @@
+To load data.  You can skip this step, there's already data in the project.
+  edit fetchnoaa.properties, changing the two year references to the year you want
+  ant load-data
+
 To run:
   ant
-
-To load data:
-  edit fetchnoaa.properties, changing the two year references to the year you want
-  ant
-
 
 That will start the viewer.  Click on a year to see the storm tracks for that year.  Click on a storm to
 see that track in red.
