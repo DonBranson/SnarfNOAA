@@ -47,15 +47,15 @@ public class NOAAHurricaneData {
 			StringTokenizer st = new StringTokenizer(indexContent, "\n");
 			while(st.hasMoreTokens()){
 				String line = st.nextToken();
-				if(line.matches("<a href=\".*.shtml.\">.*</a><br>.*")){
+				if(line.matches(".*<a href=\".*.shtml.\">.*</a><br>.*")){
 					if(log.isDebugEnabled())
 						log.debug("line:" + line);
-					String storm = line.replaceAll("^<a href=\".*.shtml.\">", "");
+					String storm = line.replaceAll("^.*<a href=\".*.shtml.\">", "");
 					storm = storm.replaceAll("</a><br>.*$", "").replaceAll("^.*  *", "").replaceAll("[*]", "");
 					if(log.isDebugEnabled())
 						log.debug("storm:" + storm);
 
-					String stormFile = line.replaceAll("^<a href=\"", "");
+					String stormFile = line.replaceAll("^.*<a href=\"", "");
 					stormFile = stormFile.replaceAll("[?]\">.*$", "");
 					if(log.isDebugEnabled())
 						log.debug("storm file:" + stormFile);
