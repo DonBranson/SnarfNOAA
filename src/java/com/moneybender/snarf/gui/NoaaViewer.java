@@ -374,6 +374,7 @@ public class NoaaViewer {
 	protected TreeModel createSampleTreeModel() {
 		DefaultMutableTreeNode root = new DefaultMutableTreeNode("Storms");
 		
+		years.put("2012", addStormsFromYear(root, "2012"));
 		years.put("2011", addStormsFromYear(root, "2011"));
 		years.put("2010", addStormsFromYear(root, "2010"));
 		years.put("2009", addStormsFromYear(root, "2009"));
